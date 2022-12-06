@@ -1,0 +1,66 @@
+1. บันทึกผลลัพธ์ที่ได้หลังติดตั้ง Disk Storage เพื่อรองรับการทำงานในรูปแบบของ RAID โดยจะต้องใช้ File System เป็น Linux raid autodetect ของ Disk ทั้งหมดด้วยโปรแกรม
+fdisk -I /dev/sd...
+2. บันทึกผลลัพธ์ที่ได้หลังสร้าง RAID ของกลุ่ม Disk ทั้ง 2 ชุด ผ่านคำสั่ง
+mdadm -detail /dev/md...
+cat /proc/mdstat
+
+3. บันทึกผลลัพธ์ที่ได้หลังสร้าง RAID50 ของกลุ่ม Disk ผ่านคำสั่ง 
+mdadm -detail /dev/md.... cat /proc/mdstat
+
+4. บันทึกผลลัพธ์ที่ได้หลัง mount ไปยัง Directory storage_RAID ที่ผ่านการกำหนด file System ประกอบกับผลลัพธ์ที่ได้จากการใช้คำสั่ง 
+df -h /Storage_RAID
+
+5. บันทึกผลลัพธ์ที่ได้หลังจัดการข้อมูลของพนักงานตามกลุ่มต่างๆ ที่กำหนด
+6. บันทึกผลลัพธ์ที่ได้หลั่งจัดการข้อมูล Permission Files ต่างๆ ในแต่ละบุคคล ว่ามีสิทธิ์ในการเข้าถึง file/directory นั้น
+7. บันทึกผลลัพธ์ที่เกี่ยวข้องกับการสร้างไฟล์โปรแกรม (program.sh) พร้อมบันทึกผลการทดสอบตาม function ต่างๆ ว่าโปรแกรมนั้นสามารถทำงานได้ตามที่กำหนด โดยมีรายละเอียดดังนี้
+-โปรแกรมสามารถสร้างไฟล์ได้
+-โปรแกรมสามารถแก้ไขสิทธิ์ในการเข้าถึงและใช้งานไฟล์ได้
+-โปรแกรมสามารถลบไฟล์ได้
+-โปรแกรมสามารถแสดงรายละเอียดของไฟล์ได้
+8. ติดตั้งเครื่องเซิร์ฟเวอร์ที่รองรับการให้บริการเว็บซต้ ของหน่วยงาน ด้วยโปรแกรมภาษา PHP พร้อมเชื่อมต่อฐานข้อมูลของ MariaDB
+9. สร้างไฟล์ .html .php เพื่อให้รองรับการบันทึข้อมูลจากแบบฟอร์มลงทะเบียนความเชี่ยวชาญผ่านเว็บไซต้ โดยค่าที่จัดเก็บจะต้องถูกบันทึกลงในฐานข้อมูล MariaDB ที่สร้างขึ้น ทั้งนี้ให้นักศึกษาทำการสร้างฐานข้อมูลเพื่อใช้ในการจัดเก็บข้อมูลขึ้นเองตามความเหมาะสม
+หมายเหตุ นักศึกษาสามารถตั้งค่ระบบเครือข่ายและตั้งค่ firewal! เป็น public ผ่านระบบปฏิบัติการ หรือ Virtual Machine ได้เองโดยไม่จำเป็นจะต้องใช้ของทางมหาวิทยาลัย
+
+
+cat /etc/group
+groupadd -g 800 redgroup
+groupadd -g 900 yellowgroup
+
+groupmod -g 901 Group_A
+groupmod -n Group_IT Group_A
+groupdel Group_IT
+
+useradd adam
+passwd adam
+
+ls /home/ -l
+cat /etc/passwd
+usermod -l Adam adam
+
+usermod -g redgroup adam
+usermod -G redgroup,yellow tony
+
+userdel -rf adam
+
+id adam
+id tony
+id frame
+
+chmod 777 share_dir
+chgrp redgroup new_program.sh
+------------------------
+login root
+fdisk -l
+fdisk /dev/sda
+
+mdadm --create /dev/md0 --level=0 -raid-devices=2 /dev/sdb1 /devsdc1
+
+mdadm --create /dev/md0 --level=1 -raid-devices=2 /dev/sdd1 /devsde1
+
+mdadm --detail /dev/md0
+cat /etc/mdstat
+
+mkfs.ext3 /dev/md3
+
+mount /dev/md3 share_dir
+df -h /share_dir
