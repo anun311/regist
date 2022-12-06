@@ -33,7 +33,7 @@ case "$vnum" in
 	;;
 	"4") echo -n "File name: "; read var_chnfile;
 		echo -n "Change permission $var_chnfile to (000-777) :"; read var_perfile;
-		chmod $var_perfile $input/$var_chnfile;
+		chmod $var_perfile $var_chnfile;
 		ls -l $var_chnfile;
 		echo "Change Permission Success!"
 	;;
