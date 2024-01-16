@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T15:16:26.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Im01tuVNv6mX34CZ3KrJ" version="22.1.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-16T15:18:49.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="rEQJ7x6Ty0WQCwC9L6jJ" version="22.1.18" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
-    <mxGraphModel dx="1205" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1701" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,9 +184,11 @@
         <mxCell id="dQZI6s-5HtwPCw9mTZus-4" value="กิจกรรมที่ดำเนินการ:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="40" y="100" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dQZI6s-5HtwPCw9mTZus-5" value="1. Condoms&amp;nbsp;สนับสนุนถุงยางอนามัยและสารหล่อลื่น&lt;br&gt;2.&amp;nbsp;PrEP การจ่ายยา PrEP ในกลุ่มประชากร&lt;br&gt;3.&amp;nbsp;Index partner testing&amp;nbsp;การให้บริการชวนคู่ของผู้ติดเชื้อเอชไอวีมาตรวจหาการติดเชื้อเอชไอวี&lt;br&gt;4.&amp;nbsp;Youth กลุ่มเยาวชน&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="240" y="100" width="920" height="90" as="geometry" />
-        </mxCell>
+        <UserObject label="1. Condoms&amp;nbsp;สนับสนุนถุงยางอนามัยและสารหล่อลื่น&lt;br&gt;2.&amp;nbsp;PrEP การจ่ายยา PrEP ในกลุ่มประชากร&lt;br&gt;3.&amp;nbsp;Index partner testing&amp;nbsp;การให้บริการชวนคู่ของผู้ติดเชื้อเอชไอวีมาตรวจหาการติดเชื้อเอชไอวี&lt;br&gt;4.&amp;nbsp;Youth กลุ่มเยาวชน&amp;nbsp;" id="dQZI6s-5HtwPCw9mTZus-5">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+            <mxGeometry x="240" y="100" width="920" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="dQZI6s-5HtwPCw9mTZus-7" value="กระทำในระบบ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1005" width="120" height="40" as="geometry" />
         </mxCell>
