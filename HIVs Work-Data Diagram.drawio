@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T10:09:39.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="jphqr3F9bLmDWRjstgz6" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T10:12:04.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="naL_B30FMZW57DBeGxVe" version="22.1.18" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1188" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
         </mxCell>
         <mxCell id="vW1-sG7XQybwzOpCdIC6-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="vW1-sG7XQybwzOpCdIC6-28" target="vW1-sG7XQybwzOpCdIC6-45" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="724" y="390" as="targetPoint" />
+            <mxPoint x="721" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EJFhG_xvfswVd12eMsBA-5" value="NGO ภายนอก" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
