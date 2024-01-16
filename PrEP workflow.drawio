@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T11:02:28.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="r2QqW55eC34Clz0Usdla" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T11:02:40.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="VieCdrzWrr54f4BFmO59" version="22.1.18" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1240" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
             <mxPoint x="249" y="50" as="sourcePoint" />
             <mxPoint x="600" y="50" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HF9op6qbkQqd7dtjPycm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HF9op6qbkQqd7dtjPycm-26" source="HF9op6qbkQqd7dtjPycm-46" target="HF9op6qbkQqd7dtjPycm-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HF9op6qbkQqd7dtjPycm-46" value="เรียกดูรายงาน&lt;br&gt;ผลการดำเนินงาน" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="HF9op6qbkQqd7dtjPycm-26">
           <mxGeometry x="940" y="27.5" width="190" height="65" as="geometry" />
