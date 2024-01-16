@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T09:59:03.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="8a5_twolOUKdMzSswAZK" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T10:05:31.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="JCJ76xYqeZHttsvhsyyq" version="22.1.18" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="920" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1097" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,6 +25,9 @@
         <mxCell id="MBqHi0RIl6pIaIw_45iy-13" value="NAP สปสช." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;" parent="MBqHi0RIl6pIaIw_45iy-1" vertex="1">
           <mxGeometry x="20" y="120" width="1460" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="HF9op6qbkQqd7dtjPycm-14" value="NAP+" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" vertex="1" parent="MBqHi0RIl6pIaIw_45iy-13">
+          <mxGeometry x="648" y="25" width="136" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="MBqHi0RIl6pIaIw_45iy-17" value="สคร./สสจ." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;" parent="MBqHi0RIl6pIaIw_45iy-1" vertex="1">
           <mxGeometry x="20" y="240" width="1460" height="120" as="geometry" />
         </mxCell>
@@ -32,19 +35,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HF9op6qbkQqd7dtjPycm-15" value="ติดตามสถานการณ์&lt;br&gt;การเบิกจ่ายยาฯ รายพื้นที่" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="MBqHi0RIl6pIaIw_45iy-17">
-          <mxGeometry x="727.5" y="30" width="200" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="HF9op6qbkQqd7dtjPycm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="MBqHi0RIl6pIaIw_45iy-17" source="HF9op6qbkQqd7dtjPycm-14" target="HF9op6qbkQqd7dtjPycm-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HF9op6qbkQqd7dtjPycm-14" value="NAP+" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" vertex="1" parent="MBqHi0RIl6pIaIw_45iy-17">
-          <mxGeometry x="660" y="-95" width="136" height="70" as="geometry" />
+          <mxGeometry x="740" y="25" width="200" height="65" as="geometry" />
         </mxCell>
         <mxCell id="MBqHi0RIl6pIaIw_45iy-19" value="เข้าระบบเพื่อดูรายงาน" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;align=center;" parent="MBqHi0RIl6pIaIw_45iy-17" vertex="1">
-          <mxGeometry x="1017.5" y="32.5" width="99" height="60" as="geometry" />
+          <mxGeometry x="1220" y="30" width="99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MBqHi0RIl6pIaIw_45iy-35" value="ติดตามสถานการณ์และออกมาตรการ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;align=center;" parent="MBqHi0RIl6pIaIw_45iy-17" vertex="1">
-          <mxGeometry x="1147.5" y="32.5" width="99" height="60" as="geometry" />
+          <mxGeometry x="1350" y="30" width="99" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MBqHi0RIl6pIaIw_45iy-21" value="หน่วยบริการ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;" parent="MBqHi0RIl6pIaIw_45iy-1" vertex="1">
           <mxGeometry x="20" y="360" width="1460" height="120" as="geometry" />
@@ -53,7 +50,10 @@
           <mxGeometry x="81" y="27.5" width="191" height="65" as="geometry" />
         </mxCell>
         <mxCell id="HF9op6qbkQqd7dtjPycm-19" value="คีย์ข้อมูลการจ่ายยาฯ เพื่อการreimbursement จาก สปสช.&lt;br&gt;รายเคส" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="MBqHi0RIl6pIaIw_45iy-21">
-          <mxGeometry x="410" y="27.5" width="191" height="65" as="geometry" />
+          <mxGeometry x="400" y="27.5" width="201" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="HF9op6qbkQqd7dtjPycm-21" value="ติดตามสถานการณ์&lt;br&gt;การเบิกจ่ายยาฯ รายพื้นที่" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="MBqHi0RIl6pIaIw_45iy-21">
+          <mxGeometry x="940" y="27.5" width="200" height="65" as="geometry" />
         </mxCell>
         <mxCell id="HF9op6qbkQqd7dtjPycm-3" value="NGO ภายนอก" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;" vertex="1" parent="MBqHi0RIl6pIaIw_45iy-1">
           <mxGeometry x="20" y="480" width="1460" height="120" as="geometry" />
@@ -77,6 +77,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HF9op6qbkQqd7dtjPycm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MBqHi0RIl6pIaIw_45iy-1" source="HF9op6qbkQqd7dtjPycm-19" target="HF9op6qbkQqd7dtjPycm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HF9op6qbkQqd7dtjPycm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="MBqHi0RIl6pIaIw_45iy-1" source="HF9op6qbkQqd7dtjPycm-14" target="HF9op6qbkQqd7dtjPycm-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MBqHi0RIl6pIaIw_45iy-9" value="ร่วมมือกับ TUC ผลักดันการจัดบริการยา PrEP เข้าชุดสิทธิประโยชน์&lt;span id=&quot;docs-internal-guid-872f812b-7fff-6672-2b00-a25f9a93de14&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
