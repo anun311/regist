@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T14:10:06.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="xmym5dNuHzOP_Xb8cY9z" version="22.1.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-16T14:15:36.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="rx4oVYB3d2Jngovphue3" version="22.1.18" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
-    <mxGraphModel dx="1522" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,8 +84,11 @@
         <mxCell id="HEFYjMU2fkNLsEg8FPOW-1" value="ชุดสิทธิประโยชน์&lt;br&gt;การขอชดเชยถุงยางอนามัย" style="rounded=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
           <mxGeometry x="190" y="30" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HEFYjMU2fkNLsEg8FPOW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="dNxyNK7c78bLwvsdeMH5-21" source="HEFYjMU2fkNLsEg8FPOW-1" target="vW1-sG7XQybwzOpCdIC6-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jA2d7YymJRjin36Otq6Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;noJump=0;comic=0;enumerate=0;orthogonal=0;flowAnimation=0;ignoreEdge=0;snapToPoint=0;fixDash=0;backgroundOutline=0;metaEdit=0;jumpStyle=arc;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="HEFYjMU2fkNLsEg8FPOW-1" target="vW1-sG7XQybwzOpCdIC6-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="60" as="sourcePoint" />
+            <mxPoint x="354" y="421" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="สคร./สสจ." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="410" width="1320" height="120" as="geometry" />
@@ -108,12 +111,12 @@
         <mxCell id="vW1-sG7XQybwzOpCdIC6-47" value="ขอเบิกสนับสนุนถุงยางและสารหล่อลื่น+&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;รายงานยอดการใช้งานปีปัจจุบัน ยอดคงเหลือ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="EJFhG_xvfswVd12eMsBA-1" vertex="1">
           <mxGeometry x="60" y="30" width="249" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vW1-sG7XQybwzOpCdIC6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="vW1-sG7XQybwzOpCdIC6-48" target="vW1-sG7XQybwzOpCdIC6-21" edge="1">
+        <mxCell id="vW1-sG7XQybwzOpCdIC6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=arc;" parent="dNxyNK7c78bLwvsdeMH5-19" source="vW1-sG7XQybwzOpCdIC6-48" target="vW1-sG7XQybwzOpCdIC6-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="660" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vW1-sG7XQybwzOpCdIC6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="vW1-sG7XQybwzOpCdIC6-47" target="vW1-sG7XQybwzOpCdIC6-21" edge="1">
+        <mxCell id="vW1-sG7XQybwzOpCdIC6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=arc;" parent="dNxyNK7c78bLwvsdeMH5-19" source="vW1-sG7XQybwzOpCdIC6-47" target="vW1-sG7XQybwzOpCdIC6-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="530" as="sourcePoint" />
           </mxGeometry>
@@ -153,7 +156,7 @@
         <mxCell id="vW1-sG7XQybwzOpCdIC6-48" value="ขอเบิกสนับสนุนถุงยางและสารหล่อลื่น+&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;รายงานยอดการใช้งานปีปัจจุบัน ยอดคงเหลือ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="EJFhG_xvfswVd12eMsBA-5" vertex="1">
           <mxGeometry x="60" y="30" width="249" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vW1-sG7XQybwzOpCdIC6-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="vW1-sG7XQybwzOpCdIC6-49" target="vW1-sG7XQybwzOpCdIC6-21" edge="1">
+        <mxCell id="vW1-sG7XQybwzOpCdIC6-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;" parent="dNxyNK7c78bLwvsdeMH5-19" source="vW1-sG7XQybwzOpCdIC6-49" target="vW1-sG7XQybwzOpCdIC6-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dQZI6s-5HtwPCw9mTZus-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="HEFYjMU2fkNLsEg8FPOW-3" target="dQZI6s-5HtwPCw9mTZus-6">
@@ -196,20 +199,20 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7i-LERVDmYqNg7XQ0lNa" name="PrEP">
-    <mxGraphModel dx="2066" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iYbuata2bx76US4o_usM-1" value="PrEP - เพื่อลดการติดเชื้อรายใหม่" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontFamily=Tahoma;" parent="1" vertex="1">
+        <mxCell id="iYbuata2bx76US4o_usM-1" value="PrEP - เพื่อลดการติดเชื้อรายใหม่" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontFamily=Tahoma;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="40" y="240" width="1480" height="740" as="geometry" />
         </mxCell>
-        <mxCell id="iYbuata2bx76US4o_usM-2" value="แหล่งที่มาของยาฯ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;" parent="iYbuata2bx76US4o_usM-1" vertex="1">
+        <mxCell id="iYbuata2bx76US4o_usM-2" value="แหล่งที่มาของยาฯ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="iYbuata2bx76US4o_usM-1" vertex="1">
           <mxGeometry x="20" width="1460" height="130" as="geometry" />
         </mxCell>
         <mxCell id="iYbuata2bx76US4o_usM-3" value="&lt;span style=&quot;background-color: initial;&quot;&gt;การจัดหา และสนับสนุนยา PrEP&lt;/span&gt;&lt;br&gt;&lt;p style=&quot;margin: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ㆍกรมควบคุมโรค จะได้รับสนับสนุนยา PrEP จากกองทุนโลก ช่วงเดือนกรกฎาคม 2566&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px;&quot;&gt;ㆍกรมควบคุมโรค อนุมัติโครงการจัดซื้อยา PrEP เพื่อใช้ในกลุ่มนอกสิทธิบัตร์ทอง (Non - UC) ในการปิด&lt;span style=&quot;background-color: initial;&quot;&gt;ช่องว่างระหว่างรอข้อสรุปจากพระราชกฤษฎีกา จาก สปสช.&lt;/span&gt;&lt;/p&gt;? ทำ Stock มั้ย" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="iYbuata2bx76US4o_usM-2" vertex="1">
-          <mxGeometry x="50" y="20" width="800" height="70" as="geometry" />
+          <mxGeometry x="40" y="20" width="800" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="iYbuata2bx76US4o_usM-4" value="ก. ป้องกัน" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;" parent="iYbuata2bx76US4o_usM-1" vertex="1">
+        <mxCell id="iYbuata2bx76US4o_usM-4" value="ก. ป้องกัน" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="iYbuata2bx76US4o_usM-1" vertex="1">
           <mxGeometry x="20" y="130" width="1460" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iYbuata2bx76US4o_usM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="iYbuata2bx76US4o_usM-4" source="iYbuata2bx76US4o_usM-6" target="iYbuata2bx76US4o_usM-10" edge="1">
@@ -218,7 +221,7 @@
         <mxCell id="iYbuata2bx76US4o_usM-6" value="prepthai.net" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" parent="iYbuata2bx76US4o_usM-4" vertex="1">
           <mxGeometry x="280" y="25" width="136" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="iYbuata2bx76US4o_usM-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="iYbuata2bx76US4o_usM-4" vertex="1">
+        <mxCell id="iYbuata2bx76US4o_usM-7" value="Start" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="iYbuata2bx76US4o_usM-4" vertex="1">
           <mxGeometry x="50" y="45" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iYbuata2bx76US4o_usM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="iYbuata2bx76US4o_usM-4" source="iYbuata2bx76US4o_usM-7" target="iYbuata2bx76US4o_usM-6" edge="1">
@@ -236,7 +239,7 @@
         <mxCell id="iYbuata2bx76US4o_usM-11" value="วางแผน สนับสนุน ติดตาม พัฒนาศักยภาพหน่วยบริการสุขภาพในการจัดบริการเพร็พ (PrEP)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;align=center;" parent="iYbuata2bx76US4o_usM-4" vertex="1">
           <mxGeometry x="1220" y="30" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iYbuata2bx76US4o_usM-12" value="NAP สปสช." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;" parent="iYbuata2bx76US4o_usM-1" vertex="1">
+        <mxCell id="iYbuata2bx76US4o_usM-12" value="NAP สปสช." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="iYbuata2bx76US4o_usM-1" vertex="1">
           <mxGeometry x="20" y="250" width="1460" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iYbuata2bx76US4o_usM-13" value="NAP+" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" parent="iYbuata2bx76US4o_usM-12" vertex="1">
@@ -245,7 +248,7 @@
         <mxCell id="iYbuata2bx76US4o_usM-14" value="? ขอข้อมูล" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="iYbuata2bx76US4o_usM-12" vertex="1">
           <mxGeometry x="480" y="20" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iYbuata2bx76US4o_usM-15" value="สคร./สสจ." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;" parent="iYbuata2bx76US4o_usM-1" vertex="1">
+        <mxCell id="iYbuata2bx76US4o_usM-15" value="สคร./สสจ." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="iYbuata2bx76US4o_usM-1" vertex="1">
           <mxGeometry x="20" y="370" width="1460" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iYbuata2bx76US4o_usM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="iYbuata2bx76US4o_usM-15" source="iYbuata2bx76US4o_usM-17" target="iYbuata2bx76US4o_usM-18" edge="1">
@@ -257,11 +260,11 @@
         <mxCell id="iYbuata2bx76US4o_usM-18" value="ออกมาตรการและถ่ายทอด&lt;br&gt;ไปยังหน่วบริการ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;align=center;" parent="iYbuata2bx76US4o_usM-15" vertex="1">
           <mxGeometry x="1080" y="30" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iYbuata2bx76US4o_usM-19" value="หน่วยบริการ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;" parent="iYbuata2bx76US4o_usM-1" vertex="1">
+        <mxCell id="iYbuata2bx76US4o_usM-19" value="หน่วยบริการ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="iYbuata2bx76US4o_usM-1" vertex="1">
           <mxGeometry x="20" y="490" width="1460" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iYbuata2bx76US4o_usM-20" value="คีย์ข้อมูลเข้าระบบ&lt;br style=&quot;border-color: var(--border-color); font-family: Tahoma;&quot;&gt;&lt;span style=&quot;font-family: Tahoma;&quot;&gt;การจ่ายยาฯ&amp;nbsp;&lt;/span&gt;ความถี่: รายเดือน&lt;br&gt;*แล้วแต่รพ." style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="iYbuata2bx76US4o_usM-19" vertex="1">
-          <mxGeometry x="81" y="27.5" width="191" height="65" as="geometry" />
+          <mxGeometry x="60" y="27.5" width="191" height="65" as="geometry" />
         </mxCell>
         <mxCell id="iYbuata2bx76US4o_usM-21" value="คีย์ข้อมูลการจ่ายยาฯ เพื่อการ reimbursement จาก สปสช.&lt;br&gt;รายเคส" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="iYbuata2bx76US4o_usM-19" vertex="1">
           <mxGeometry x="400" y="27.5" width="201" height="65" as="geometry" />
@@ -269,7 +272,7 @@
         <mxCell id="iYbuata2bx76US4o_usM-22" value="ติดตามสถานการณ์&lt;br&gt;การจ่ายยาฯ ของ รพ." style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="iYbuata2bx76US4o_usM-19" vertex="1">
           <mxGeometry x="662" y="27.5" width="200" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="iYbuata2bx76US4o_usM-23" value="NGO ภายนอก" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;" parent="iYbuata2bx76US4o_usM-1" vertex="1">
+        <mxCell id="iYbuata2bx76US4o_usM-23" value="NGO ภายนอก" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="iYbuata2bx76US4o_usM-1" vertex="1">
           <mxGeometry x="20" y="610" width="1460" height="130" as="geometry" />
         </mxCell>
         <mxCell id="iYbuata2bx76US4o_usM-24" value="ให้ความร่วมมือในการรายงาน&lt;br&gt;ยออดการจ่ายยาฯ เข้าระบบ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;align=center;" parent="iYbuata2bx76US4o_usM-23" vertex="1">
@@ -324,7 +327,7 @@
         <mxCell id="iYbuata2bx76US4o_usM-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="iYbuata2bx76US4o_usM-1" source="iYbuata2bx76US4o_usM-13" target="iYbuata2bx76US4o_usM-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iYbuata2bx76US4o_usM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=1;exitDx=0;exitDy=-2.9;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="iYbuata2bx76US4o_usM-1" source="iYbuata2bx76US4o_usM-6" target="iYbuata2bx76US4o_usM-31" edge="1">
+        <mxCell id="iYbuata2bx76US4o_usM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=1;exitDx=0;exitDy=-2.9;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;noJump=0;comic=0;enumerate=0;orthogonal=0;flowAnimation=0;ignoreEdge=0;snapToPoint=0;fixDash=0;backgroundOutline=0;metaEdit=0;jumpStyle=arc;" parent="iYbuata2bx76US4o_usM-1" source="iYbuata2bx76US4o_usM-6" target="iYbuata2bx76US4o_usM-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="663" />
