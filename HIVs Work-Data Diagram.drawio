@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T10:20:21.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="v2ohjz9gF3ZJSjCyRelY" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T10:21:57.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="lwc9bL0CrOTyTyrX5WXm" version="22.1.18" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1358" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
             <mxPoint x="940" y="95" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vW1-sG7XQybwzOpCdIC6-11" value="จำหน่ายถุงยางฯ ไปตามหน่วยบริการที่ร้องขอ" style="rounded=0;whiteSpace=wrap;html=1;" parent="vW1-sG7XQybwzOpCdIC6-5" vertex="1">
+        <mxCell id="vW1-sG7XQybwzOpCdIC6-11" value="จัดสรรถุงยางฯ ไปตาม&lt;br&gt;หน่วยบริการที่ร้องขอ" style="rounded=0;whiteSpace=wrap;html=1;" parent="vW1-sG7XQybwzOpCdIC6-5" vertex="1">
           <mxGeometry x="1001" y="85" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vW1-sG7XQybwzOpCdIC6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="vW1-sG7XQybwzOpCdIC6-5" source="vW1-sG7XQybwzOpCdIC6-21" target="vW1-sG7XQybwzOpCdIC6-44" edge="1">
