@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T02:03:12.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="n58F6WsEHZgvgHj4yzpl" version="22.1.18" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-17T02:04:02.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="yP-4ZeqYhVyBs23CQkoN" version="22.1.18" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1678" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -591,7 +591,7 @@
         <mxCell id="9v4CaL5_7gW5cO8myuor-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="hd3hHbkQDl4NFfRmFZ6i-2" source="hd3hHbkQDl4NFfRmFZ6i-16" target="hd3hHbkQDl4NFfRmFZ6i-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9v4CaL5_7gW5cO8myuor-3" value="* ขอข้อมูลเพื่อนำเข้ารายงาน&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9v4CaL5_7gW5cO8myuor-2" vertex="1" connectable="0">
+        <mxCell id="9v4CaL5_7gW5cO8myuor-3" value="&lt;span style=&quot;background-color: rgb(255, 204, 204);&quot;&gt;* ขอข้อมูลเพื่อนำเข้ารายงาน&amp;nbsp;&lt;br&gt;ผ่านการเชื่อมต่อ / ไฟล์?&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9v4CaL5_7gW5cO8myuor-2" vertex="1" connectable="0">
           <mxGeometry x="-0.4027" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
