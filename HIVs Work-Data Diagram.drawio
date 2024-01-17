@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T04:53:48.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="WoNcjPD9wxUC8EQXikM_" version="22.1.18" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-17T05:47:15.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="hPJu8RbFdL2xRU7NzeWZ" version="22.1.18" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1188" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -484,7 +484,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="IndexPartner" id="HAeoyOpSyOvsjUOocYrg">
-    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hd3hHbkQDl4NFfRmFZ6i-0" />
         <mxCell id="hd3hHbkQDl4NFfRmFZ6i-1" parent="hd3hHbkQDl4NFfRmFZ6i-0" />
@@ -508,6 +508,9 @@
         </mxCell>
         <mxCell id="9v4CaL5_7gW5cO8myuor-22" value="ผลการดำเนินงานและสามารถใช้ข้อมูล&lt;br&gt;ในการติดตาม พัฒนาบริการของหน่วยบริการ&lt;br&gt;สุขภาพได้ด้วยตนเอง" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="hd3hHbkQDl4NFfRmFZ6i-3" vertex="1">
           <mxGeometry x="840" y="30" width="230" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VHIoRTJffIah4ewLNBpF-0" value="? หน่วยบริการต้องบันทึกทั้ง 2 ระบบมั้ย" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="hd3hHbkQDl4NFfRmFZ6i-3">
+          <mxGeometry x="60" y="90" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9v4CaL5_7gW5cO8myuor-16" value="NAP สปสช." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="hd3hHbkQDl4NFfRmFZ6i-2" vertex="1">
           <mxGeometry x="20" y="130" width="1440" height="130" as="geometry" />
@@ -676,7 +679,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Youth" id="YElmQMGVYzcu0724_LoY">
-    <mxGraphModel dx="2037" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="cJ1jjzPTOVkGGwvJorsa-0" />
         <mxCell id="cJ1jjzPTOVkGGwvJorsa-1" parent="cJ1jjzPTOVkGGwvJorsa-0" />
