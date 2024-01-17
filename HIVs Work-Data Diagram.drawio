@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T05:55:44.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="17wK_P3tjPhX6jhwA7mH" version="22.1.18" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-01-17T06:00:50.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="0fOU7yeDo6cm0ocTjgED" version="22.1.18" type="github" pages="5">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1188" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -725,6 +725,9 @@
         <mxCell id="cJ1jjzPTOVkGGwvJorsa-10" value="ดึงข้อมูล&lt;br&gt;การตรวจคัดกรอง&amp;nbsp;&amp;nbsp;HIV/Syphilis,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;ประเมินความเสี่ยง HIV" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="W-DWAcb5966DVUzNCn6a-7" vertex="1">
           <mxGeometry x="860" y="30" width="210" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="gLXdBWCGx3_58EHdVefy-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="W-DWAcb5966DVUzNCn6a-7" source="cJ1jjzPTOVkGGwvJorsa-14" target="gLXdBWCGx3_58EHdVefy-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cJ1jjzPTOVkGGwvJorsa-14" value="&lt;div&gt;&amp;nbsp; &amp;nbsp;• พัฒนารูปแบบการจัดบริการที่เป็นมิตรในกลุ่มเยาวชน&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;• สร้างและพัฒนาเครือข่ายแกนนำเยาวชน&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;• เชื่อมต่อบริการภาครัฐหน่วยบริการในชุมชนและ CBO&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;align=left;" parent="W-DWAcb5966DVUzNCn6a-7" vertex="1">
           <mxGeometry x="1090" y="122" width="280" height="70" as="geometry" />
         </mxCell>
@@ -748,6 +751,9 @@
         </mxCell>
         <mxCell id="gLXdBWCGx3_58EHdVefy-35" value="? เผยแพร่ สคร./พื้นที่ มั้ย?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="W-DWAcb5966DVUzNCn6a-7">
           <mxGeometry x="1195" y="180" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gLXdBWCGx3_58EHdVefy-39" value="แหล่งเรียนรู้และประชาสัมพันธ์ ทาง &#xa;buddystation.ddc.moph.go.th" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.06976744186046512;" vertex="1" parent="W-DWAcb5966DVUzNCn6a-7">
+          <mxGeometry x="1122.5" y="30" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cJ1jjzPTOVkGGwvJorsa-5" value="แหล่งข้อมูลภายนอก" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="cJ1jjzPTOVkGGwvJorsa-2" vertex="1">
           <mxGeometry x="20" y="452" width="1420" height="120" as="geometry" />
@@ -870,6 +876,9 @@
             <mxGeometry x="217" y="172" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="gLXdBWCGx3_58EHdVefy-38" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="cJ1jjzPTOVkGGwvJorsa-1">
+          <mxGeometry x="740" y="570" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
