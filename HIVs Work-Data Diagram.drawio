@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T05:26:20.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="xYez6cnELpJjlff5U7Gr" version="22.1.21" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-19T05:30:20.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="fDiG-_LTrxJHDpjKr64o" version="22.1.21" type="github" pages="10">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1382,11 +1382,14 @@
             <mxGeometry x="217" y="130" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="G3RLJZgGp1mmpEu7BRkt-0" value="File ข้อมูล" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.14285714285714285;" vertex="1" parent="-niyllS1MV-P-OdjLtQz-1">
+          <mxGeometry x="80" y="960" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="TB/HIV" id="GETrD8Qz3DSRmyxfDlfR">
-    <mxGraphModel dx="731" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1501" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="JG4TssvTSNZUmmQYbGfG-0" />
         <mxCell id="JG4TssvTSNZUmmQYbGfG-1" parent="JG4TssvTSNZUmmQYbGfG-0" />
