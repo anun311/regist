@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T06:37:48.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="TJGlG6Oco4LJABdMZ7sI" version="22.1.21" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-01-19T06:46:36.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="HPBncb6yU2YBtHblqm3s" version="22.1.21" type="github" pages="10">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1814,7 +1814,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="THCR" id="f-75D2tQfF227lqAyIGQ">
-    <mxGraphModel dx="1901" dy="1047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="528" dy="291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="g3hwUYn486DcRc-Vy3aH-0" />
         <mxCell id="g3hwUYn486DcRc-Vy3aH-1" parent="g3hwUYn486DcRc-Vy3aH-0" />
@@ -2039,6 +2039,11 @@
         <mxCell id="ZYj49ILmbblLXriZ0uUK-0" value="1. โครงการราชทัณฑ์ปันสุข ทำความดีเพื่อชาติ ศาสน์ กษัตริย์ ----&amp;gt;&amp;nbsp;แผนงานตรวจเอชไอวี&lt;br&gt;2.&amp;nbsp;TB/HIV - พัฒนาระบบบริการรักษาวัณโรคระยะแฝงในกลุ่มผู้ติดเชื้อเอชไอวี&amp;nbsp;----&amp;gt;&amp;nbsp;แผนงานตรวจเอชไอวี&lt;br&gt;3. ART for Migrants&amp;nbsp;----&amp;gt;&amp;nbsp;แผนงานรักษาด้วยยาต้านไวรัสเอชไอวี&lt;br&gt;4.&amp;nbsp;THCR ระบบส่งต่อผู้ป่วย HIV และ TB ในกลุ่ม Migrants ----&amp;gt;&amp;nbsp;แผนงานรักษาด้วยยาต้านไวรัสเอชไอวี" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" vertex="1" parent="g3hwUYn486DcRc-Vy3aH-1">
           <mxGeometry x="237" y="100" width="920" height="90" as="geometry" />
         </mxCell>
+        <UserObject label="" link="data:page/id,f-75D2tQfF227lqAyIGQ" id="zs7hNWc8eCyZF_WmhuIx-0">
+          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="g3hwUYn486DcRc-Vy3aH-1">
+            <mxGeometry x="217" y="172" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
