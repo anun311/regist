@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T07:24:07.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="NgcK8g1JFC0ZdlCP2ZUB" version="22.1.21" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-01-22T07:26:34.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="bs0wnzp9-R5iIIEEUisy" version="22.1.21" type="github" pages="13">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="685" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2327,7 +2327,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hlRMGxVs_PBwWyaV-paG" name="S&amp;D">
-    <mxGraphModel dx="1522" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="856" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2435,7 +2435,7 @@
         <mxCell id="G2z49ZfyEBci_Odbh3ck-5" value="บันทึกข้อมูลใน S&amp;amp;D Survey ทุก 2 ปี &lt;br&gt;โดยบุคลากรทางการแพทย์และผู้ติดเชื้อเอชไอวีที่รับบริการ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="G2z49ZfyEBci_Odbh3ck-2" vertex="1">
           <mxGeometry x="610" y="31" width="355" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="G2z49ZfyEBci_Odbh3ck-20" value="ผู้แจ้งเหตุ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
+        <mxCell id="G2z49ZfyEBci_Odbh3ck-20" value="ผู้แจ้งเหตุ&lt;br&gt;(กลุ่มเปราะบาง)" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
           <mxGeometry x="20" y="850" width="1330" height="112" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="G2z49ZfyEBci_Odbh3ck-20" source="G2z49ZfyEBci_Odbh3ck-21" target="G2z49ZfyEBci_Odbh3ck-23" edge="1">
@@ -2587,6 +2587,14 @@
             <mxPoint x="940" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="laMkpbczWP6aIS83xzvy" name="็HIVST">
+    <mxGraphModel dx="685" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
