@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T09:10:44.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="xyHvh4cHxnbmrpnunHdq" version="22.1.21" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-01-22T09:23:54.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="nFcBC1zHldASyBMDZnpv" version="22.1.21" type="github" pages="14">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1522" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2780,6 +2780,14 @@
         <mxCell id="n_J2WQZRprSgcKqKbLLS-4" value="1. ลดการตีตราและเลือกปฏิบัติ (S&amp;amp;D) ในสถานบริการและเรือนจำ&lt;br&gt;1.1 S&amp;amp;D Survey และ PLHIV stigma index&lt;br&gt;1.2 ระบบรับเรื่องร้องเรียน CRS&lt;br&gt;2. HIV Self-Test (HIVST) ส่งเสริมการเข้าถึงชุดตรวจเอชไอวีด้วยตนเอง" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="240" y="110" width="920" height="90" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mA4aCaI9ghZePq2spICx" name="Page-14">
+    <mxGraphModel dx="1284" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
