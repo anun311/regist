@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T09:27:38.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="SgcV-jT6IANq51FJE52l" version="22.1.21" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-01-22T09:39:13.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="RgR3v5J_Xu32Je9P46uC" version="22.1.21" type="github" pages="14">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1522" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2327,15 +2327,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hlRMGxVs_PBwWyaV-paG" name="S&amp;D">
-    <mxGraphModel dx="1370" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2058" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6x4w1WP7YHGndfD3ktrC-1" value="โครงการราชทัณฑ์ปันสุข" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontFamily=Tahoma;strokeColor=#666666;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="600" y="264" width="1350" height="1140" as="geometry" />
+          <mxGeometry x="600" y="264" width="1710" height="1360" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-4" value="ก.จิตสังคม" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" width="1330" height="130" as="geometry" />
+          <mxGeometry x="20" width="1690" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-10" value="ประชุมชี้แจงถ่ายทอดนโยบาย ตัวชี้วัด และ&lt;br/&gt;แนวทางการดำเนินงานของโครงการใน&lt;br/&gt;ระดับประเทศ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="6x4w1WP7YHGndfD3ktrC-4" vertex="1">
           <mxGeometry x="310" y="35" width="230" height="60" as="geometry" />
@@ -2352,8 +2352,17 @@
         <mxCell id="G2z49ZfyEBci_Odbh3ck-39" value="ติดตามสถานการณ์และสถิติการร้องเรียนในระบบ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" parent="6x4w1WP7YHGndfD3ktrC-4" vertex="1">
           <mxGeometry x="839" y="35" width="281" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="xsExbJdR-afNz6Emp-N9-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;จัดทำหลักสูตร S&amp;amp;D E-learning เพื่อใช้เข้าใจเรื่องการตีตราและเลือกปฏิบัติเกี่ยวกับเอชไอวี&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x4w1WP7YHGndfD3ktrC-4">
+          <mxGeometry x="1180" y="32.5" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xsExbJdR-afNz6Emp-N9-2" value="sdelearning.ddc" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="6x4w1WP7YHGndfD3ktrC-4">
+          <mxGeometry x="1480" y="27.5" width="100" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xsExbJdR-afNz6Emp-N9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35.625;entryPerimeter=0;" edge="1" parent="6x4w1WP7YHGndfD3ktrC-4" source="xsExbJdR-afNz6Emp-N9-1" target="xsExbJdR-afNz6Emp-N9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-8" value="ก.ข้อมูล" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;fillColor=#FFFFFF;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" y="130" width="1330" height="130" as="geometry" />
+          <mxGeometry x="20" y="130" width="1690" height="130" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-14" value="พัฒนาระบบ CRS &quot;สวัสดีปกป้อง&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="G2z49ZfyEBci_Odbh3ck-8" vertex="1">
           <mxGeometry x="50" y="40" width="180" height="50" as="geometry" />
@@ -2381,7 +2390,7 @@
           <mxGeometry x="570" y="16" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IS4hbhYZIpFlmE0Ah_RM-2" value="กองระบาด" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" y="260" width="1330" height="160" as="geometry" />
+          <mxGeometry x="20" y="260" width="1690" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IS4hbhYZIpFlmE0Ah_RM-3" value="พัฒนา S&amp;amp;D Survey ร่วมกับอ.มช&lt;br&gt;สำหรับให้สถานบริการบันทึกข้อมูลการตีตราและการเลือกปฏิบัติ" style="rounded=0;whiteSpace=wrap;html=1;" parent="IS4hbhYZIpFlmE0Ah_RM-2" vertex="1">
           <mxGeometry x="50" y="55" width="180" height="50" as="geometry" />
@@ -2401,13 +2410,13 @@
           <mxGeometry x="195" y="112" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-33" value="สคร./สสจ/พื้นที่" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" y="420" width="1330" height="138" as="geometry" />
+          <mxGeometry x="20" y="420" width="1690" height="138" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-35" value="ประชุมชี้แจงนโยบาย เป้าหมาย ตัวชี้วัด และ&lt;br&gt;แนวทางการดำเนินงานประจำปี ในระดับเขต จังหวัด พื้นที่&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="6x4w1WP7YHGndfD3ktrC-33" vertex="1">
           <mxGeometry x="315" y="28" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-37" value="รพ./สถานบริการ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" y="558" width="1330" height="180" as="geometry" />
+          <mxGeometry x="20" y="558" width="1690" height="180" as="geometry" />
         </mxCell>
         <mxCell id="XIdwXDdUL0Birx2Yktsw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6x4w1WP7YHGndfD3ktrC-37" source="XIdwXDdUL0Birx2Yktsw-6" target="G2z49ZfyEBci_Odbh3ck-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2424,7 +2433,7 @@
           <mxGeometry x="610" y="65" width="355" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-2" value="เรือนจำ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" y="738" width="1330" height="112" as="geometry" />
+          <mxGeometry x="20" y="738" width="1690" height="112" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="G2z49ZfyEBci_Odbh3ck-2" source="G2z49ZfyEBci_Odbh3ck-3" target="G2z49ZfyEBci_Odbh3ck-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2436,7 +2445,7 @@
           <mxGeometry x="610" y="31" width="355" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-20" value="ผู้แจ้งเหตุ&lt;br&gt;(กลุ่มเปราะบาง)" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" y="850" width="1330" height="112" as="geometry" />
+          <mxGeometry x="20" y="850" width="1690" height="112" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="G2z49ZfyEBci_Odbh3ck-20" source="G2z49ZfyEBci_Odbh3ck-21" target="G2z49ZfyEBci_Odbh3ck-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2465,7 +2474,7 @@
           <mxGeometry x="60" y="26" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-30" value="ภาคประชาสังคม/&lt;br&gt;หน่วยงานรับแจ้งเหตุ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" y="962" width="1330" height="178" as="geometry">
+          <mxGeometry x="20" y="962" width="1690" height="178" as="geometry">
             <mxRectangle x="20" y="942" width="1330" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2489,6 +2498,22 @@
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-55" value="? บันทึกเข้าระบบหรือไม่" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="G2z49ZfyEBci_Odbh3ck-30" vertex="1">
           <mxGeometry x="335" y="74" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xsExbJdR-afNz6Emp-N9-4" value="บุคลากรสุขภาพ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="6x4w1WP7YHGndfD3ktrC-1">
+          <mxGeometry x="20" y="1140" width="1690" height="110" as="geometry">
+            <mxRectangle x="20" y="942" width="1330" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xsExbJdR-afNz6Emp-N9-7" value="&lt;div style=&quot;&quot;&gt;เข้าอบรมหลักสูตร S&amp;amp;D E-learning&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="xsExbJdR-afNz6Emp-N9-4">
+          <mxGeometry x="60" y="36" width="220" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xsExbJdR-afNz6Emp-N9-5" value="นศพ./นศพบ." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="6x4w1WP7YHGndfD3ktrC-1">
+          <mxGeometry x="20" y="1250" width="1690" height="110" as="geometry">
+            <mxRectangle x="20" y="942" width="1330" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xsExbJdR-afNz6Emp-N9-8" value="&lt;div style=&quot;&quot;&gt;เข้าอบรมหลักสูตร S&amp;amp;D E-learning&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="xsExbJdR-afNz6Emp-N9-5">
+          <mxGeometry x="60" y="36" width="220" height="38" as="geometry" />
         </mxCell>
         <mxCell id="XIdwXDdUL0Birx2Yktsw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="6x4w1WP7YHGndfD3ktrC-1" source="6x4w1WP7YHGndfD3ktrC-10" target="6x4w1WP7YHGndfD3ktrC-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2555,6 +2580,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="xsExbJdR-afNz6Emp-N9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6x4w1WP7YHGndfD3ktrC-1" source="xsExbJdR-afNz6Emp-N9-7" target="xsExbJdR-afNz6Emp-N9-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="106" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xsExbJdR-afNz6Emp-N9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6x4w1WP7YHGndfD3ktrC-1" source="xsExbJdR-afNz6Emp-N9-8" target="xsExbJdR-afNz6Emp-N9-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="106" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-62" value="มาตรการ:&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;ลดการรังเกียจและการเลือกปฏิบัติไม่เกินร้อยละ 10 ในยุทธศาสตร์แห่งชาติว่าด้วยการยุติปัญหาเอดส์ พ.ศ. 2560-2573&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="600" y="90" width="1380" height="30" as="geometry" />
         </mxCell>
@@ -2568,24 +2603,24 @@
           <mxGeometry x="800" y="120" width="920" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-66" value="กระทำในระบบ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="1425" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="1659" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-67" value="กิจกรรม/การดำเนินการ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="1425" width="130" height="40" as="geometry" />
+          <mxGeometry x="740" y="1659" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-68" value="ฐานข้อมูล" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" parent="1" vertex="1">
-          <mxGeometry x="950" y="1420" width="100" height="50" as="geometry" />
+          <mxGeometry x="900" y="1654" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-69" value="&lt;b&gt;แหล่งที่มาของข้อมูล&lt;/b&gt;&lt;br&gt;1.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="1420" width="440" height="130" as="geometry" />
+          <mxGeometry x="1010" y="1654" width="440" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-70" value="&lt;b&gt;แหล่งที่ไปของข้อมูล&lt;br&gt;&lt;/b&gt;1.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1523" y="1420" width="510" height="130" as="geometry" />
+          <mxGeometry x="1473" y="1654" width="510" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-71" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1500" y="1540" as="sourcePoint" />
-            <mxPoint x="1500" y="1430" as="targetPoint" />
+            <mxPoint x="1460" y="1764" as="sourcePoint" />
+            <mxPoint x="1460" y="1654" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
