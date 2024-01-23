@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T11:34:07.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="o-CSQZ6q36cmxlaP7ttF" version="22.1.21" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-01-23T02:03:26.033Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Kk4NPZJL2_Ddm3Sglo-D" version="22.1.21" type="github" pages="14">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="3231" dy="1402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2327,15 +2327,26 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hlRMGxVs_PBwWyaV-paG" name="S&amp;D">
-    <mxGraphModel dx="2237" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1054" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6x4w1WP7YHGndfD3ktrC-1" value="โครงการราชทัณฑ์ปันสุข" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontFamily=Tahoma;strokeColor=#666666;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="600" y="264" width="1710" height="1360" as="geometry" />
+          <mxGeometry x="600" y="264" width="2300" height="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="ALF_RrmalpKE-8n-BSKR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=17.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6x4w1WP7YHGndfD3ktrC-1" source="voXN6wGxvl0jPE0C5IJl-1" target="KqZJfQctEoLLv3z34vFQ-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="416" />
+              <mxPoint x="600" y="416" />
+              <mxPoint x="600" y="63" />
+            </Array>
+            <mxPoint x="460" y="416" as="sourcePoint" />
+            <mxPoint x="630" y="56" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-4" value="ก.จิตสังคม" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" width="1690" height="130" as="geometry" />
+          <mxGeometry x="20" width="2280" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-10" value="ประชุมชี้แจงถ่ายทอดนโยบาย ตัวชี้วัด และ&lt;br/&gt;แนวทางการดำเนินงานของโครงการใน&lt;br/&gt;ระดับประเทศ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="6x4w1WP7YHGndfD3ktrC-4" vertex="1">
           <mxGeometry x="310" y="35" width="230" height="60" as="geometry" />
@@ -2346,34 +2357,32 @@
         <mxCell id="XIdwXDdUL0Birx2Yktsw-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;กำหนดแผนปฏิบัติการตามยุทธศาสตร์ชาติ เพื่อลดการตีตราและการเลือกปฏิบัติ&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="6x4w1WP7YHGndfD3ktrC-4" vertex="1">
           <mxGeometry x="50" y="35" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ALF_RrmalpKE-8n-BSKR-3" value="นำข้อมูลมาวิเคราะห์สถานการณ์&lt;br&gt;และออกมาตรการ แนวทางเพื่อลดการตีตรา และการเลือกปฏิบัติ" style="rounded=0;whiteSpace=wrap;html=1;" parent="6x4w1WP7YHGndfD3ktrC-4" vertex="1">
-          <mxGeometry x="600" y="35" width="230" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-39" value="ติดตามสถานการณ์และสถิติการร้องเรียนในระบบ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" parent="6x4w1WP7YHGndfD3ktrC-4" vertex="1">
-          <mxGeometry x="839" y="35" width="281" height="55" as="geometry" />
+          <mxGeometry x="880" y="37.5" width="281" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="xsExbJdR-afNz6Emp-N9-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;จัดทำหลักสูตร S&amp;amp;D E-learning เพื่อใช้เข้าใจเรื่องการตีตราและเลือกปฏิบัติเกี่ยวกับเอชไอวี&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x4w1WP7YHGndfD3ktrC-4">
+        <mxCell id="xsExbJdR-afNz6Emp-N9-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;จัดทำหลักสูตร S&amp;amp;D E-learning เพื่อใช้เข้าใจเรื่องการตีตราและเลือกปฏิบัติเกี่ยวกับเอชไอวี&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="6x4w1WP7YHGndfD3ktrC-4" vertex="1">
           <mxGeometry x="1180" y="32.5" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xsExbJdR-afNz6Emp-N9-2" value="sdelearning.ddc" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="6x4w1WP7YHGndfD3ktrC-4">
+        <mxCell id="xsExbJdR-afNz6Emp-N9-2" value="sdelearning.ddc" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="6x4w1WP7YHGndfD3ktrC-4" vertex="1">
           <mxGeometry x="1480" y="27.5" width="100" height="72.5" as="geometry" />
         </mxCell>
-        <mxCell id="xsExbJdR-afNz6Emp-N9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35.625;entryPerimeter=0;" edge="1" parent="6x4w1WP7YHGndfD3ktrC-4" source="xsExbJdR-afNz6Emp-N9-1" target="xsExbJdR-afNz6Emp-N9-2">
+        <mxCell id="xsExbJdR-afNz6Emp-N9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=35.625;entryPerimeter=0;" parent="6x4w1WP7YHGndfD3ktrC-4" source="xsExbJdR-afNz6Emp-N9-1" target="xsExbJdR-afNz6Emp-N9-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XIdwXDdUL0Birx2Yktsw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="6x4w1WP7YHGndfD3ktrC-4" source="6x4w1WP7YHGndfD3ktrC-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="549" y="65" as="sourcePoint" />
-            <mxPoint x="434" y="459" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="549" y="65" />
-              <mxPoint x="549" y="436" />
-              <mxPoint x="434" y="436" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="KqZJfQctEoLLv3z34vFQ-9" value="จัดอบรมสร้างความเข้าใจเรื่อง&lt;br&gt;การตีตราและเลือกปฏิบัติ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6x4w1WP7YHGndfD3ktrC-4">
+          <mxGeometry x="1620" y="35" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KqZJfQctEoLLv3z34vFQ-10" value="นำข้อมูลมาวิเคราะห์สถานการณ์&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;และออกมาตรการ แนวทางเพื่อลดการตีตรา &lt;br&gt;และการเลือกปฏิบัติ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="6x4w1WP7YHGndfD3ktrC-4">
+          <mxGeometry x="600" y="35.5" width="250" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="KqZJfQctEoLLv3z34vFQ-17" value="โปรแกรมลดการตราตนเองในสถานบริการสุขภาพ&lt;br&gt;(Self-Stigma Reduction Program:SRP)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="6x4w1WP7YHGndfD3ktrC-4">
+          <mxGeometry x="1890" y="40" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-8" value="ก.ข้อมูล" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;fillColor=#FFFFFF;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" y="130" width="1690" height="130" as="geometry" />
+          <mxGeometry x="20" y="130" width="2280" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="KqZJfQctEoLLv3z34vFQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="G2z49ZfyEBci_Odbh3ck-8" source="G2z49ZfyEBci_Odbh3ck-14" target="KqZJfQctEoLLv3z34vFQ-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-14" value="พัฒนาระบบ CRS &quot;สวัสดีปกป้อง&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="G2z49ZfyEBci_Odbh3ck-8" vertex="1">
           <mxGeometry x="50" y="40" width="180" height="50" as="geometry" />
@@ -2400,8 +2409,11 @@
         <mxCell id="G2z49ZfyEBci_Odbh3ck-46" value="แจ้งเตือนเข้า line group ทีมช่วยเหลือเมื่อมีเหตุ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="G2z49ZfyEBci_Odbh3ck-8" vertex="1">
           <mxGeometry x="590" y="16" width="290" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KqZJfQctEoLLv3z34vFQ-1" value="นำร่องใช้ในพื้นที่" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G2z49ZfyEBci_Odbh3ck-8">
+          <mxGeometry x="75" y="130" width="130" height="43.75" as="geometry" />
+        </mxCell>
         <mxCell id="IS4hbhYZIpFlmE0Ah_RM-2" value="กองระบาด" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" y="260" width="1690" height="160" as="geometry" />
+          <mxGeometry x="20" y="340" width="2280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IS4hbhYZIpFlmE0Ah_RM-3" value="พัฒนา S&amp;amp;D Survey ร่วมกับอ.มช&lt;br&gt;สำหรับให้สถานบริการบันทึกข้อมูลการตีตราและการเลือกปฏิบัติ" style="rounded=0;whiteSpace=wrap;html=1;" parent="IS4hbhYZIpFlmE0Ah_RM-2" vertex="1">
           <mxGeometry x="50" y="55" width="180" height="50" as="geometry" />
@@ -2417,17 +2429,17 @@
         <mxCell id="ALF_RrmalpKE-8n-BSKR-1" value="? มีระบบมั้ย/ระบบอะไร" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="IS4hbhYZIpFlmE0Ah_RM-2" vertex="1">
           <mxGeometry x="275" y="16" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CSCeSvL_iZTcMKFODOxV-1" value="? S&amp;amp;D Survey และ PLHIV stigma index รวมกันเลยไหม" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="IS4hbhYZIpFlmE0Ah_RM-2">
-          <mxGeometry x="195" y="112" width="310" height="30" as="geometry" />
+        <mxCell id="CSCeSvL_iZTcMKFODOxV-1" value="? S&amp;amp;D Survey และ PLHIV stigma index รวมกันเลยไหม" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="IS4hbhYZIpFlmE0Ah_RM-2" vertex="1">
+          <mxGeometry x="110" y="116" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-33" value="สคร./สสจ/พื้นที่" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" y="420" width="1690" height="138" as="geometry" />
+          <mxGeometry x="20" y="500" width="2280" height="138" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-35" value="ประชุมชี้แจงนโยบาย เป้าหมาย ตัวชี้วัด และ&lt;br&gt;แนวทางการดำเนินงานประจำปี ในระดับเขต จังหวัด พื้นที่&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="6x4w1WP7YHGndfD3ktrC-33" vertex="1">
           <mxGeometry x="315" y="39" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-37" value="รพ./สถานบริการ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" y="558" width="1690" height="180" as="geometry" />
+          <mxGeometry x="20" y="638" width="2280" height="180" as="geometry" />
         </mxCell>
         <mxCell id="XIdwXDdUL0Birx2Yktsw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6x4w1WP7YHGndfD3ktrC-37" source="XIdwXDdUL0Birx2Yktsw-6" target="G2z49ZfyEBci_Odbh3ck-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2438,13 +2450,13 @@
           <mxGeometry x="315" y="60" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ALF_RrmalpKE-8n-BSKR-2" value="? ส่งข้อมูลให้กองระบาดอย่างไร" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="6x4w1WP7YHGndfD3ktrC-37" vertex="1">
-          <mxGeometry x="800" y="30" width="180" height="30" as="geometry" />
+          <mxGeometry x="700" y="18" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-1" value="บันทึกข้อมูลใน S&amp;amp;D Survey ทุก 2 ปี &lt;br&gt;โดยบุคลากรทางการแพทย์และผู้ติดเชื้อเอชไอวีที่รับบริการ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="6x4w1WP7YHGndfD3ktrC-37" vertex="1">
           <mxGeometry x="610" y="65" width="355" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-2" value="เรือนจำ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" y="738" width="1690" height="112" as="geometry" />
+          <mxGeometry x="20" y="818" width="2280" height="112" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="G2z49ZfyEBci_Odbh3ck-2" source="G2z49ZfyEBci_Odbh3ck-3" target="G2z49ZfyEBci_Odbh3ck-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2456,7 +2468,7 @@
           <mxGeometry x="610" y="31" width="355" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-20" value="ผู้แจ้งเหตุ&lt;br&gt;(กลุ่มเปราะบาง)" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" y="850" width="1690" height="112" as="geometry" />
+          <mxGeometry x="20" y="930" width="2280" height="112" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="G2z49ZfyEBci_Odbh3ck-20" source="G2z49ZfyEBci_Odbh3ck-21" target="G2z49ZfyEBci_Odbh3ck-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2485,7 +2497,7 @@
           <mxGeometry x="60" y="26" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-30" value="ภาคประชาสังคม/&lt;br&gt;หน่วยงานรับแจ้งเหตุ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
-          <mxGeometry x="20" y="962" width="1690" height="178" as="geometry">
+          <mxGeometry x="20" y="1042" width="2280" height="178" as="geometry">
             <mxRectangle x="20" y="942" width="1330" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -2510,20 +2522,23 @@
         <mxCell id="G2z49ZfyEBci_Odbh3ck-55" value="? บันทึกเข้าระบบหรือไม่" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="G2z49ZfyEBci_Odbh3ck-30" vertex="1">
           <mxGeometry x="335" y="74" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xsExbJdR-afNz6Emp-N9-4" value="บุคลากรสุขภาพ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="6x4w1WP7YHGndfD3ktrC-1">
-          <mxGeometry x="20" y="1140" width="1690" height="110" as="geometry">
+        <mxCell id="xsExbJdR-afNz6Emp-N9-4" value="บุคลากรสุขภาพ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
+          <mxGeometry x="20" y="1220" width="2280" height="140" as="geometry">
             <mxRectangle x="20" y="942" width="1330" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xsExbJdR-afNz6Emp-N9-7" value="&lt;div style=&quot;&quot;&gt;เข้าอบรมหลักสูตร S&amp;amp;D E-learning&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="xsExbJdR-afNz6Emp-N9-4">
-          <mxGeometry x="60" y="36" width="220" height="38" as="geometry" />
+        <mxCell id="xsExbJdR-afNz6Emp-N9-7" value="&lt;div style=&quot;&quot;&gt;เข้าอบรมหลักสูตร S&amp;amp;D E-learning&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" parent="xsExbJdR-afNz6Emp-N9-4" vertex="1">
+          <mxGeometry x="60" y="16" width="220" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="xsExbJdR-afNz6Emp-N9-5" value="นศพ./นศพบ." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="6x4w1WP7YHGndfD3ktrC-1">
-          <mxGeometry x="20" y="1250" width="1690" height="110" as="geometry">
+        <mxCell id="KqZJfQctEoLLv3z34vFQ-12" value="เข้าร่วมการอบรม" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xsExbJdR-afNz6Emp-N9-4">
+          <mxGeometry x="60" y="76" width="220" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="xsExbJdR-afNz6Emp-N9-5" value="นศพ./นศพบ." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="6x4w1WP7YHGndfD3ktrC-1" vertex="1">
+          <mxGeometry x="20" y="1360" width="2280" height="110" as="geometry">
             <mxRectangle x="20" y="942" width="1330" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xsExbJdR-afNz6Emp-N9-8" value="&lt;div style=&quot;&quot;&gt;เข้าอบรมหลักสูตร S&amp;amp;D E-learning&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="xsExbJdR-afNz6Emp-N9-5">
+        <mxCell id="xsExbJdR-afNz6Emp-N9-8" value="&lt;div style=&quot;&quot;&gt;เข้าอบรมหลักสูตร S&amp;amp;D E-learning&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" parent="xsExbJdR-afNz6Emp-N9-5" vertex="1">
           <mxGeometry x="60" y="36" width="220" height="38" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="6x4w1WP7YHGndfD3ktrC-1" source="6x4w1WP7YHGndfD3ktrC-35" target="XIdwXDdUL0Birx2Yktsw-6" edge="1">
@@ -2531,27 +2546,7 @@
             <mxPoint x="445.3333333333335" y="546" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XIdwXDdUL0Birx2Yktsw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=32.5;entryPerimeter=0;" parent="6x4w1WP7YHGndfD3ktrC-1" source="G2z49ZfyEBci_Odbh3ck-1" target="voXN6wGxvl0jPE0C5IJl-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="468" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1005" y="648" />
-              <mxPoint x="1005" y="347" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ALF_RrmalpKE-8n-BSKR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=17.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6x4w1WP7YHGndfD3ktrC-1" source="voXN6wGxvl0jPE0C5IJl-1" target="ALF_RrmalpKE-8n-BSKR-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="333" />
-              <mxPoint x="580" y="65" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="6x4w1WP7YHGndfD3ktrC-1" source="XIdwXDdUL0Birx2Yktsw-6" target="G2z49ZfyEBci_Odbh3ck-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="G2z49ZfyEBci_Odbh3ck-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=32.5;entryPerimeter=0;" parent="6x4w1WP7YHGndfD3ktrC-1" source="G2z49ZfyEBci_Odbh3ck-5" target="voXN6wGxvl0jPE0C5IJl-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G2z49ZfyEBci_Odbh3ck-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="6x4w1WP7YHGndfD3ktrC-1" source="G2z49ZfyEBci_Odbh3ck-33" target="G2z49ZfyEBci_Odbh3ck-16" edge="1">
@@ -2560,8 +2555,9 @@
         <mxCell id="G2z49ZfyEBci_Odbh3ck-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="6x4w1WP7YHGndfD3ktrC-1" source="G2z49ZfyEBci_Odbh3ck-32" target="G2z49ZfyEBci_Odbh3ck-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1160" y="994" />
-              <mxPoint x="1160" y="195" />
+              <mxPoint x="840" y="994" />
+              <mxPoint x="1130" y="994" />
+              <mxPoint x="1130" y="195" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2572,9 +2568,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1190" y="161" />
-              <mxPoint x="1190" y="1126" />
-              <mxPoint x="570" y="1126" />
-              <mxPoint x="570" y="1092" />
+              <mxPoint x="1190" y="1136" />
+              <mxPoint x="570" y="1136" />
+              <mxPoint x="570" y="1172" />
             </Array>
             <mxPoint x="510" y="1096" as="targetPoint" />
           </mxGeometry>
@@ -2583,20 +2579,61 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="106" />
-              <mxPoint x="840" y="106" />
-              <mxPoint x="840" y="63" />
+              <mxPoint x="880" y="106" />
+              <mxPoint x="880" y="66" />
+              <mxPoint x="920" y="66" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xsExbJdR-afNz6Emp-N9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6x4w1WP7YHGndfD3ktrC-1" source="xsExbJdR-afNz6Emp-N9-7" target="xsExbJdR-afNz6Emp-N9-2">
+        <mxCell id="xsExbJdR-afNz6Emp-N9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="6x4w1WP7YHGndfD3ktrC-1" source="xsExbJdR-afNz6Emp-N9-7" target="xsExbJdR-afNz6Emp-N9-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1550" y="106" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xsExbJdR-afNz6Emp-N9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6x4w1WP7YHGndfD3ktrC-1" source="xsExbJdR-afNz6Emp-N9-8" target="xsExbJdR-afNz6Emp-N9-2">
+        <mxCell id="xsExbJdR-afNz6Emp-N9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="6x4w1WP7YHGndfD3ktrC-1" source="xsExbJdR-afNz6Emp-N9-8" target="xsExbJdR-afNz6Emp-N9-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1550" y="106" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KqZJfQctEoLLv3z34vFQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6x4w1WP7YHGndfD3ktrC-1" source="KqZJfQctEoLLv3z34vFQ-1" target="6x4w1WP7YHGndfD3ktrC-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="282" />
+              <mxPoint x="60" y="569" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqZJfQctEoLLv3z34vFQ-5" value="32 จังหวัด" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KqZJfQctEoLLv3z34vFQ-4">
+          <mxGeometry x="0.5876" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqZJfQctEoLLv3z34vFQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6x4w1WP7YHGndfD3ktrC-1" source="6x4w1WP7YHGndfD3ktrC-10" target="6x4w1WP7YHGndfD3ktrC-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="65" />
+              <mxPoint x="580" y="569" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqZJfQctEoLLv3z34vFQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=32.5;entryPerimeter=0;" edge="1" parent="6x4w1WP7YHGndfD3ktrC-1" source="G2z49ZfyEBci_Odbh3ck-1" target="voXN6wGxvl0jPE0C5IJl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="728" />
+              <mxPoint x="1010" y="428" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqZJfQctEoLLv3z34vFQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=32.5;entryPerimeter=0;" edge="1" parent="6x4w1WP7YHGndfD3ktrC-1" source="G2z49ZfyEBci_Odbh3ck-5" target="voXN6wGxvl0jPE0C5IJl-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="874" />
+              <mxPoint x="1010" y="428" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqZJfQctEoLLv3z34vFQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="6x4w1WP7YHGndfD3ktrC-1" source="KqZJfQctEoLLv3z34vFQ-9" target="KqZJfQctEoLLv3z34vFQ-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-62" value="มาตรการ:&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;ลดการรังเกียจและการเลือกปฏิบัติไม่เกินร้อยละ 10 ในยุทธศาสตร์แห่งชาติว่าด้วยการยุติปัญหาเอดส์ พ.ศ. 2560-2573&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="600" y="90" width="1380" height="30" as="geometry" />
@@ -2611,55 +2648,55 @@
           <mxGeometry x="800" y="120" width="920" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-66" value="กระทำในระบบ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="1659" width="120" height="40" as="geometry" />
+          <mxGeometry x="610" y="1755" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-67" value="กิจกรรม/การดำเนินการ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="1659" width="130" height="40" as="geometry" />
+          <mxGeometry x="750" y="1755" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-68" value="ฐานข้อมูล" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" parent="1" vertex="1">
-          <mxGeometry x="900" y="1654" width="100" height="50" as="geometry" />
+          <mxGeometry x="910" y="1750" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-69" value="&lt;b&gt;แหล่งที่มาของข้อมูล&lt;/b&gt;&lt;br&gt;1.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="1654" width="440" height="130" as="geometry" />
+          <mxGeometry x="1020" y="1750" width="440" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-70" value="&lt;b&gt;แหล่งที่ไปของข้อมูล&lt;br&gt;&lt;/b&gt;1.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1473" y="1654" width="510" height="130" as="geometry" />
+          <mxGeometry x="1483" y="1750" width="510" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6x4w1WP7YHGndfD3ktrC-71" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1460" y="1764" as="sourcePoint" />
-            <mxPoint x="1460" y="1654" as="targetPoint" />
+            <mxPoint x="1470" y="1860" as="sourcePoint" />
+            <mxPoint x="1470" y="1750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="laMkpbczWP6aIS83xzvy" name="็HIVST">
-    <mxGraphModel dx="2423" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1553" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9ad1lHYUfrOg_drW5Nec-1" value="โครงการราชทัณฑ์ปันสุข" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="9ad1lHYUfrOg_drW5Nec-1" value="โครงการราชทัณฑ์ปันสุข" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontFamily=Tahoma;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="40" y="240" width="1070" height="668" as="geometry" />
         </mxCell>
-        <mxCell id="9ad1lHYUfrOg_drW5Nec-5" value="ก. จิตสังคม" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="9ad1lHYUfrOg_drW5Nec-1">
+        <mxCell id="9ad1lHYUfrOg_drW5Nec-5" value="ก. จิตสังคม" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="9ad1lHYUfrOg_drW5Nec-1" vertex="1">
           <mxGeometry x="20" width="1050" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="9ad1lHYUfrOg_drW5Nec-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9ad1lHYUfrOg_drW5Nec-5" source="9ad1lHYUfrOg_drW5Nec-7">
+        <mxCell id="9ad1lHYUfrOg_drW5Nec-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="9ad1lHYUfrOg_drW5Nec-5" source="9ad1lHYUfrOg_drW5Nec-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9ad1lHYUfrOg_drW5Nec-7" value="กำหนดแผนปฏิบัติการตามยุทธศาสตร์ชาติ &lt;br&gt;เพื่อดำเนินงานการจัดบริการ HIVST/Web app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ad1lHYUfrOg_drW5Nec-5">
+        <mxCell id="9ad1lHYUfrOg_drW5Nec-7" value="กำหนดแผนปฏิบัติการตามยุทธศาสตร์ชาติ &lt;br&gt;เพื่อดำเนินงานการจัดบริการ HIVST/Web app" style="rounded=0;whiteSpace=wrap;html=1;" parent="9ad1lHYUfrOg_drW5Nec-5" vertex="1">
           <mxGeometry x="50" y="45" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-1" value="ผลักดันให้ HIVST เข้าสู่ชุดสิทธิประโยชน์ของสปสช." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ad1lHYUfrOg_drW5Nec-5">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-1" value="ผลักดันให้ HIVST เข้าสู่ชุดสิทธิประโยชน์ของสปสช." style="rounded=0;whiteSpace=wrap;html=1;" parent="9ad1lHYUfrOg_drW5Nec-5" vertex="1">
           <mxGeometry x="310" y="45" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-3" value="พัฒนาระบบ&lt;br&gt;hivsst.ddc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ad1lHYUfrOg_drW5Nec-5">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-3" value="พัฒนาระบบ&lt;br&gt;hivsst.ddc" style="rounded=0;whiteSpace=wrap;html=1;" parent="9ad1lHYUfrOg_drW5Nec-5" vertex="1">
           <mxGeometry x="50" y="130" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="I4VwUZDfaX20k7o67GHR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=37.50000000000001;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9ad1lHYUfrOg_drW5Nec-5" source="-lUsb5PTf_2iHxVgVOYz-4" target="I4VwUZDfaX20k7o67GHR-7">
+        <mxCell id="I4VwUZDfaX20k7o67GHR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=37.50000000000001;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="9ad1lHYUfrOg_drW5Nec-5" source="-lUsb5PTf_2iHxVgVOYz-4" target="I4VwUZDfaX20k7o67GHR-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="163" />
@@ -2667,34 +2704,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-4" value="hivsst.ddc" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="9ad1lHYUfrOg_drW5Nec-5">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-4" value="hivsst.ddc" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="9ad1lHYUfrOg_drW5Nec-5" vertex="1">
           <mxGeometry x="375" y="125" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9ad1lHYUfrOg_drW5Nec-5" source="-lUsb5PTf_2iHxVgVOYz-3" target="-lUsb5PTf_2iHxVgVOYz-4">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="9ad1lHYUfrOg_drW5Nec-5" source="-lUsb5PTf_2iHxVgVOYz-3" target="-lUsb5PTf_2iHxVgVOYz-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="9ad1lHYUfrOg_drW5Nec-5" source="-lUsb5PTf_2iHxVgVOYz-45" target="-lUsb5PTf_2iHxVgVOYz-48">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="9ad1lHYUfrOg_drW5Nec-5" source="-lUsb5PTf_2iHxVgVOYz-45" target="-lUsb5PTf_2iHxVgVOYz-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-45" value="จัดทำ E-learning การใช้ชุดตรวจ HIVST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ad1lHYUfrOg_drW5Nec-5">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-45" value="จัดทำ E-learning การใช้ชุดตรวจ HIVST" style="rounded=0;whiteSpace=wrap;html=1;" parent="9ad1lHYUfrOg_drW5Nec-5" vertex="1">
           <mxGeometry x="580" y="130" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-48" value="academy.ddc" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="9ad1lHYUfrOg_drW5Nec-5">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-48" value="academy.ddc" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="9ad1lHYUfrOg_drW5Nec-5" vertex="1">
           <mxGeometry x="756" y="127.5" width="90" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="I4VwUZDfaX20k7o67GHR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9ad1lHYUfrOg_drW5Nec-5" source="I4VwUZDfaX20k7o67GHR-7" target="I4VwUZDfaX20k7o67GHR-9">
+        <mxCell id="I4VwUZDfaX20k7o67GHR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="9ad1lHYUfrOg_drW5Nec-5" source="I4VwUZDfaX20k7o67GHR-7" target="I4VwUZDfaX20k7o67GHR-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I4VwUZDfaX20k7o67GHR-7" value="ติดตามรายงานและสถิติ&lt;br&gt;การตรวจคัดกรอง" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="9ad1lHYUfrOg_drW5Nec-5">
+        <mxCell id="I4VwUZDfaX20k7o67GHR-7" value="ติดตามรายงานและสถิติ&lt;br&gt;การตรวจคัดกรอง" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="9ad1lHYUfrOg_drW5Nec-5" vertex="1">
           <mxGeometry x="580" y="53.5" width="186" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="I4VwUZDfaX20k7o67GHR-9" value="ออกมาตรการและนโยบาย&lt;br&gt;ที่เกี่ยวข้อง" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="9ad1lHYUfrOg_drW5Nec-5">
+        <mxCell id="I4VwUZDfaX20k7o67GHR-9" value="ออกมาตรการและนโยบาย&lt;br&gt;ที่เกี่ยวข้อง" style="rounded=0;whiteSpace=wrap;html=1;" parent="9ad1lHYUfrOg_drW5Nec-5" vertex="1">
           <mxGeometry x="820" y="52.5" width="180" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-2" value="ผู้ขอรับ HIVST" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="9ad1lHYUfrOg_drW5Nec-1">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-2" value="ผู้ขอรับ HIVST" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="9ad1lHYUfrOg_drW5Nec-1" vertex="1">
           <mxGeometry x="20" y="220" width="1050" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="-lUsb5PTf_2iHxVgVOYz-2" source="-lUsb5PTf_2iHxVgVOYz-47" target="-lUsb5PTf_2iHxVgVOYz-17">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="-lUsb5PTf_2iHxVgVOYz-2" source="-lUsb5PTf_2iHxVgVOYz-47" target="-lUsb5PTf_2iHxVgVOYz-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="106" as="sourcePoint" />
             <Array as="points">
@@ -2702,7 +2739,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-lUsb5PTf_2iHxVgVOYz-2" source="-lUsb5PTf_2iHxVgVOYz-47" target="-lUsb5PTf_2iHxVgVOYz-18">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="-lUsb5PTf_2iHxVgVOYz-2" source="-lUsb5PTf_2iHxVgVOYz-47" target="-lUsb5PTf_2iHxVgVOYz-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="106" as="sourcePoint" />
             <Array as="points">
@@ -2710,64 +2747,64 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-lUsb5PTf_2iHxVgVOYz-2" source="-lUsb5PTf_2iHxVgVOYz-17" target="-lUsb5PTf_2iHxVgVOYz-27">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="-lUsb5PTf_2iHxVgVOYz-2" source="-lUsb5PTf_2iHxVgVOYz-17" target="-lUsb5PTf_2iHxVgVOYz-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-17" value="ผลเป็นบวก" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-lUsb5PTf_2iHxVgVOYz-2">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-17" value="ผลเป็นบวก" style="rounded=0;whiteSpace=wrap;html=1;" parent="-lUsb5PTf_2iHxVgVOYz-2" vertex="1">
           <mxGeometry x="270" y="50" width="100" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-lUsb5PTf_2iHxVgVOYz-2" source="-lUsb5PTf_2iHxVgVOYz-18" target="-lUsb5PTf_2iHxVgVOYz-34">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="-lUsb5PTf_2iHxVgVOYz-2" source="-lUsb5PTf_2iHxVgVOYz-18" target="-lUsb5PTf_2iHxVgVOYz-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-18" value="ผลเป็นลบ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-lUsb5PTf_2iHxVgVOYz-2">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-18" value="ผลเป็นลบ" style="rounded=0;whiteSpace=wrap;html=1;" parent="-lUsb5PTf_2iHxVgVOYz-2" vertex="1">
           <mxGeometry x="270" y="110" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-lUsb5PTf_2iHxVgVOYz-2" source="-lUsb5PTf_2iHxVgVOYz-27" target="-lUsb5PTf_2iHxVgVOYz-30">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="-lUsb5PTf_2iHxVgVOYz-2" source="-lUsb5PTf_2iHxVgVOYz-27" target="-lUsb5PTf_2iHxVgVOYz-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-27" value="รับการตรวจยืนยันการติดเชื้อที่สถานพยาบาล" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-lUsb5PTf_2iHxVgVOYz-2">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-27" value="รับการตรวจยืนยันการติดเชื้อที่สถานพยาบาล" style="rounded=0;whiteSpace=wrap;html=1;" parent="-lUsb5PTf_2iHxVgVOYz-2" vertex="1">
           <mxGeometry x="420" y="50" width="130" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="-lUsb5PTf_2iHxVgVOYz-2" source="-lUsb5PTf_2iHxVgVOYz-30" target="-lUsb5PTf_2iHxVgVOYz-32">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="-lUsb5PTf_2iHxVgVOYz-2" source="-lUsb5PTf_2iHxVgVOYz-30" target="-lUsb5PTf_2iHxVgVOYz-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-30" value="ผลเป็นบวก" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-lUsb5PTf_2iHxVgVOYz-2">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-30" value="ผลเป็นบวก" style="rounded=0;whiteSpace=wrap;html=1;" parent="-lUsb5PTf_2iHxVgVOYz-2" vertex="1">
           <mxGeometry x="600" y="50" width="100" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-32" value="เข้ารับการรักษาที่รพ.ของรัฐฟรี" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-lUsb5PTf_2iHxVgVOYz-2">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-32" value="เข้ารับการรักษาที่รพ.ของรัฐฟรี" style="rounded=0;whiteSpace=wrap;html=1;" parent="-lUsb5PTf_2iHxVgVOYz-2" vertex="1">
           <mxGeometry x="750" y="50" width="100" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-34" value="ผู้รับการตรวจควรใส่ถุงยางทุกครั้งเพื่อป้องกัน" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-lUsb5PTf_2iHxVgVOYz-2">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-34" value="ผู้รับการตรวจควรใส่ถุงยางทุกครั้งเพื่อป้องกัน" style="rounded=0;whiteSpace=wrap;html=1;" parent="-lUsb5PTf_2iHxVgVOYz-2" vertex="1">
           <mxGeometry x="420" y="109" width="130" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-46" value="ขอรับคำปรึกษาออนไลน์และติดตาม&lt;br&gt;ผลการตรวจเอชไอวีด้วยตนเอง" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="-lUsb5PTf_2iHxVgVOYz-2">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-46" value="ขอรับคำปรึกษาออนไลน์และติดตาม&lt;br&gt;ผลการตรวจเอชไอวีด้วยตนเอง" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="-lUsb5PTf_2iHxVgVOYz-2" vertex="1">
           <mxGeometry x="40" y="170" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-47" value="ลงทะเบียนขอรับชุดตรวจออนไลน์&lt;br&gt;เพื่อตรวจคัดกรองด้วยตนเอง" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="-lUsb5PTf_2iHxVgVOYz-2">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-47" value="ลงทะเบียนขอรับชุดตรวจออนไลน์&lt;br&gt;เพื่อตรวจคัดกรองด้วยตนเอง" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="-lUsb5PTf_2iHxVgVOYz-2" vertex="1">
           <mxGeometry x="40" y="80" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-50" value="สามารถศึกษาหาข้อมูลการใช้ชุดตรวจ&lt;br&gt;ได้ทางเว็บไซต์และสื่อออนไลน์" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="-lUsb5PTf_2iHxVgVOYz-2">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-50" value="สามารถศึกษาหาข้อมูลการใช้ชุดตรวจ&lt;br&gt;ได้ทางเว็บไซต์และสื่อออนไลน์" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="-lUsb5PTf_2iHxVgVOYz-2" vertex="1">
           <mxGeometry x="40" y="240" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9ad1lHYUfrOg_drW5Nec-18" value="NAP สปสช." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="9ad1lHYUfrOg_drW5Nec-1">
+        <mxCell id="9ad1lHYUfrOg_drW5Nec-18" value="NAP สปสช." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="9ad1lHYUfrOg_drW5Nec-1" vertex="1">
           <mxGeometry x="20" y="530" width="1050" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-54" value="NAP+" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="9ad1lHYUfrOg_drW5Nec-18">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-54" value="NAP+" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="9ad1lHYUfrOg_drW5Nec-18" vertex="1">
           <mxGeometry x="370" y="48.5" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I4VwUZDfaX20k7o67GHR-1" value="? เบิกจ่ายอย่างไร" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="9ad1lHYUfrOg_drW5Nec-18">
+        <mxCell id="I4VwUZDfaX20k7o67GHR-1" value="? เบิกจ่ายอย่างไร" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="9ad1lHYUfrOg_drW5Nec-18" vertex="1">
           <mxGeometry x="440" y="18" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I4VwUZDfaX20k7o67GHR-3" value="เบิกจ่ายค่าบริการจาก สปสช. &lt;br&gt;ได้ในอัตรา 100 บาทต่อครั้ง" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="9ad1lHYUfrOg_drW5Nec-18">
+        <mxCell id="I4VwUZDfaX20k7o67GHR-3" value="เบิกจ่ายค่าบริการจาก สปสช. &lt;br&gt;ได้ในอัตรา 100 บาทต่อครั้ง" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="9ad1lHYUfrOg_drW5Nec-18" vertex="1">
           <mxGeometry x="524" y="57" width="186" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="I4VwUZDfaX20k7o67GHR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9ad1lHYUfrOg_drW5Nec-18" source="I4VwUZDfaX20k7o67GHR-3" target="-lUsb5PTf_2iHxVgVOYz-54">
+        <mxCell id="I4VwUZDfaX20k7o67GHR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="9ad1lHYUfrOg_drW5Nec-18" source="I4VwUZDfaX20k7o67GHR-3" target="-lUsb5PTf_2iHxVgVOYz-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9ad1lHYUfrOg_drW5Nec-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="9ad1lHYUfrOg_drW5Nec-1" source="9ad1lHYUfrOg_drW5Nec-3" target="9ad1lHYUfrOg_drW5Nec-7">
+        <mxCell id="9ad1lHYUfrOg_drW5Nec-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="9ad1lHYUfrOg_drW5Nec-1" target="9ad1lHYUfrOg_drW5Nec-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9ad1lHYUfrOg_drW5Nec-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="9ad1lHYUfrOg_drW5Nec-1" source="9ad1lHYUfrOg_drW5Nec-4" target="9ad1lHYUfrOg_drW5Nec-7">
+        <mxCell id="9ad1lHYUfrOg_drW5Nec-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="9ad1lHYUfrOg_drW5Nec-1" target="9ad1lHYUfrOg_drW5Nec-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="448" y="110" />
@@ -2775,7 +2812,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="9ad1lHYUfrOg_drW5Nec-1" source="-lUsb5PTf_2iHxVgVOYz-47" target="-lUsb5PTf_2iHxVgVOYz-4">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="9ad1lHYUfrOg_drW5Nec-1" source="-lUsb5PTf_2iHxVgVOYz-47" target="-lUsb5PTf_2iHxVgVOYz-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="145" y="301" as="sourcePoint" />
             <Array as="points">
@@ -2784,7 +2821,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9ad1lHYUfrOg_drW5Nec-1" source="-lUsb5PTf_2iHxVgVOYz-4" target="-lUsb5PTf_2iHxVgVOYz-46">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="9ad1lHYUfrOg_drW5Nec-1" source="-lUsb5PTf_2iHxVgVOYz-4" target="-lUsb5PTf_2iHxVgVOYz-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="415" as="targetPoint" />
             <Array as="points">
@@ -2794,7 +2831,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-lUsb5PTf_2iHxVgVOYz-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9ad1lHYUfrOg_drW5Nec-1" source="-lUsb5PTf_2iHxVgVOYz-48" target="-lUsb5PTf_2iHxVgVOYz-50">
+        <mxCell id="-lUsb5PTf_2iHxVgVOYz-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="9ad1lHYUfrOg_drW5Nec-1" source="-lUsb5PTf_2iHxVgVOYz-48" target="-lUsb5PTf_2iHxVgVOYz-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="910" y="155" />
@@ -2802,7 +2839,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4VwUZDfaX20k7o67GHR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9ad1lHYUfrOg_drW5Nec-1" source="-lUsb5PTf_2iHxVgVOYz-4" target="I4VwUZDfaX20k7o67GHR-3">
+        <mxCell id="I4VwUZDfaX20k7o67GHR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="9ad1lHYUfrOg_drW5Nec-1" source="-lUsb5PTf_2iHxVgVOYz-4" target="I4VwUZDfaX20k7o67GHR-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="590" as="targetPoint" />
             <Array as="points">
@@ -2812,23 +2849,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n_J2WQZRprSgcKqKbLLS-1" value="มาตรการ:&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;ลดจำนวนผู้ติดเชื้อเอชไอวีรายใหม่ให้เหลือปีละไม่เกิน 1,000 คน ในยุทธศาสตร์แห่งชาติว่าด้วยการยุติปัญหาเอดส์ พ.ศ. 2560-2573&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="n_J2WQZRprSgcKqKbLLS-1" value="มาตรการ:&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;ลดจำนวนผู้ติดเชื้อเอชไอวีรายใหม่ให้เหลือปีละไม่เกิน 1,000 คน ในยุทธศาสตร์แห่งชาติว่าด้วยการยุติปัญหาเอดส์ พ.ศ. 2560-2573&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="1380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n_J2WQZRprSgcKqKbLLS-2" value="กลุ่มงาน:&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;กลุ่มพัฒนาระบบดูแลด้านจิตสังคม&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="n_J2WQZRprSgcKqKbLLS-2" value="กลุ่มงาน:&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;กลุ่มพัฒนาระบบดูแลด้านจิตสังคม&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="1280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n_J2WQZRprSgcKqKbLLS-3" value="กิจกรรมที่ดำเนินการ:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="n_J2WQZRprSgcKqKbLLS-3" value="กิจกรรมที่ดำเนินการ:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="40" y="110" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n_J2WQZRprSgcKqKbLLS-4" value="1. ลดการตีตราและเลือกปฏิบัติ (S&amp;amp;D) ในสถานบริการและเรือนจำ&lt;br&gt;1.1 S&amp;amp;D Survey และ PLHIV stigma index&lt;br&gt;1.2 ระบบรับเรื่องร้องเรียน CRS&lt;br&gt;2. HIV Self-Test (HIVST) ส่งเสริมการเข้าถึงชุดตรวจเอชไอวีด้วยตนเอง" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="n_J2WQZRprSgcKqKbLLS-4" value="1. ลดการตีตราและเลือกปฏิบัติ (S&amp;amp;D) ในสถานบริการและเรือนจำ&lt;br&gt;1.1 S&amp;amp;D Survey และ PLHIV stigma index&lt;br&gt;1.2 ระบบรับเรื่องร้องเรียน CRS&lt;br&gt;2. HIV Self-Test (HIVST) ส่งเสริมการเข้าถึงชุดตรวจเอชไอวีด้วยตนเอง" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="240" y="110" width="920" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="mA4aCaI9ghZePq2spICx" name="Page-14">
-    <mxGraphModel dx="1454" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
