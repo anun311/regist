@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T06:05:11.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="MXPGwUmbIRUIrxp44YB8" version="23.0.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-01-29T06:14:57.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="1Tm3gFaZSSOP2xiVAbfL" version="23.0.2" type="github" pages="16">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3907,6 +3907,9 @@
         <mxCell id="kex8Py66DvARxcWtJQYT-13" value="พบอาการเสี่ยงของตนเอง" style="rounded=0;whiteSpace=wrap;html=1;" parent="xdQdQJ3sJ8sWxc2ml_ay-2" vertex="1">
           <mxGeometry x="69" y="20" width="171" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="Zw3NH8tSoCTyHBJ6yUD2-1" value="Refer จาก รพ.อื่น" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xdQdQJ3sJ8sWxc2ml_ay-2">
+          <mxGeometry x="69" y="70" width="171" height="35" as="geometry" />
+        </mxCell>
         <mxCell id="xdQdQJ3sJ8sWxc2ml_ay-21" value="กองด่านฯ/สปคม." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="xdQdQJ3sJ8sWxc2ml_ay-1" vertex="1">
           <mxGeometry x="20" y="120" width="1550" height="140" as="geometry" />
         </mxCell>
@@ -3998,6 +4001,14 @@
         </mxCell>
         <mxCell id="kex8Py66DvARxcWtJQYT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;" parent="xdQdQJ3sJ8sWxc2ml_ay-1" source="kex8Py66DvARxcWtJQYT-13" target="kex8Py66DvARxcWtJQYT-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zw3NH8tSoCTyHBJ6yUD2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xdQdQJ3sJ8sWxc2ml_ay-1" source="Zw3NH8tSoCTyHBJ6yUD2-1" target="kex8Py66DvARxcWtJQYT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zw3NH8tSoCTyHBJ6yUD2-3" value="&amp;nbsp;ใบส่งตัว + Refer&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Zw3NH8tSoCTyHBJ6yUD2-2">
+          <mxGeometry x="-0.5981" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
