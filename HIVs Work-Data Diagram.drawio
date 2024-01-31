@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T05:13:38.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="r-67uynqqnntVHi0rru-" version="23.0.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-01-31T05:21:40.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="TMCiuqnfP8wzaSMYMkI8" version="23.0.2" type="github" pages="17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -494,7 +494,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="IndexPartner" id="HAeoyOpSyOvsjUOocYrg">
-    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hd3hHbkQDl4NFfRmFZ6i-0" />
         <mxCell id="hd3hHbkQDl4NFfRmFZ6i-1" parent="hd3hHbkQDl4NFfRmFZ6i-0" />
@@ -694,7 +694,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Youth" id="YElmQMGVYzcu0724_LoY">
-    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="cJ1jjzPTOVkGGwvJorsa-0" />
         <mxCell id="cJ1jjzPTOVkGGwvJorsa-1" parent="cJ1jjzPTOVkGGwvJorsa-0" />
@@ -900,7 +900,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="HIV-STI CBO" id="lrJ89-tV9HtVQSkqFPLJ">
-    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Nn14FdTr8zLbjzrpoFZO-0" />
         <mxCell id="Nn14FdTr8zLbjzrpoFZO-1" parent="Nn14FdTr8zLbjzrpoFZO-0" />
@@ -1066,7 +1066,7 @@
         </mxCell>
         <UserObject label="" link="data:page/id,prtHgNgQTEPvFCAcTncT" id="Nn14FdTr8zLbjzrpoFZO-49">
           <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="Nn14FdTr8zLbjzrpoFZO-1" vertex="1">
-            <mxGeometry x="217" y="151" width="20" height="20" as="geometry" />
+            <mxGeometry x="217" y="156" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
@@ -1099,7 +1099,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ztBoviu12mS1saKHsjOD-12" value="&lt;div style=&quot;border-color: var(--border-color); font-family: Helvetica;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;วางแผนนโยบายเชิงรุก&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-family: Tahoma;&quot;&gt;ออกมาตรการในการป้องกัน&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;สร้างความร่วมมือภาคีเครือข่ายทำงานในการดำเนินงาน&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;align=left;shadow=0;" parent="T6aSSnGmNiAHYtmEzD1L-12" vertex="1">
-          <mxGeometry x="510" y="33.75" width="200" height="68.5" as="geometry" />
+          <mxGeometry x="510" y="34.75" width="200" height="68.5" as="geometry" />
         </mxCell>
         <mxCell id="eicqEzkdTa1knMCLulM4-1" value="ติดตามข้อมูลการเข้าถึงและ&lt;br style=&quot;border-color: var(--border-color); font-family: Tahoma;&quot;&gt;&lt;span style=&quot;font-family: Tahoma;&quot;&gt;การรับบริการในกลุ่ม PWID&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-family: Tahoma;&quot;&gt;&lt;span style=&quot;font-family: Tahoma;&quot;&gt;*ใช้ข้อมูลทางด้านวิชาการเพื่อการป้องกัน&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="T6aSSnGmNiAHYtmEzD1L-12" vertex="1">
           <mxGeometry x="120" y="43" width="240" height="50" as="geometry" />
