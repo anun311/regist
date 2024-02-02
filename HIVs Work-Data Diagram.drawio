@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T07:37:33.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="q9G6-tNxx9J2DcM_5Xfl" version="23.0.2" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2024-02-02T07:45:55.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="cgWwQ5WICXYmHC8N9huU" version="23.0.2" type="github" pages="19">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4776,8 +4776,8 @@
         <mxCell id="3Sfll4tMEJFT2wZgI-6k-4" value="กิจกรรมที่ดำเนินการ:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1;fontSize=18;" vertex="1" parent="3Sfll4tMEJFT2wZgI-6k-1">
           <mxGeometry x="40" y="180" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3Sfll4tMEJFT2wZgI-6k-5" value="1.&amp;nbsp;ด้านข้อมูลนำข้อมูลจากหลายแหล่งมาวิเคราะห์ ศึกษา วิจัย พัฒนานโยบาย กำหนดมาตรฐานเพื่อเฝ้าระวัง ป้องกัน และควบคุมโรคติดต่อทางเพศสัมพันธ์ และตรวจสอบคุณภาพของข้อมูล&lt;br&gt;2.&amp;nbsp;ขับเคลื่อน ผลักดันชุดสิทธิประโยชน์ เช่น ชุดคัดกรองซิฟิลิสในเยาวชนที่มีพฤติกรรมเสี่ยง (กำลังพิจารณาในคณะกรรมการ 7x7, 8x8)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" vertex="1" parent="3Sfll4tMEJFT2wZgI-6k-1">
-          <mxGeometry x="240" y="180" width="1510" height="60" as="geometry" />
+        <mxCell id="3Sfll4tMEJFT2wZgI-6k-5" value="ตัวชี้วัดที่เกี่ยวข้อง คือ หน่วยบริการจะต้องผ่านเกณฑ์คุณภาพมาตรฐาน 1 แห่งต่อ 1 จังหวัดในปี 2573 ปัจจุบันอยู่ที่ 30 จังหวัด (ซึ่งท่านรองฯ ปรับให้เข้มข้นขึ้น ในปี 67 ทั้ง 77 จังหวัดจะต้องผ่านมาตรฐานอย่างน้อย 1 แห่ง)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" vertex="1" parent="3Sfll4tMEJFT2wZgI-6k-1">
+          <mxGeometry x="240" y="180" width="740" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Sfll4tMEJFT2wZgI-6k-6" value="STIs ภาพรวม" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="3Sfll4tMEJFT2wZgI-6k-1">
           <mxGeometry x="40" y="280" width="1690" height="920" as="geometry" />
