@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T05:20:04.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="4fjMFyZ5yjWb7jx3YwYR" version="23.0.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-02-02T05:35:18.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="EVWfF3d_P_SQlJ7fgrRO" version="23.0.2" type="github" pages="18">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4548,7 +4548,7 @@
         <mxCell id="HKHuyHqJmKAy7VtSExPv-80" value="อัพเดทข้อมูลการสอบสวน CS &lt;br&gt;เพิ่มเติม" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-37">
           <mxGeometry x="1330" y="36.25" width="180" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="HKHuyHqJmKAy7VtSExPv-82" value="ผลการ Verify ข้อมูล CS&lt;br&gt;จำนวนเคส ยืนยัน+เข้าข่าย+อื่นๆ&lt;br&gt;ในระดับจังหวัด" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-37">
+        <mxCell id="HKHuyHqJmKAy7VtSExPv-82" value="ผลการ Verify ข้อมูล CS&lt;br&gt;เพื่อการติดตามรักษาผู้ป่วย" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-37">
           <mxGeometry x="1015" y="38.75" width="180" height="55" as="geometry" />
         </mxCell>
         <mxCell id="nTYBbGfaSIOWh54hQM69-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ztTCHGRzsxHvlV5YcPn9-1" source="nTYBbGfaSIOWh54hQM69-4" target="ztTCHGRzsxHvlV5YcPn9-38">
