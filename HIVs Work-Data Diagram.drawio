@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T04:03:14.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="0aj7oQN8MZYoHLglsx1n" version="23.0.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-02-02T04:06:55.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="VcJt8dSiEs0lnttnhu3J" version="23.0.2" type="github" pages="18">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4348,7 +4348,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QYmphPY1WdzI6DyX2Cd-" name="STIs_7โรค">
-    <mxGraphModel dx="2037" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4482,6 +4482,9 @@
         <mxCell id="HKHuyHqJmKAy7VtSExPv-3" value="สถิติรายงาน เพื่อกำกับและติดตามตัวชี้วัดภายใต้ยุทธศาสตร์ (GAM/WHO)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-12">
           <mxGeometry x="857" y="120" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HKHuyHqJmKAy7VtSExPv-39" value="รวบรวมข้อมูล Listing&lt;br&gt;case เผ้าระวัง" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.14285714285714285;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-12">
+          <mxGeometry x="1130" y="55" width="150" height="55" as="geometry" />
+        </mxCell>
         <mxCell id="ztTCHGRzsxHvlV5YcPn9-23" value="สคร." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-1">
           <mxGeometry x="20" y="560" width="1550" height="130" as="geometry" />
         </mxCell>
@@ -4537,7 +4540,7 @@
         </mxCell>
         <mxCell id="Xwu6uwy1nhR7cknXnvNg-18" value="ส่งข้อมูลมา&lt;br&gt;2 ครั้ง/ปี" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xwu6uwy1nhR7cknXnvNg-15">
           <mxGeometry x="-0.451" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="134" as="offset" />
+            <mxPoint x="-1" y="80" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xwu6uwy1nhR7cknXnvNg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ztTCHGRzsxHvlV5YcPn9-1" source="nTYBbGfaSIOWh54hQM69-9" target="Xwu6uwy1nhR7cknXnvNg-4">
@@ -4594,6 +4597,14 @@
         <mxCell id="HKHuyHqJmKAy7VtSExPv-25" value="&amp;nbsp;ข้อมูล indirect - aggregate&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HKHuyHqJmKAy7VtSExPv-24">
           <mxGeometry x="0.1651" y="-2" relative="1" as="geometry">
             <mxPoint x="26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKHuyHqJmKAy7VtSExPv-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;" edge="1" parent="ztTCHGRzsxHvlV5YcPn9-1" source="nTYBbGfaSIOWh54hQM69-4" target="HKHuyHqJmKAy7VtSExPv-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="617" y="140" />
+              <mxPoint x="1225" y="140" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
