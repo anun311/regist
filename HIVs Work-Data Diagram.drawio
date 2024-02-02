@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T02:56:04.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="PkKebeJ4LnWpRvKfUJlO" version="23.0.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-02-02T02:58:20.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="UT5wLzf1YnVXswoMqIlE" version="23.0.2" type="github" pages="18">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4348,7 +4348,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QYmphPY1WdzI6DyX2Cd-" name="STIs_7โรค">
-    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4374,13 +4374,13 @@
           <mxGeometry x="20" y="120" width="1550" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nTYBbGfaSIOWh54hQM69-4" value="R506" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-2">
-          <mxGeometry x="910" y="30" width="80" height="50" as="geometry" />
+          <mxGeometry x="470" y="30" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nTYBbGfaSIOWh54hQM69-5" value="CS Response&lt;br&gt;System" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-2">
-          <mxGeometry x="1060" y="30" width="90" height="50" as="geometry" />
+          <mxGeometry x="610" y="30" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nTYBbGfaSIOWh54hQM69-9" value="Dashboard&lt;br&gt;งานระบาดฯ STIs" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-2">
-          <mxGeometry x="1210" y="30" width="110" height="50" as="geometry" />
+          <mxGeometry x="770" y="30" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ztTCHGRzsxHvlV5YcPn9-5" value="กลุ่มข้อมูลฯ HIV" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-1">
           <mxGeometry x="20" y="240" width="1550" height="140" as="geometry" />
@@ -4397,7 +4397,7 @@
         <mxCell id="nTYBbGfaSIOWh54hQM69-2" value="ข้อมูลจาก HDC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-5">
           <mxGeometry x="341.5" y="15" width="121" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="nTYBbGfaSIOWh54hQM69-8" value="ข้อมูล File Summary&lt;br&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.14285714285714285;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-5">
+        <mxCell id="nTYBbGfaSIOWh54hQM69-8" value="ข้อมูล File Summary&lt;br&gt;การคัดกรองทาง STIs" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.14285714285714285;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-5">
           <mxGeometry x="540" y="64" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="nTYBbGfaSIOWh54hQM69-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ztTCHGRzsxHvlV5YcPn9-5" source="nTYBbGfaSIOWh54hQM69-10" target="nTYBbGfaSIOWh54hQM69-8">
@@ -4467,6 +4467,11 @@
               <mxPoint x="635" y="390" />
               <mxPoint x="422" y="390" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xwu6uwy1nhR7cknXnvNg-13" value="&amp;nbsp; Req. ผ่านกลุ่มข้อมูลฯ&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xwu6uwy1nhR7cknXnvNg-9">
+          <mxGeometry x="-0.0301" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ztTCHGRzsxHvlV5YcPn9-6" value="บันทึกในแบบบันทึกบริการปรึกษาและ&lt;br&gt;ตรวจหาการติดเชื้อเอชไอวี (VCT form)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
