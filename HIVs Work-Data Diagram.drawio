@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T06:38:27.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="6m7dIWky7hljTH4GOtr_" version="23.0.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-02-02T06:42:35.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="krdpEgyFxYtq3rdegDJ1" version="23.0.2" type="github" pages="18">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4348,7 +4348,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QYmphPY1WdzI6DyX2Cd-" name="STIs_7โรค">
-    <mxGraphModel dx="2194" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4371,13 +4371,13 @@
           <mxGeometry x="20" width="1670" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Xwu6uwy1nhR7cknXnvNg-20" value="PHIMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" vertex="1" parent="Xwu6uwy1nhR7cknXnvNg-19">
-          <mxGeometry x="931" y="20" width="90" height="50" as="geometry" />
+          <mxGeometry x="931" y="38" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rkayo302Ui9TtS0_JVpC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Xwu6uwy1nhR7cknXnvNg-19" source="rkayo302Ui9TtS0_JVpC-7" target="Xwu6uwy1nhR7cknXnvNg-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rkayo302Ui9TtS0_JVpC-7" value="หน่วยบริการผลการตรวจซิฟิลิสในคู่ของ&lt;br&gt;หญิงตั้งครรภ์และตัวของหญิงตั้งครรภ์เอง" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="Xwu6uwy1nhR7cknXnvNg-19">
-          <mxGeometry x="560" y="25" width="252.5" height="40" as="geometry" />
+          <mxGeometry x="560" y="43" width="252.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztTCHGRzsxHvlV5YcPn9-2" value="กองระบาดฯ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-1">
           <mxGeometry x="20" y="120" width="1670" height="120" as="geometry" />
@@ -4386,10 +4386,10 @@
           <mxGeometry x="557" y="60" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nTYBbGfaSIOWh54hQM69-5" value="CS Response&lt;br&gt;System" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-2">
-          <mxGeometry x="1342" y="35" width="114" height="50" as="geometry" />
+          <mxGeometry x="1342" y="60" width="114" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nTYBbGfaSIOWh54hQM69-9" value="Dashboard&lt;br&gt;งานระบาดฯ STIs" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-2">
-          <mxGeometry x="800" y="60" width="110" height="50" as="geometry" />
+        <mxCell id="nTYBbGfaSIOWh54hQM69-9" value="Dashboard&lt;br&gt;งานระบาดฯ STIs" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.695652173913061;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-2">
+          <mxGeometry x="800" y="70" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ztTCHGRzsxHvlV5YcPn9-5" value="กลุ่มข้อมูลฯ HIV" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-1">
           <mxGeometry x="20" y="240" width="1670" height="140" as="geometry" />
@@ -4653,8 +4653,8 @@
         <mxCell id="HKHuyHqJmKAy7VtSExPv-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;" edge="1" parent="ztTCHGRzsxHvlV5YcPn9-1" source="nTYBbGfaSIOWh54hQM69-4" target="HKHuyHqJmKAy7VtSExPv-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="617" y="140" />
-              <mxPoint x="1225" y="140" />
+              <mxPoint x="617" y="150" />
+              <mxPoint x="1225" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4663,8 +4663,8 @@
             <mxPoint x="930" y="175" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1170" y="520" />
-              <mxPoint x="1170" y="160" />
-              <mxPoint x="875" y="160" />
+              <mxPoint x="1170" y="170" />
+              <mxPoint x="875" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4709,7 +4709,8 @@
         <mxCell id="rkayo302Ui9TtS0_JVpC-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=32.5;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=arc;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="ztTCHGRzsxHvlV5YcPn9-1" source="nTYBbGfaSIOWh54hQM69-5" target="rkayo302Ui9TtS0_JVpC-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1120" y="188" />
+              <mxPoint x="1362" y="210" />
+              <mxPoint x="1120" y="210" />
               <mxPoint x="1120" y="622" />
             </Array>
           </mxGeometry>
@@ -4728,7 +4729,8 @@
         <mxCell id="rkayo302Ui9TtS0_JVpC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=32.5;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=arc;" edge="1" parent="ztTCHGRzsxHvlV5YcPn9-1" source="nTYBbGfaSIOWh54hQM69-5" target="rkayo302Ui9TtS0_JVpC-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1120" y="188" />
+              <mxPoint x="1362" y="210" />
+              <mxPoint x="1120" y="210" />
               <mxPoint x="1120" y="748" />
             </Array>
           </mxGeometry>
