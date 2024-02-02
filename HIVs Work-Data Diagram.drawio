@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T06:37:00.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="7yqaXcfCXPm_d2ErvBnE" version="23.0.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-02-02T06:38:27.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="6m7dIWky7hljTH4GOtr_" version="23.0.2" type="github" pages="18">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4365,7 +4365,7 @@
           <mxGeometry x="240" y="180" width="1510" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ztTCHGRzsxHvlV5YcPn9-1" value="STIs ภาพรวม" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="60" y="320" width="1690" height="920" as="geometry" />
+          <mxGeometry x="40" y="280" width="1690" height="920" as="geometry" />
         </mxCell>
         <mxCell id="Xwu6uwy1nhR7cknXnvNg-19" value="กรมอนามัย" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="ztTCHGRzsxHvlV5YcPn9-1">
           <mxGeometry x="20" width="1670" height="120" as="geometry" />
