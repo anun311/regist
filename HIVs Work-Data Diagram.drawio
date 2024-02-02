@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T10:12:11.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="n3J-o-NiurlN0qV-6egq" version="23.0.2" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2024-02-02T10:13:05.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="gEgMU7tzkUv9P0uoQ_oF" version="23.0.2" type="github" pages="20">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
     <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5063,7 +5063,7 @@
         <mxCell id="K3bz5WhDBETpnPlY3Wwt-36" value="รวบรวม และสรุปผลการประเมินตนเอง&lt;br&gt;ของโรงพยาบาล เพื่อเตรียมลงพื้นที่&lt;br&gt;ตรวจประเมิน&amp;nbsp;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="K3bz5WhDBETpnPlY3Wwt-34">
           <mxGeometry x="282" y="25" width="235" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="qO9AKW1wpqjab2Sq9-nd-0" value="ชี้แจงถ่ายทอดนโยบาย ตัวชี้วัด และแนวทางการดำเนินงานของโครงการในระดับเขตสุขภาพ&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="K3bz5WhDBETpnPlY3Wwt-34">
+        <mxCell id="qO9AKW1wpqjab2Sq9-nd-0" value="ชี้แจงถ่ายทอดนโยบาย ตัวชี้วัด และแนวทางการดำเนินงานของโครงการในระดับจังหวัด&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="K3bz5WhDBETpnPlY3Wwt-34">
           <mxGeometry x="41" y="20" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K3bz5WhDBETpnPlY3Wwt-37" value="หน่วยบริการ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="K3bz5WhDBETpnPlY3Wwt-13">
