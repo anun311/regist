@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T04:26:32.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="aGeqbUlHuiDGl6Nfqf_Z" version="23.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-05T04:38:39.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="NcMhJ1PtKI4JAgrEFZjy" version="23.1.1" type="github" pages="4">
   <diagram name="V3" id="yXEh1oCcooy0jmx5yL8i">
-    <mxGraphModel dx="753" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1373" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="VHq7ixCyRkPFClyJ3X5i-0" />
         <mxCell id="VHq7ixCyRkPFClyJ3X5i-1" parent="VHq7ixCyRkPFClyJ3X5i-0" />
@@ -119,7 +119,7 @@
         <mxCell id="VHq7ixCyRkPFClyJ3X5i-43" value="View Report" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VHq7ixCyRkPFClyJ3X5i-40" vertex="1">
           <mxGeometry y="74" width="160" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="VHq7ixCyRkPFClyJ3X5i-44" value="Key in Data/API" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VHq7ixCyRkPFClyJ3X5i-40" vertex="1">
+        <mxCell id="VHq7ixCyRkPFClyJ3X5i-44" value="Key in Data (HIS)/API" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="VHq7ixCyRkPFClyJ3X5i-40" vertex="1">
           <mxGeometry y="98" width="160" height="24" as="geometry" />
         </mxCell>
         <mxCell id="VHq7ixCyRkPFClyJ3X5i-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;arcSize=5;fillColor=#d5e8d4;strokeColor=none;" parent="VHq7ixCyRkPFClyJ3X5i-1" vertex="1">
