@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T08:21:03.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="4yxbPYxCJFtN52kd7vvR" version="23.1.1" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2024-02-05T08:23:30.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="9M8bYtCza5HIIIR51L8_" version="23.1.1" type="github" pages="21">
   <diagram id="KAKGQjxZxqT7xyAH4dDq" name="CONTENTS">
     <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -363,7 +363,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -593,7 +593,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Back to Content" link="data:page/id,KAKGQjxZxqT7xyAH4dDq" id="WoOVvJWjWOjLisfZKi1a-1">
-          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" vertex="1" parent="1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" parent="1" vertex="1">
             <mxGeometry x="40" y="1287" width="120" height="33" as="geometry" />
           </mxCell>
         </UserObject>
@@ -601,7 +601,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7i-LERVDmYqNg7XQ0lNa" name="PrEP">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -805,36 +805,11 @@
             <mxPoint x="927" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="" link="data:page/id,prtHgNgQTEPvFCAcTncT" id="yqLF68-4ru3v1wKSKLxN-1">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="217" y="107" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,7i-LERVDmYqNg7XQ0lNa" id="yqLF68-4ru3v1wKSKLxN-2">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="217" y="128" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,HAeoyOpSyOvsjUOocYrg" id="yqLF68-4ru3v1wKSKLxN-3">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="217" y="150" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,YElmQMGVYzcu0724_LoY" id="yqLF68-4ru3v1wKSKLxN-4">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="217" y="172" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="STorro5WmvUbhvgQw9nW-6" value="&lt;b&gt;???&lt;/b&gt;&lt;br&gt;1. กลุ่มข้อมูลฯ ได้มี Action ในการเชื่อมต่อข้อมูลจาก NAP มาที่ prepthai หรือไม่?&lt;br&gt;2. กลุ่มข้อมูลฯ ได้มี Action ในการเชื่อมต่อข้อมูลจาก NGO มาที่ prepthai หรือไม่?&amp;nbsp;&amp;nbsp;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="480" y="1140" width="440" height="120" as="geometry" />
         </mxCell>
-        <UserObject label="" link="data:page/id,sw_PX0OdULZP9S-5rej-" id="cjvxp2CMJZnRRsNeI-Ql-1">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="217" y="194" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Back to Content" link="data:page/id,KAKGQjxZxqT7xyAH4dDq" id="Y-MD5vg6iFbSUTWKT2T4-1">
-          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" vertex="1" parent="1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" parent="1" vertex="1">
             <mxGeometry x="40" y="1127" width="120" height="33" as="geometry" />
           </mxCell>
         </UserObject>
@@ -842,7 +817,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="IndexPartner" id="HAeoyOpSyOvsjUOocYrg">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hd3hHbkQDl4NFfRmFZ6i-0" />
         <mxCell id="hd3hHbkQDl4NFfRmFZ6i-1" parent="hd3hHbkQDl4NFfRmFZ6i-0" />
@@ -1007,39 +982,14 @@
             <mxPoint x="907" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="" link="data:page/id,prtHgNgQTEPvFCAcTncT" id="gSM-REg7Kj62KtVbUEZ3-0">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="hd3hHbkQDl4NFfRmFZ6i-1" vertex="1">
-            <mxGeometry x="217" y="107" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,7i-LERVDmYqNg7XQ0lNa" id="gSM-REg7Kj62KtVbUEZ3-1">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="hd3hHbkQDl4NFfRmFZ6i-1" vertex="1">
-            <mxGeometry x="217" y="128" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,HAeoyOpSyOvsjUOocYrg" id="gSM-REg7Kj62KtVbUEZ3-2">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="hd3hHbkQDl4NFfRmFZ6i-1" vertex="1">
-            <mxGeometry x="217" y="150" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,YElmQMGVYzcu0724_LoY" id="gSM-REg7Kj62KtVbUEZ3-3">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="hd3hHbkQDl4NFfRmFZ6i-1" vertex="1">
-            <mxGeometry x="217" y="172" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="9v4CaL5_7gW5cO8myuor-0" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Index testing สามารถเพิ่มการเข้ารับบริการตรวจเลือดและช่วยหาคู่ที่ยังไม่ทราบสถานะการติดเชื้อเอชไอวีเพื่อส่งเข้ารับบริการที่เหมาะสม โดยเน้นผู้รับบริการเป็นศูนย์กลาง&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1;fontSize=18;" parent="hd3hHbkQDl4NFfRmFZ6i-1" vertex="1">
           <mxGeometry x="790" y="910" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9v4CaL5_7gW5cO8myuor-1" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;เข้าสู่บริการปรึกษาและตรวจหาการติดเชื้อเอชไอวีด้วยความสมัครใจ สนับสนุนการบรรลุเป้าหมายที่ให้อย่างน้อย ร้อยละ 95 ของผู้ติดเชื้อเอชไอวีได้ทราบสถานะของตนเอง และส่งต่อเข้าสู่บริการป้องกันและการดูแลรักษาด้วยยาต้านเอชไอวีโดยเร็ว&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1;fontSize=18;" parent="hd3hHbkQDl4NFfRmFZ6i-1" vertex="1">
           <mxGeometry x="1080" y="910" width="400" height="120" as="geometry" />
         </mxCell>
-        <UserObject label="" link="data:page/id,sw_PX0OdULZP9S-5rej-" id="RdwwWEKfONlurex_RcvI-0">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="hd3hHbkQDl4NFfRmFZ6i-1" vertex="1">
-            <mxGeometry x="217" y="194" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Back to Content" link="data:page/id,KAKGQjxZxqT7xyAH4dDq" id="nlvwSgmyFZZJErz6PJlk-1">
-          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" vertex="1" parent="hd3hHbkQDl4NFfRmFZ6i-1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" parent="hd3hHbkQDl4NFfRmFZ6i-1" vertex="1">
             <mxGeometry x="40" y="850" width="120" height="33" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1047,7 +997,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Youth" id="YElmQMGVYzcu0724_LoY">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="cJ1jjzPTOVkGGwvJorsa-0" />
         <mxCell id="cJ1jjzPTOVkGGwvJorsa-1" parent="cJ1jjzPTOVkGGwvJorsa-0" />
@@ -1224,33 +1174,8 @@
             <mxPoint x="927" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="" link="data:page/id,prtHgNgQTEPvFCAcTncT" id="-V9-MbFD9puJCGfIvYkS-0">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="cJ1jjzPTOVkGGwvJorsa-1" vertex="1">
-            <mxGeometry x="217" y="107" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,7i-LERVDmYqNg7XQ0lNa" id="-V9-MbFD9puJCGfIvYkS-1">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="cJ1jjzPTOVkGGwvJorsa-1" vertex="1">
-            <mxGeometry x="217" y="128" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,HAeoyOpSyOvsjUOocYrg" id="-V9-MbFD9puJCGfIvYkS-2">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="cJ1jjzPTOVkGGwvJorsa-1" vertex="1">
-            <mxGeometry x="217" y="150" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,YElmQMGVYzcu0724_LoY" id="-V9-MbFD9puJCGfIvYkS-3">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="cJ1jjzPTOVkGGwvJorsa-1" vertex="1">
-            <mxGeometry x="217" y="172" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,sw_PX0OdULZP9S-5rej-" id="ADuM1V4u1HilQFJqfDDZ-0">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="cJ1jjzPTOVkGGwvJorsa-1" vertex="1">
-            <mxGeometry x="217" y="194" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Back to Content" link="data:page/id,KAKGQjxZxqT7xyAH4dDq" id="TvR-jXhnTMe8dIpjc_bt-0">
-          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" vertex="1" parent="cJ1jjzPTOVkGGwvJorsa-1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" parent="cJ1jjzPTOVkGGwvJorsa-1" vertex="1">
             <mxGeometry x="40" y="927" width="120" height="33" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1258,7 +1183,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="HIV-STI CBO" id="lrJ89-tV9HtVQSkqFPLJ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Nn14FdTr8zLbjzrpoFZO-0" />
         <mxCell id="Nn14FdTr8zLbjzrpoFZO-1" parent="Nn14FdTr8zLbjzrpoFZO-0" />
@@ -1422,13 +1347,8 @@
             <mxPoint x="927" y="805" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="" link="data:page/id,prtHgNgQTEPvFCAcTncT" id="Nn14FdTr8zLbjzrpoFZO-49">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="Nn14FdTr8zLbjzrpoFZO-1" vertex="1">
-            <mxGeometry x="217" y="156" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Back to Content" link="data:page/id,KAKGQjxZxqT7xyAH4dDq" id="RoZFI0VEvtBhmI9Ks_ct-2">
-          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" vertex="1" parent="Nn14FdTr8zLbjzrpoFZO-1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" parent="Nn14FdTr8zLbjzrpoFZO-1" vertex="1">
             <mxGeometry x="40" y="862" width="120" height="33" as="geometry" />
           </mxCell>
         </UserObject>
@@ -1568,34 +1488,9 @@
             <mxPoint x="500" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="" id="T6aSSnGmNiAHYtmEzD1L-47">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="227" y="160" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" id="T6aSSnGmNiAHYtmEzD1L-48">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="227" y="181" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" id="T6aSSnGmNiAHYtmEzD1L-49">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="227" y="203" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" id="T6aSSnGmNiAHYtmEzD1L-50">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="227" y="225" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="T6aSSnGmNiAHYtmEzD1L-51" value="เป้าหมาย:&amp;nbsp;&lt;span style=&quot;font-weight: normal;&quot;&gt;ลดการติดเชื้อเอชไอวีจากการใช้ยาเสพติดชนิดฉีด/ ใช้ข้อมูลในด้านวิชาการเพื่อป้องกันและปราบปราม&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="40" y="110" width="1280" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="" link="data:page/id,sw_PX0OdULZP9S-5rej-" id="fGLPdMEdJCxTrldJaX8H-1">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
-            <mxGeometry x="227" y="247" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Back to Content" link="data:page/id,KAKGQjxZxqT7xyAH4dDq" id="_3jCuWgvZmT2Pi_qP_4a-1">
           <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" parent="1" vertex="1">
             <mxGeometry x="40" y="970" width="120" height="33" as="geometry" />
@@ -1748,16 +1643,6 @@
             <mxPoint x="927" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="" link="data:page/id,ieHXKaeMenMnDWdi5cMU" id="-niyllS1MV-P-OdjLtQz-47">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="-niyllS1MV-P-OdjLtQz-1" vertex="1">
-            <mxGeometry x="217" y="107" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,GETrD8Qz3DSRmyxfDlfR" id="GoIWw1TAsAUrb6xgLo5n-0">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="-niyllS1MV-P-OdjLtQz-1" vertex="1">
-            <mxGeometry x="217" y="130" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="G3RLJZgGp1mmpEu7BRkt-0" value="File ข้อมูล" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.14285714285714285;" parent="-niyllS1MV-P-OdjLtQz-1" vertex="1">
           <mxGeometry x="80" y="960" width="120" height="50" as="geometry" />
         </mxCell>
@@ -1949,29 +1834,9 @@
             <mxPoint x="927" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="" link="data:page/id,ieHXKaeMenMnDWdi5cMU" id="JG4TssvTSNZUmmQYbGfG-42">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="JG4TssvTSNZUmmQYbGfG-1" vertex="1">
-            <mxGeometry x="217" y="107" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,GETrD8Qz3DSRmyxfDlfR" id="eAT4cMfOVw_7ZmXz82rA-0">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="JG4TssvTSNZUmmQYbGfG-1" vertex="1">
-            <mxGeometry x="217" y="128" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="FWKbZCL-vDvXub1yLc7V-0" value="File ข้อมูล" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.14285714285714285;" parent="JG4TssvTSNZUmmQYbGfG-1" vertex="1">
           <mxGeometry x="80" y="920" width="120" height="50" as="geometry" />
         </mxCell>
-        <UserObject label="" link="data:page/id,vF_avI1O2_EBgffRyiGz" id="t8eiADBwwlKkdxYKV9w4-0">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="JG4TssvTSNZUmmQYbGfG-1" vertex="1">
-            <mxGeometry x="217" y="150" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,f-75D2tQfF227lqAyIGQ" id="PUaCO2uUjQeYL2oMu1Zz-0">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="JG4TssvTSNZUmmQYbGfG-1" vertex="1">
-            <mxGeometry x="217" y="172" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Back to Content" link="data:page/id,KAKGQjxZxqT7xyAH4dDq" id="J3CCfk1qhp9Q-mf_KWvs-0">
           <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" parent="JG4TssvTSNZUmmQYbGfG-1" vertex="1">
             <mxGeometry x="80" y="1000" width="120" height="33" as="geometry" />
@@ -2477,32 +2342,12 @@
             <mxPoint x="897" y="975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="" link="data:page/id,ieHXKaeMenMnDWdi5cMU" id="g3hwUYn486DcRc-Vy3aH-52">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="g3hwUYn486DcRc-Vy3aH-1" vertex="1">
-            <mxGeometry x="217" y="107" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="data:page/id,GETrD8Qz3DSRmyxfDlfR" id="g3hwUYn486DcRc-Vy3aH-53">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="g3hwUYn486DcRc-Vy3aH-1" vertex="1">
-            <mxGeometry x="217" y="128" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="g3hwUYn486DcRc-Vy3aH-54" value="File ข้อมูล" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.14285714285714285;" parent="g3hwUYn486DcRc-Vy3aH-1" vertex="1">
           <mxGeometry x="45" y="1030" width="120" height="50" as="geometry" />
         </mxCell>
-        <UserObject label="" link="data:page/id,vF_avI1O2_EBgffRyiGz" id="g3hwUYn486DcRc-Vy3aH-55">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="g3hwUYn486DcRc-Vy3aH-1" vertex="1">
-            <mxGeometry x="217" y="150" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="ZYj49ILmbblLXriZ0uUK-0" value="1. โครงการราชทัณฑ์ปันสุข ทำความดีเพื่อชาติ ศาสน์ กษัตริย์ ----&amp;gt;&amp;nbsp;แผนงานตรวจเอชไอวี&lt;br&gt;2.&amp;nbsp;TB/HIV - พัฒนาระบบบริการรักษาวัณโรคระยะแฝงในกลุ่มผู้ติดเชื้อเอชไอวี&amp;nbsp;----&amp;gt;&amp;nbsp;แผนงานตรวจเอชไอวี&lt;br&gt;3. ART for Migrants&amp;nbsp;----&amp;gt;&amp;nbsp;แผนงานรักษาด้วยยาต้านไวรัสเอชไอวี&lt;br&gt;4.&amp;nbsp;THCR ระบบส่งต่อผู้ป่วย HIV และ TB ในกลุ่ม Migrants ----&amp;gt;&amp;nbsp;แผนงานรักษาด้วยยาต้านไวรัสเอชไอวี" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" parent="g3hwUYn486DcRc-Vy3aH-1" vertex="1">
           <mxGeometry x="237" y="100" width="920" height="90" as="geometry" />
         </mxCell>
-        <UserObject label="" link="data:page/id,f-75D2tQfF227lqAyIGQ" id="zs7hNWc8eCyZF_WmhuIx-0">
-          <mxCell style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="g3hwUYn486DcRc-Vy3aH-1" vertex="1">
-            <mxGeometry x="217" y="172" width="20" height="20" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Back to Content" link="data:page/id,KAKGQjxZxqT7xyAH4dDq" id="adSHD6Lw_T1n3f9k_Px3-0">
           <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" parent="g3hwUYn486DcRc-Vy3aH-1" vertex="1">
             <mxGeometry x="190" y="1047" width="120" height="33" as="geometry" />
@@ -2627,12 +2472,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hlRMGxVs_PBwWyaV-paG" name="S&amp;D">
-    <mxGraphModel dx="1358" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6x4w1WP7YHGndfD3ktrC-1" value="ลดการตีตราและเลือกปฏิบัติ (S&amp;amp;D)" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontFamily=Tahoma;strokeColor=#666666;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="40" y="244" width="2190" height="1470" as="geometry" />
+          <mxGeometry x="40" y="200" width="2190" height="1470" as="geometry" />
         </mxCell>
         <mxCell id="ALF_RrmalpKE-8n-BSKR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=17.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="6x4w1WP7YHGndfD3ktrC-1" source="voXN6wGxvl0jPE0C5IJl-1" target="KqZJfQctEoLLv3z34vFQ-10" edge="1">
           <mxGeometry relative="1" as="geometry">
