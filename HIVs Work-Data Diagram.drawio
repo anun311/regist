@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T10:13:05.097Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="gEgMU7tzkUv9P0uoQ_oF" version="23.0.2" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2024-02-05T02:20:19.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="vhAgmgq5qFi-b8FQwvYy" version="23.1.1" type="github" pages="20">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Condoms">
-    <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2124,165 +2124,75 @@
     </mxGraphModel>
   </diagram>
   <diagram name="xมาตรฐานการดูแล HIV+" id="TlYKkd3Y2K71RrRsJQt7">
-    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vpWY2n5Ex4s-y816x5JL-0" />
         <mxCell id="vpWY2n5Ex4s-y816x5JL-1" parent="vpWY2n5Ex4s-y816x5JL-0" />
         <mxCell id="vpWY2n5Ex4s-y816x5JL-2" value="มาตรฐานการดูแลรักษาเอชไอวีแบบบูรณาการ 4 โรค (AIDS, TB, STIs, Hepatitis B&amp;amp;C)" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontFamily=Tahoma;strokeColor=#666666;" parent="vpWY2n5Ex4s-y816x5JL-1" vertex="1">
-          <mxGeometry x="50" y="240" width="1370" height="710" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;startArrow=classicThin;startFill=1;" parent="vpWY2n5Ex4s-y816x5JL-2" source="vpWY2n5Ex4s-y816x5JL-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-4" value="&amp;nbsp;ผ่านหน้าเว็บ&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vpWY2n5Ex4s-y816x5JL-3" vertex="1" connectable="0">
-          <mxGeometry x="-0.8328" y="2" relative="1" as="geometry">
-            <mxPoint x="19" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vpWY2n5Ex4s-y816x5JL-2" source="vpWY2n5Ex4s-y816x5JL-21" target="vpWY2n5Ex4s-y816x5JL-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="40" y="200" width="1370" height="488" as="geometry" />
         </mxCell>
         <mxCell id="vpWY2n5Ex4s-y816x5JL-7" value="ก. Care" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="vpWY2n5Ex4s-y816x5JL-2" vertex="1">
-          <mxGeometry x="20" width="1350" height="192" as="geometry" />
+          <mxGeometry x="20" width="1350" height="180" as="geometry" />
         </mxCell>
         <mxCell id="vpWY2n5Ex4s-y816x5JL-9" value="พัฒนามาตรฐานการดูแลรักษาเอชไอวีแบบบูรณาการ 4 โรค &lt;br&gt;สำหรับให้โรงพยาบาลทุกแห่งใช้ในการดูแลผู้ติดเชื้อเอชไอวี&lt;br&gt;ให้ครอบคลุมทุกด้าน/ทุกโรคที่มีความเสี่ยงเกี่ยวข้องกัน" style="rounded=0;whiteSpace=wrap;html=1;" parent="vpWY2n5Ex4s-y816x5JL-7" vertex="1">
-          <mxGeometry x="50" y="25" width="325" height="55" as="geometry" />
+          <mxGeometry x="100" y="25" width="325" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-11" value="วิเคราะห์ผลจัดทำสถิติ&amp;nbsp;&lt;br&gt;กำกับติดตามผลดำเนินงาน&lt;br&gt;และรายงานผลการ&lt;span style=&quot;background-color: initial;&quot;&gt;ดำเนินงาน&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="vpWY2n5Ex4s-y816x5JL-7" vertex="1">
-          <mxGeometry x="810" y="30" width="230" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="vpWY2n5Ex4s-y816x5JL-7" target="vpWY2n5Ex4s-y816x5JL-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="55" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-14" value="นิเทศ กำกับ ติดตามผลการดำเนินงาน&lt;br&gt;ความก้าวหน้าของการใช้ระบบ&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="vpWY2n5Ex4s-y816x5JL-7" vertex="1">
-          <mxGeometry x="1080" y="30" width="230" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="vpWY2n5Ex4s-y816x5JL-7" source="vpWY2n5Ex4s-y816x5JL-11" target="vpWY2n5Ex4s-y816x5JL-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="995" y="80" as="sourcePoint" />
-            <mxPoint x="1290" y="150" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="l9bPK_FxqRzMxHfl00L2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=32.5;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="vpWY2n5Ex4s-y816x5JL-7" source="vpWY2n5Ex4s-y816x5JL-16" target="vpWY2n5Ex4s-y816x5JL-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vpWY2n5Ex4s-y816x5JL-16" value="????" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;fillColor=#f8cecc;strokeColor=#b85450;" parent="vpWY2n5Ex4s-y816x5JL-7" vertex="1">
-          <mxGeometry x="260" y="132" width="100" height="50" as="geometry" />
+          <mxGeometry x="100" y="120" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vpWY2n5Ex4s-y816x5JL-18" value="? ใช้ข้อมูลจากหน่วยอื่นมาวิเคราะห์มั้ย" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="vpWY2n5Ex4s-y816x5JL-7" vertex="1">
-          <mxGeometry x="205" y="108" width="210" height="30" as="geometry" />
+          <mxGeometry x="30" y="100" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l9bPK_FxqRzMxHfl00L2-11" value="วิเคราะห์ผลจาก ข้อเสนอแนะ&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;ปัญหาที่เกิดขึ้น พัฒนาแนวทางการดูแลรักษาเอชไอวีแบบบูรณาการ 4 โรค&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="vpWY2n5Ex4s-y816x5JL-7">
+          <mxGeometry x="660" y="102" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vpWY2n5Ex4s-y816x5JL-19" value="? รายงานผลที่ไหน" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="vpWY2n5Ex4s-y816x5JL-7" vertex="1">
-          <mxGeometry x="1080" y="102" width="120" height="30" as="geometry" />
+          <mxGeometry x="840" y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vpWY2n5Ex4s-y816x5JL-20" value="สคร./สสจ/พื้นที่" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="vpWY2n5Ex4s-y816x5JL-2" vertex="1">
-          <mxGeometry x="20" y="192" width="1350" height="130" as="geometry" />
+          <mxGeometry x="20" y="180" width="1350" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-21" value="ประชุมชี้แจงนโยบาย เป้าหมาย ตัวชี้วัด และ&lt;br&gt;แนวทางการดำเนินงานประจำปี ในระดับเขต จังหวัด พื้นที่ - ประเทศพื้นบ้าน&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="vpWY2n5Ex4s-y816x5JL-20" vertex="1">
-          <mxGeometry x="345" y="40" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-22" value="เรียกดูรายงานสถิติการส่งต่อ&lt;br&gt;ผู้ป่วย HIV + TB ผ่านเว็บไซต์" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="vpWY2n5Ex4s-y816x5JL-20" vertex="1">
-          <mxGeometry x="790" y="44.5" width="200" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-23" value="หน่วยบริการ ต้นทาง" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="vpWY2n5Ex4s-y816x5JL-2" vertex="1">
-          <mxGeometry x="20" y="322" width="1350" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-24" value="บันทึกข้อมูลผู้ป่วย + ส่งต่อผู้ป่วย &lt;br&gt;+ ติดตามผล" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="vpWY2n5Ex4s-y816x5JL-23" vertex="1">
-          <mxGeometry x="345" y="31" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-25" value="รพ. แม่ข่าย" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="vpWY2n5Ex4s-y816x5JL-2" vertex="1">
-          <mxGeometry x="20" y="442" width="1350" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-26" value="ประสานงาน รพ. ปลายทาง+&lt;br&gt;ติดตามการส่งต่อและการรักษา" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="vpWY2n5Ex4s-y816x5JL-25" vertex="1">
-          <mxGeometry x="345" y="45" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-27" value="หน่วยบริการ ปลายทาง" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="vpWY2n5Ex4s-y816x5JL-2" vertex="1">
-          <mxGeometry x="20" y="582" width="1350" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-28" value="บันทึกรับผู้ป่วย + ตอบกลับ +&amp;nbsp;&lt;br&gt;+ รักษาต่อเนื่อง" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="vpWY2n5Ex4s-y816x5JL-27" vertex="1">
-          <mxGeometry x="345" y="40" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-29" value="เรียกดูรายงานสถิติการส่งต่อ&lt;br&gt;ผู้ป่วย HIV + TB ผ่านเว็บไซต์" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="vpWY2n5Ex4s-y816x5JL-27" vertex="1">
-          <mxGeometry x="790" y="-202" width="200" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-30" value="เรียกดูรายงานสถิติการส่งต่อ&lt;br&gt;ผู้ป่วย HIV + TB ผ่านเว็บไซต์" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="vpWY2n5Ex4s-y816x5JL-27" vertex="1">
-          <mxGeometry x="800" y="-81.5" width="200" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-31" value="เรียกดูรายงานสถิติการส่งต่อ&lt;br&gt;ผู้ป่วย HIV + TB ผ่านเว็บไซต์" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="vpWY2n5Ex4s-y816x5JL-27" vertex="1">
-          <mxGeometry x="790" y="52.5" width="200" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="vpWY2n5Ex4s-y816x5JL-2" source="vpWY2n5Ex4s-y816x5JL-24" target="vpWY2n5Ex4s-y816x5JL-26" edge="1">
+        <mxCell id="l9bPK_FxqRzMxHfl00L2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vpWY2n5Ex4s-y816x5JL-20" source="vpWY2n5Ex4s-y816x5JL-21" target="l9bPK_FxqRzMxHfl00L2-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-33" value="&amp;nbsp;โทรประสานงาน&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vpWY2n5Ex4s-y816x5JL-32" vertex="1" connectable="0">
-          <mxGeometry x="0.009" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="vpWY2n5Ex4s-y816x5JL-21" value="ประชุมเชิงปฏิบัติการการพัฒนามาตรฐานการดูแลรักษาผู ้ติดเชื้อเอชไอวีโดยบูรณาการ 4 โรค&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="vpWY2n5Ex4s-y816x5JL-20" vertex="1">
+          <mxGeometry x="337.5" y="18" width="235" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="vpWY2n5Ex4s-y816x5JL-2" source="vpWY2n5Ex4s-y816x5JL-26" target="vpWY2n5Ex4s-y816x5JL-28" edge="1">
+        <mxCell id="l9bPK_FxqRzMxHfl00L2-4" value="จัดทำแนวทางให้แก่บุคลากรทาง&lt;br/&gt; การแพทย์ในการดูแลรักษาผู้ติดเชื้อเอชไอวี ให้ครอบคลุมใน 4 โรค เพื่อให้การรักษาเป็นไปในแนวทางเดียวกัน&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vpWY2n5Ex4s-y816x5JL-20">
+          <mxGeometry x="313.75" y="98" width="282.5" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="l9bPK_FxqRzMxHfl00L2-9" value="&lt;span style=&quot;background-color: initial;&quot;&gt;รวบรวม feedback ข้อเสนอแนะ&amp;nbsp;&lt;br&gt;หลังจากนำแนวทางไปใช้งานจริง&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="vpWY2n5Ex4s-y816x5JL-20">
+          <mxGeometry x="660" y="60" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vpWY2n5Ex4s-y816x5JL-23" value="หน่วยบริการ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="vpWY2n5Ex4s-y816x5JL-2" vertex="1">
+          <mxGeometry x="20" y="348" width="1350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="l9bPK_FxqRzMxHfl00L2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="vpWY2n5Ex4s-y816x5JL-23" source="l9bPK_FxqRzMxHfl00L2-3" target="l9bPK_FxqRzMxHfl00L2-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-35" value="&amp;nbsp;โทรประสานงาน&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vpWY2n5Ex4s-y816x5JL-34" vertex="1" connectable="0">
-          <mxGeometry x="-0.36" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="l9bPK_FxqRzMxHfl00L2-3" value="&lt;span style=&quot;background-color: initial;&quot;&gt;ดำเนินการตามแนวทาง มาตรฐานการดูแลรักษาเอชไอวีแบบบูรณาการ 4 โรค&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vpWY2n5Ex4s-y816x5JL-23">
+          <mxGeometry x="345" y="22" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="vpWY2n5Ex4s-y816x5JL-2" source="vpWY2n5Ex4s-y816x5JL-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="80" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="l9bPK_FxqRzMxHfl00L2-7" value="Feedback&amp;nbsp;การนำไปทดลองใช้ใน รพ.  &lt;br&gt;อาจจะมีข้อบกพร่องเมื่อนำไปใช้จริง&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="vpWY2n5Ex4s-y816x5JL-23">
+          <mxGeometry x="660" y="22" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-37" value="&amp;nbsp;ผ่านหน้าเว็บ&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vpWY2n5Ex4s-y816x5JL-36" vertex="1" connectable="0">
-          <mxGeometry x="-0.8208" y="-3" relative="1" as="geometry">
-            <mxPoint x="1" y="-3" as="offset" />
-          </mxGeometry>
+        <mxCell id="l9bPK_FxqRzMxHfl00L2-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="vpWY2n5Ex4s-y816x5JL-2" source="vpWY2n5Ex4s-y816x5JL-9" target="vpWY2n5Ex4s-y816x5JL-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vpWY2n5Ex4s-y816x5JL-2" source="vpWY2n5Ex4s-y816x5JL-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="80" as="targetPoint" />
-            <mxPoint x="595" y="780" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="l9bPK_FxqRzMxHfl00L2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vpWY2n5Ex4s-y816x5JL-2" source="l9bPK_FxqRzMxHfl00L2-4" target="l9bPK_FxqRzMxHfl00L2-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-39" value="&amp;nbsp;ผ่านหน้าเว็บ&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vpWY2n5Ex4s-y816x5JL-38" vertex="1" connectable="0">
-          <mxGeometry x="-0.8323" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="l9bPK_FxqRzMxHfl00L2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vpWY2n5Ex4s-y816x5JL-2" source="l9bPK_FxqRzMxHfl00L2-7" target="l9bPK_FxqRzMxHfl00L2-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-2.9;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="vpWY2n5Ex4s-y816x5JL-2" target="vpWY2n5Ex4s-y816x5JL-29" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="759.6999999999998" y="77.09999999999991" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="760" y="401" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="l9bPK_FxqRzMxHfl00L2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vpWY2n5Ex4s-y816x5JL-2" source="l9bPK_FxqRzMxHfl00L2-9" target="l9bPK_FxqRzMxHfl00L2-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-2.9;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="vpWY2n5Ex4s-y816x5JL-2" target="vpWY2n5Ex4s-y816x5JL-30" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="759.6999999999998" y="77.09999999999991" as="sourcePoint" />
-            <mxPoint x="800.3" y="441.47" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="760" y="520" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-2.9;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="vpWY2n5Ex4s-y816x5JL-2" target="vpWY2n5Ex4s-y816x5JL-31" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="759.6999999999998" y="77.09999999999991" as="sourcePoint" />
-            <mxPoint x="830" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="760" y="655" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-2.9;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="vpWY2n5Ex4s-y816x5JL-2" target="vpWY2n5Ex4s-y816x5JL-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="759.6999999999998" y="77.09999999999991" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="760" y="257" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="l9bPK_FxqRzMxHfl00L2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="vpWY2n5Ex4s-y816x5JL-2" source="l9bPK_FxqRzMxHfl00L2-11" target="vpWY2n5Ex4s-y816x5JL-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vpWY2n5Ex4s-y816x5JL-44" value="มาตรการ: &lt;span style=&quot;font-weight: normal;&quot;&gt;บทบาทหน้าที่: ศึกษา พัฒนาและกำหนดมาตรฐานและงานคุณภาพในการดูแลรักษา โรคเอดส์, ขับเคลื่อนนโยบาย กลไก และมาตรการในการพัฒนาและเสริมสร้าง ความเข้มแข็ง การเฝ้าระวัง ป้องกันและดูแลรักษาโรคเอดส์&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=1;fontSize=18;" parent="vpWY2n5Ex4s-y816x5JL-1" vertex="1">
           <mxGeometry x="40" y="70" width="1380" height="60" as="geometry" />
@@ -2294,30 +2204,30 @@
           <mxGeometry x="40" y="130" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vpWY2n5Ex4s-y816x5JL-47" value="กระทำในระบบ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="vpWY2n5Ex4s-y816x5JL-1" vertex="1">
-          <mxGeometry x="55" y="975" width="120" height="40" as="geometry" />
+          <mxGeometry x="55" y="725" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vpWY2n5Ex4s-y816x5JL-48" value="กิจกรรม/การดำเนินการ" style="rounded=0;whiteSpace=wrap;html=1;" parent="vpWY2n5Ex4s-y816x5JL-1" vertex="1">
-          <mxGeometry x="185" y="975" width="130" height="40" as="geometry" />
+          <mxGeometry x="185" y="725" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vpWY2n5Ex4s-y816x5JL-49" value="ฐานข้อมูล" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" parent="vpWY2n5Ex4s-y816x5JL-1" vertex="1">
-          <mxGeometry x="345" y="970" width="100" height="50" as="geometry" />
+          <mxGeometry x="345" y="720" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-50" value="&lt;b&gt;แหล่งที่มาของข้อมูล&lt;/b&gt;&lt;br&gt;1. หน่วยบริการต้นทาง - รพ.แม่ข่าย - ปลายทาง เป็นผู้บันทึกข้อมูลการส่งต่อผู้ป่วย TB/HIV ในระบบ thcr.ddc" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" parent="vpWY2n5Ex4s-y816x5JL-1" vertex="1">
-          <mxGeometry x="460" y="975" width="440" height="90" as="geometry" />
+        <mxCell id="vpWY2n5Ex4s-y816x5JL-50" value="&lt;b&gt;แหล่งที่มาของข้อมูล&lt;/b&gt;&lt;br&gt;1.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" parent="vpWY2n5Ex4s-y816x5JL-1" vertex="1">
+          <mxGeometry x="460" y="725" width="440" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-51" value="&lt;b&gt;แหล่งที่ไปของข้อมูล&lt;br&gt;&lt;/b&gt;1. กลุ่มแคร์ฯ วิเคราะห์ข้อมูลนั้น&amp;nbsp;เพื่อนำไปกำกับติดตามผลดำเนินงานและรายงานผลการดำเนินงาน &lt;span style=&quot;background-color: rgb(255, 204, 204);&quot;&gt;(ต้องรายงานกองทุนมั้ย)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" parent="vpWY2n5Ex4s-y816x5JL-1" vertex="1">
-          <mxGeometry x="910" y="975" width="510" height="90" as="geometry" />
+        <mxCell id="vpWY2n5Ex4s-y816x5JL-51" value="&lt;b&gt;แหล่งที่ไปของข้อมูล&lt;br&gt;&lt;/b&gt;1.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" parent="vpWY2n5Ex4s-y816x5JL-1" vertex="1">
+          <mxGeometry x="910" y="725" width="510" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vpWY2n5Ex4s-y816x5JL-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="vpWY2n5Ex4s-y816x5JL-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="897" y="1085" as="sourcePoint" />
-            <mxPoint x="897" y="975" as="targetPoint" />
+            <mxPoint x="897" y="835" as="sourcePoint" />
+            <mxPoint x="897" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vpWY2n5Ex4s-y816x5JL-55" value="File ข้อมูล" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.14285714285714285;" parent="vpWY2n5Ex4s-y816x5JL-1" vertex="1">
-          <mxGeometry x="45" y="1030" width="120" height="50" as="geometry" />
+          <mxGeometry x="45" y="780" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vpWY2n5Ex4s-y816x5JL-57" value="1.&amp;nbsp;มาตรฐานการดูแลรักษาเอชไอวีแบบบูรณาการ 4 โรค (AIDS, TB, STIs, Hepatitis B&amp;amp;C)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" parent="vpWY2n5Ex4s-y816x5JL-1" vertex="1">
+        <mxCell id="vpWY2n5Ex4s-y816x5JL-57" value="1. จัดทำแนวทาง และมาตรฐานการดูแลรักษาเอชไอวีแบบบูรณาการ 4 โรค (AIDS, TB, STIs, Hepatitis B&amp;amp;C) ในหน่วยบริการ&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" parent="vpWY2n5Ex4s-y816x5JL-1" vertex="1">
           <mxGeometry x="237" y="130" width="1163" height="100" as="geometry" />
         </mxCell>
       </root>
