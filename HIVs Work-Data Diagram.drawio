@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T07:40:02.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="GgYbubyekouILWvu0HDz" version="23.1.1" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2024-02-05T07:41:29.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="s0G23ZcybXg2OCSZmEPQ" version="23.1.1" type="github" pages="21">
   <diagram id="KAKGQjxZxqT7xyAH4dDq" name="CONTENTS">
     <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2968,6 +2968,11 @@
             <mxPoint x="910" y="1730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="Back to Content" link="data:page/id,KAKGQjxZxqT7xyAH4dDq" id="SKpm6JF9iCpkjpm8E4sV-2">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" vertex="1" parent="1">
+            <mxGeometry x="50" y="1790" width="120" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -3161,6 +3166,11 @@
         <mxCell id="n_J2WQZRprSgcKqKbLLS-4" value="1. ลดการตีตราและเลือกปฏิบัติ (S&amp;amp;D) ในสถานบริการและเรือนจำ&lt;br&gt;1.1 S&amp;amp;D Survey และ PLHIV stigma index&lt;br&gt;1.2 ระบบรับเรื่องร้องเรียน CRS&lt;br&gt;2. HIV Self-Test (HIVST) ส่งเสริมการเข้าถึงชุดตรวจเอชไอวีด้วยตนเอง" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="240" y="110" width="920" height="90" as="geometry" />
         </mxCell>
+        <UserObject label="Back to Content" link="data:page/id,KAKGQjxZxqT7xyAH4dDq" id="5Gy2N_i657k0h9xn2q3N-1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" vertex="1" parent="1">
+            <mxGeometry x="40" y="930" width="120" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -3687,6 +3697,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <UserObject label="Back to Content" link="data:page/id,KAKGQjxZxqT7xyAH4dDq" id="AkVJWxlFHn8b1dnxZOC0-1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" vertex="1" parent="1">
+            <mxGeometry x="40" y="180" width="120" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -4096,6 +4111,11 @@
         <mxCell id="IbUt8btr11I7XPnAchaR-30" value="&lt;span style=&quot;background-color: initial;&quot;&gt;สมัครขอรับuserในการเข้าดูdashboard&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3419.5" y="259.38" width="171" height="50" as="geometry" />
         </mxCell>
+        <UserObject label="Back to Content" link="data:page/id,KAKGQjxZxqT7xyAH4dDq" id="IxHsz4K2A16nXE6-Im4N-1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" vertex="1" parent="1">
+            <mxGeometry x="40" y="150" width="120" height="33" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
