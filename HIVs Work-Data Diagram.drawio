@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T07:14:47.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Ex1m7_cENs3pRkeQkoJj" version="23.1.1" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2024-02-05T07:15:57.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="XLktywzk_n4IiEvi0yQV" version="23.1.1" type="github" pages="21">
   <diagram id="KAKGQjxZxqT7xyAH4dDq" name="CONTENTS">
     <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,11 +57,13 @@
             <mxRectangle width="63" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nIQX-Oh9Cj0NbN11MFdw-14" value="โครงการราชทัณฑ์ปันสุข (โครงการในพระราชดำริฯ)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="nIQX-Oh9Cj0NbN11MFdw-12">
-          <mxGeometry x="63" width="697" height="30" as="geometry">
-            <mxRectangle width="697" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
+        <UserObject label="โครงการราชทัณฑ์ปันสุข (โครงการในพระราชดำริฯ)" link="data:page/id,ieHXKaeMenMnDWdi5cMU" id="nIQX-Oh9Cj0NbN11MFdw-14">
+          <mxCell style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="nIQX-Oh9Cj0NbN11MFdw-12">
+            <mxGeometry x="63" width="697" height="30" as="geometry">
+              <mxRectangle width="697" height="30" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
         <mxCell id="nIQX-Oh9Cj0NbN11MFdw-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="nIQX-Oh9Cj0NbN11MFdw-11">
           <mxGeometry y="60" width="760" height="30" as="geometry" />
         </mxCell>
