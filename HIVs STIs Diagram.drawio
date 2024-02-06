@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T07:41:39.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="tHB7wJUtZF2J7rAOE9hQ" version="22.1.18" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-06T06:27:56.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="FwMbIfSG3Lhl0EwsAXwW" version="23.1.1" type="github" pages="4">
   <diagram id="XUFdWhN2E5ZnEAoLLILI" name="HIVs STIs App">
-    <mxGraphModel dx="1240" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="200" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="340" width="410" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-80" value="แหล่งข้อมูลภายนอกองค์กร" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-80" value="แหล่งข้อมูลภายนอกองค์กร" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="525" y="710" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="340" width="410" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-78" value="แหล่งข้อมูลภายในองค์กร" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-78" value="แหล่งข้อมูลภายในองค์กร" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="105" y="710" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="30" width="210" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="30" width="410" height="300" as="geometry" />
         </mxCell>
         <mxCell id="yPWFvxvl_rHCcni11IY2-4" value="NAP PLUS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -52,193 +52,193 @@
         <mxCell id="yPWFvxvl_rHCcni11IY2-18" value="ฐานข้อมูล" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.121212121212125;fillColor=#FFF2CC;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="542" y="750" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-1" value="Key Pop&lt;br&gt;Size estimate" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-1" value="Key Pop&lt;br&gt;Size estimate" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="540" y="430" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-2" value="S&amp;amp;D survey" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-2" value="S&amp;amp;D survey" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="120" y="430" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-3" value="NGO-HIV" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-3" value="NGO-HIV" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="220" y="430" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-4" value="HSS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-4" value="HSS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-7" value="S&amp;amp;D survey" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-7" value="S&amp;amp;D survey" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-8" value="BSS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-8" value="BSS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="100" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-9" value="Report 506" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-9" value="Report 506" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="100" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-10" value="TPT-HIV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-10" value="TPT-HIV" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-13" value="TPT-HIV" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-13" value="TPT-HIV" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="320" y="430" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-14" value="ART for Migrant" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-14" value="ART for Migrant" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="20" y="500" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-15" value="Viral Hep B/C Screening" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-15" value="Viral Hep B/C Screening" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-17" value="Viral Hep B/C Screening" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-17" value="Viral Hep B/C Screening" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="120" y="500" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-18" value="PrEPthai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-18" value="PrEPthai" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-19" value="PrEPthai" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-19" value="PrEPthai" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="220" y="500" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-20" value="NASA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-20" value="NASA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="640" y="430" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-23" value="PHIMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-23" value="PHIMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="440" y="500" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-24" value="NTIP" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-24" value="NTIP" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="540" y="500" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-25" value="EID Testing" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-25" value="EID Testing" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="640" y="500" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-26" value="PHIMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-26" value="PHIMS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="150" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-27" value="NTIP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-27" value="NTIP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="150" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-28" value="MMT facility" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-28" value="MMT facility" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="740" y="500" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-30" value="MICS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-30" value="MICS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="440" y="570" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-31" value="NHES" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-31" value="NHES" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="540" y="570" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-32" value="e-Cascade" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-32" value="e-Cascade" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="640" y="570" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-34" value="RTF-Excel" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-34" value="RTF-Excel" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="738" y="570" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-35" value="PrEP Princess" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-35" value="PrEP Princess" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="440" y="640" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-36" value="PrEP 15" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-36" value="PrEP 15" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="540" y="640" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-37" value="PrEP Piman" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-37" value="PrEP Piman" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="640" y="640" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-38" value="Death DOPA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#B9E0A5;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-38" value="Death DOPA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#B9E0A5;" parent="1" vertex="1">
           <mxGeometry x="740" y="640" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-40" value="ราชทัณฑ์ปันสุข" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-40" value="ราชทัณฑ์ปันสุข" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="320" y="500" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-41" value="THCR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-41" value="THCR" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="100" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-42" value="THCR" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-42" value="THCR" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="20" y="570" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-43" value="ECHO ชุมชน HIVs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-43" value="ECHO ชุมชน HIVs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="100" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-44" value="ECHO ชุมชน HIVs" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-44" value="ECHO ชุมชน HIVs" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="120" y="570" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-45" value="ระบบ Telehealth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-45" value="ระบบ Telehealth" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="100" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-46" value="ระบบ Telehealth" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-46" value="ระบบ Telehealth" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="220" y="570" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-47" value="ระบบ condom ddc" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-47" value="ระบบ condom ddc" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="320" y="570" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-48" value="ระบบ condom ddc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-48" value="ระบบ condom ddc" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="100" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-49" value="ระบบ&amp;nbsp;ThaiCBO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-49" value="ระบบ&amp;nbsp;ThaiCBO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="150" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-51" value="Index partner testing" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-51" value="Index partner testing" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="20" y="640" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-52" value="ระบบ&amp;nbsp;CRS ปกป้อง" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-52" value="ระบบ&amp;nbsp;CRS ปกป้อง" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="150" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-53" value="ระบบ sdelearning" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-53" value="ระบบ sdelearning" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="120" y="640" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-54" value="ระบบ sdelearning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-54" value="ระบบ sdelearning" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="150" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-55" value="HIV E-Learning (Lab)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-55" value="HIV E-Learning (Lab)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="150" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-56" value="HIV E-Learning (Lab)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-56" value="HIV E-Learning (Lab)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="220" y="640" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-58" value="MANA Application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-58" value="MANA Application" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="200" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-59" value="ระบบแจ้งเตือน HIV Lab Alert" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-59" value="ระบบแจ้งเตือน HIV Lab Alert" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="200" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-61" value="ระบบแจ้งเตือน HIV Lab Alert" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-61" value="ระบบแจ้งเตือน HIV Lab Alert" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="200" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-62" value="HIVST Self-testing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-62" value="HIVST Self-testing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-63" value="HIVST Self-testing" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-63" value="HIVST Self-testing" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="320" y="640" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-66" value="แอพพลิเคชั่นภายในองค์กร" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-66" value="แอพพลิเคชั่นภายในองค์กร" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="105" y="300" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-67" value="แอพพลิเคชั่นภายนอกองค์กร" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-67" value="แอพพลิเคชั่นภายนอกองค์กร" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="300" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="30" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-70" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-70" value="Power BI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="50" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-71" value="Web report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-71" value="Web report" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="100" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-72" value="HIV INFO HUB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-72" value="HIV INFO HUB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="250" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-73" value="Supporting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-73" value="Supporting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="160" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-75" value="HIV INFO HUB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-75" value="HIV INFO HUB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="20" y="360" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-76" value="DAS-DDC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#B9E0A5;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-76" value="DAS-DDC" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#B9E0A5;" parent="1" vertex="1">
           <mxGeometry x="220" y="360" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-86" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-86" value="API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="300" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-87" value="API เพื่อเชื่อมโยงข้อมูลผล LAB " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-87" value="API เพื่อเชื่อมโยงข้อมูลผล LAB " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="210" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-89" value="ไฟล์ข้อมูล" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.121212121212125;fillColor=#FF9933;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-89" value="ไฟล์ข้อมูล" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.121212121212125;fillColor=#FF9933;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="640" y="750" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mp6wlyp8Qep9YMIuHo80-90" value="To BE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.121212121212125;fillColor=#B9E0A5;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="mp6wlyp8Qep9YMIuHo80-90" value="To BE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.121212121212125;fillColor=#B9E0A5;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="740" y="750" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
@@ -468,6 +468,14 @@
         <mxCell id="59" value="LEGEND" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=14;spacingLeft=0;" parent="21" vertex="1">
           <mxGeometry x="20" y="550" width="150" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QoEjFp6Tm28rlmdmd8Pa" name="STIs">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
