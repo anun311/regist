@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T09:07:41.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="IL2T7nOJ-bDx2RisadwP" version="23.1.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2024-02-07T09:37:03.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="aKDdvEGi4RbctdBo1VP5" version="23.1.1" type="github" pages="24">
   <diagram id="KAKGQjxZxqT7xyAH4dDq" name="CONTENTS">
-    <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -817,7 +817,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of PrEP" id="4d6WJql4WvPle0fVQ9oS">
-    <mxGraphModel dx="823" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LvWDh39u7KSikhQy7MA--0" />
         <mxCell id="LvWDh39u7KSikhQy7MA--1" parent="LvWDh39u7KSikhQy7MA--0" />
@@ -2028,7 +2028,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of TB/HIV" id="s8-u8PLxVUBIP4ncVuoA">
-    <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eW-zNsrf_lWYeXTDE-S3-0" />
         <mxCell id="eW-zNsrf_lWYeXTDE-S3-1" parent="eW-zNsrf_lWYeXTDE-S3-0" />
@@ -2810,7 +2810,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hlRMGxVs_PBwWyaV-paG" name="S&amp;D">
-    <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2852" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3358,7 +3358,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mA4aCaI9ghZePq2spICx" name="สร้างความเข้มแข็งระบบและศักยภาพบุคลากร">
-    <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4295,7 +4295,7 @@
           <mxGeometry x="3419.5" y="259.38" width="171" height="50" as="geometry" />
         </mxCell>
         <UserObject label="Back to Content" link="data:page/id,KAKGQjxZxqT7xyAH4dDq" id="IxHsz4K2A16nXE6-Im4N-1">
-          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" vertex="1" parent="1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" parent="1" vertex="1">
             <mxGeometry x="40" y="150" width="120" height="33" as="geometry" />
           </mxCell>
         </UserObject>
@@ -4719,7 +4719,7 @@
           <mxGeometry x="3419.5" y="259.38" width="171" height="50" as="geometry" />
         </mxCell>
         <UserObject label="Back to Content" link="data:page/id,KAKGQjxZxqT7xyAH4dDq" id="nCoEbexdFa_L1Y5yaYHF-1">
-          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" vertex="1" parent="1">
+          <mxCell style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;arcSize=50;" parent="1" vertex="1">
             <mxGeometry x="40" y="150" width="120" height="33" as="geometry" />
           </mxCell>
         </UserObject>
@@ -4727,7 +4727,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3SoyGdwHDz26y3SWIFcw" name="บำราศ">
-    <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4859,7 +4859,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QYmphPY1WdzI6DyX2Cd-" name="STIs_7โรค">
-    <mxGraphModel dx="2010" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5309,7 +5309,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="STIs_QSA" id="_7VdEeFyoQKF-C367qrY">
-    <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="3Sfll4tMEJFT2wZgI-6k-0" />
         <mxCell id="3Sfll4tMEJFT2wZgI-6k-1" parent="3Sfll4tMEJFT2wZgI-6k-0" />
@@ -5500,7 +5500,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="STIs_POPMAPs" id="0QQzQLygOzT1q-54g_gf">
-    <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="K3bz5WhDBETpnPlY3Wwt-0" />
         <mxCell id="K3bz5WhDBETpnPlY3Wwt-1" parent="K3bz5WhDBETpnPlY3Wwt-0" />
@@ -5690,6 +5690,14 @@
             <mxGeometry x="45" y="1007" width="120" height="33" as="geometry" />
           </mxCell>
         </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ks12qbmlxDd5jbJSLgTF" name="STIs_Mpox">
+    <mxGraphModel dx="2037" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
