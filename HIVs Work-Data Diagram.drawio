@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T09:08:42.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="rckVXiuVfTbCq1QogQpU" version="23.1.2" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2024-02-09T09:19:24.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="1ty1glpoy9EztY5z05yr" version="23.1.2" type="github" pages="25">
   <diagram id="KAKGQjxZxqT7xyAH4dDq" name="CONTENTS">
     <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1343,7 +1343,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="HIV-STI CBO" id="lrJ89-tV9HtVQSkqFPLJ">
-    <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1073" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Nn14FdTr8zLbjzrpoFZO-0" />
         <mxCell id="Nn14FdTr8zLbjzrpoFZO-1" parent="Nn14FdTr8zLbjzrpoFZO-0" />
@@ -1516,7 +1516,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sw_PX0OdULZP9S-5rej-" name="Harm Reduction">
-    <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1550,68 +1550,72 @@
         <mxCell id="GiHnMrt9rwj0St7Exuzi-1" value="กองระบาด" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="T6aSSnGmNiAHYtmEzD1L-1" vertex="1">
           <mxGeometry x="20" y="120" width="760" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="MLEXflSkOXeMKrkNO2do-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GiHnMrt9rwj0St7Exuzi-1" source="GiHnMrt9rwj0St7Exuzi-2" target="Fh9WJsGcg16F9itC94wW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GiHnMrt9rwj0St7Exuzi-2" value="R506" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="GiHnMrt9rwj0St7Exuzi-1" vertex="1">
-          <mxGeometry x="240" y="26.5" width="90" height="67" as="geometry" />
+          <mxGeometry x="80" y="28.26" width="90" height="63.5" as="geometry" />
         </mxCell>
         <mxCell id="Fh9WJsGcg16F9itC94wW-3" value="ข้อมูลผลการทำ survey&lt;br&gt;เกี่ยวกับ HIV ในกลุ่มประชากร" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;align=center;shadow=0;" parent="GiHnMrt9rwj0St7Exuzi-1" vertex="1">
-          <mxGeometry x="50" y="39.120000000000005" width="160" height="41.75" as="geometry" />
-        </mxCell>
-        <mxCell id="Fh9WJsGcg16F9itC94wW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="GiHnMrt9rwj0St7Exuzi-1" source="Fh9WJsGcg16F9itC94wW-3" target="GiHnMrt9rwj0St7Exuzi-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="260" y="39.13" width="160" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="PXK89FyhIbgbNRXOYGB--1" value="NAP สปสช." style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="T6aSSnGmNiAHYtmEzD1L-1" vertex="1">
           <mxGeometry x="20" y="240" width="760" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="MLEXflSkOXeMKrkNO2do-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="PXK89FyhIbgbNRXOYGB--1" source="hUhjZND1b3O5czz0TIl4-3" target="Fh9WJsGcg16F9itC94wW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hUhjZND1b3O5czz0TIl4-3" value="NAP" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="PXK89FyhIbgbNRXOYGB--1" vertex="1">
-          <mxGeometry x="240" y="26.5" width="90" height="67" as="geometry" />
+          <mxGeometry x="80" y="26.5" width="90" height="67" as="geometry" />
         </mxCell>
         <mxCell id="Fh9WJsGcg16F9itC94wW-1" value="ข้อมูลการเข้ารับบริการเชิงป้องกันของประชากรกลุ่ม PWID" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;align=center;shadow=0;" parent="PXK89FyhIbgbNRXOYGB--1" vertex="1">
-          <mxGeometry x="50" y="39.12" width="160" height="41.75" as="geometry" />
-        </mxCell>
-        <mxCell id="Fh9WJsGcg16F9itC94wW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="PXK89FyhIbgbNRXOYGB--1" source="Fh9WJsGcg16F9itC94wW-1" target="hUhjZND1b3O5czz0TIl4-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="260" y="39.12" width="160" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="FKt5-ZhtpGHj9eYUdIgT-1" value="NGO ภายนอก" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="T6aSSnGmNiAHYtmEzD1L-1" vertex="1">
           <mxGeometry x="20" y="360" width="760" height="120" as="geometry">
             <mxRectangle x="20" y="380" width="1440" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GiHnMrt9rwj0St7Exuzi-3" value="ฐานข้อมูล&lt;br&gt;กรมการแพทย์ฯ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="FKt5-ZhtpGHj9eYUdIgT-1" vertex="1">
-          <mxGeometry x="240" y="26.5" width="90" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="Fh9WJsGcg16F9itC94wW-5" value="ข้อมูลการใช้ยาเมทาโดน" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;align=center;shadow=0;" parent="FKt5-ZhtpGHj9eYUdIgT-1" vertex="1">
-          <mxGeometry x="50" y="39.120000000000005" width="160" height="41.75" as="geometry" />
-        </mxCell>
-        <mxCell id="Fh9WJsGcg16F9itC94wW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="FKt5-ZhtpGHj9eYUdIgT-1" source="Fh9WJsGcg16F9itC94wW-5" target="GiHnMrt9rwj0St7Exuzi-3" edge="1">
+        <mxCell id="MLEXflSkOXeMKrkNO2do-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="FKt5-ZhtpGHj9eYUdIgT-1" source="GiHnMrt9rwj0St7Exuzi-3" target="Fh9WJsGcg16F9itC94wW-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GiHnMrt9rwj0St7Exuzi-3" value="ฐานข้อมูล&lt;br&gt;กรมการแพทย์ฯ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="FKt5-ZhtpGHj9eYUdIgT-1" vertex="1">
+          <mxGeometry x="80" y="21.75" width="90" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Fh9WJsGcg16F9itC94wW-5" value="ข้อมูลการใช้ยาเมทาโดน" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=12;fontColor=#000000;align=center;shadow=0;" parent="FKt5-ZhtpGHj9eYUdIgT-1" vertex="1">
+          <mxGeometry x="260" y="34.38" width="160" height="41.75" as="geometry" />
+        </mxCell>
         <mxCell id="Y5PLPHotbHSE7AcCI2N6-1" value="? มีกระบวนการขอข้อมูลอย่างไร ได้ข้อมูลรูปแบบใด" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="FKt5-ZhtpGHj9eYUdIgT-1" vertex="1">
-          <mxGeometry x="340" y="63.5" width="270" height="30" as="geometry" />
+          <mxGeometry x="220" y="76.13" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ztBoviu12mS1saKHsjOD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="T6aSSnGmNiAHYtmEzD1L-1" source="GiHnMrt9rwj0St7Exuzi-2" target="eicqEzkdTa1knMCLulM4-1" edge="1">
+        <mxCell id="MLEXflSkOXeMKrkNO2do-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="T6aSSnGmNiAHYtmEzD1L-1" source="Fh9WJsGcg16F9itC94wW-5" target="eicqEzkdTa1knMCLulM4-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="68.5" as="targetPoint" />
+            <mxPoint x="260" y="100" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="180" />
-              <mxPoint x="400" y="68" />
+              <mxPoint x="460" y="415" />
+              <mxPoint x="460" y="140" />
+              <mxPoint x="260" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ztBoviu12mS1saKHsjOD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="T6aSSnGmNiAHYtmEzD1L-1" source="GiHnMrt9rwj0St7Exuzi-3" target="eicqEzkdTa1knMCLulM4-1" edge="1">
+        <mxCell id="MLEXflSkOXeMKrkNO2do-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="T6aSSnGmNiAHYtmEzD1L-1" source="Fh9WJsGcg16F9itC94wW-1" target="eicqEzkdTa1knMCLulM4-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="68.5" as="targetPoint" />
+            <mxPoint x="280" y="100" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="420" />
-              <mxPoint x="400" y="68" />
+              <mxPoint x="460" y="300" />
+              <mxPoint x="460" y="140" />
+              <mxPoint x="261" y="140" />
+              <mxPoint x="261" y="100" />
+              <mxPoint x="260" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hUhjZND1b3O5czz0TIl4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="T6aSSnGmNiAHYtmEzD1L-1" source="hUhjZND1b3O5czz0TIl4-3" target="eicqEzkdTa1knMCLulM4-1" edge="1">
+        <mxCell id="MLEXflSkOXeMKrkNO2do-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="T6aSSnGmNiAHYtmEzD1L-1" source="Fh9WJsGcg16F9itC94wW-3" target="eicqEzkdTa1knMCLulM4-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="68.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="300" />
-              <mxPoint x="400" y="68" />
+              <mxPoint x="460" y="180" />
+              <mxPoint x="460" y="140" />
+              <mxPoint x="260" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
