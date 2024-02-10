@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T08:06:45.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="uwVNaVfQL5WzNhKrYcq4" version="23.1.1" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2024-02-10T09:16:33.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="frl__ojidxcv2BZjNlfv" version="23.1.1" type="github" pages="25">
   <diagram id="KAKGQjxZxqT7xyAH4dDq" name="CONTENTS">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -832,7 +832,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of PrEP" id="4d6WJql4WvPle0fVQ9oS">
-    <mxGraphModel dx="872" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LvWDh39u7KSikhQy7MA--0" />
         <mxCell id="LvWDh39u7KSikhQy7MA--1" parent="LvWDh39u7KSikhQy7MA--0" />
@@ -1014,7 +1014,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="IndexPartner" id="HAeoyOpSyOvsjUOocYrg">
-    <mxGraphModel dx="872" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hd3hHbkQDl4NFfRmFZ6i-0" />
         <mxCell id="hd3hHbkQDl4NFfRmFZ6i-1" parent="hd3hHbkQDl4NFfRmFZ6i-0" />
@@ -1194,12 +1194,15 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Youth" id="YElmQMGVYzcu0724_LoY">
-    <mxGraphModel dx="969" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="cJ1jjzPTOVkGGwvJorsa-0" />
         <mxCell id="cJ1jjzPTOVkGGwvJorsa-1" parent="cJ1jjzPTOVkGGwvJorsa-0" />
         <mxCell id="cJ1jjzPTOVkGGwvJorsa-2" value="Youth กลุ่มเยาวชน" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontFamily=Tahoma;strokeColor=#666666;" parent="cJ1jjzPTOVkGGwvJorsa-1" vertex="1">
           <mxGeometry x="40" y="230" width="1440" height="572" as="geometry" />
+        </mxCell>
+        <mxCell id="W-DWAcb5966DVUzNCn6a-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="cJ1jjzPTOVkGGwvJorsa-2" source="FMdj6XfcWLOoJzQdvTcJ-3" target="W-DWAcb5966DVUzNCn6a-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ryh7_ac7W-ZVhYC1otN2-0" value="หน่วยบริการ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="cJ1jjzPTOVkGGwvJorsa-2" vertex="1">
           <mxGeometry x="20" width="1420" height="120" as="geometry" />
@@ -1229,7 +1232,7 @@
           <mxGeometry x="470" y="33.75" width="220" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="gLXdBWCGx3_58EHdVefy-0" value="รับข้อมูลผ่านกลุ่มข้อมูล" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="2Gn_oCHIeuXlu-hTkLWC-0" vertex="1">
-          <mxGeometry x="709" y="71" width="140" height="30" as="geometry" />
+          <mxGeometry x="740" y="70" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W-DWAcb5966DVUzNCn6a-7" value="ก. ป้องกัน" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" parent="cJ1jjzPTOVkGGwvJorsa-2" vertex="1">
           <mxGeometry x="20" y="240" width="1420" height="212" as="geometry" />
@@ -1291,9 +1294,6 @@
           <mxGeometry x="-0.1555" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="W-DWAcb5966DVUzNCn6a-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="cJ1jjzPTOVkGGwvJorsa-2" source="FMdj6XfcWLOoJzQdvTcJ-3" target="W-DWAcb5966DVUzNCn6a-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W-DWAcb5966DVUzNCn6a-25" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="cJ1jjzPTOVkGGwvJorsa-2" source="W-DWAcb5966DVUzNCn6a-18" target="W-DWAcb5966DVUzNCn6a-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1358,7 +1358,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="HIV-STI CBO" id="lrJ89-tV9HtVQSkqFPLJ">
-    <mxGraphModel dx="1073" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Nn14FdTr8zLbjzrpoFZO-0" />
         <mxCell id="Nn14FdTr8zLbjzrpoFZO-1" parent="Nn14FdTr8zLbjzrpoFZO-0" />
@@ -1679,7 +1679,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ราชทัณฑ์ปันสุข" id="ieHXKaeMenMnDWdi5cMU">
-    <mxGraphModel dx="1019" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-niyllS1MV-P-OdjLtQz-0" />
         <mxCell id="-niyllS1MV-P-OdjLtQz-1" parent="-niyllS1MV-P-OdjLtQz-0" />
@@ -1834,7 +1834,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="TB/HIV" id="GETrD8Qz3DSRmyxfDlfR">
-    <mxGraphModel dx="1019" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="JG4TssvTSNZUmmQYbGfG-0" />
         <mxCell id="JG4TssvTSNZUmmQYbGfG-1" parent="JG4TssvTSNZUmmQYbGfG-0" />
@@ -2025,7 +2025,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of TB/HIV" id="s8-u8PLxVUBIP4ncVuoA">
-    <mxGraphModel dx="1019" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eW-zNsrf_lWYeXTDE-S3-0" />
         <mxCell id="eW-zNsrf_lWYeXTDE-S3-1" parent="eW-zNsrf_lWYeXTDE-S3-0" />
@@ -2181,7 +2181,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vF_avI1O2_EBgffRyiGz" name="ART for Migrants">
-    <mxGraphModel dx="807" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2478,7 +2478,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="THCR" id="f-75D2tQfF227lqAyIGQ">
-    <mxGraphModel dx="1009" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="g3hwUYn486DcRc-Vy3aH-0" />
         <mxCell id="g3hwUYn486DcRc-Vy3aH-1" parent="g3hwUYn486DcRc-Vy3aH-0" />
@@ -2683,7 +2683,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="มาตรฐานการดูแล HIV+" id="TlYKkd3Y2K71RrRsJQt7">
-    <mxGraphModel dx="1019" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="vpWY2n5Ex4s-y816x5JL-0" />
         <mxCell id="vpWY2n5Ex4s-y816x5JL-1" parent="vpWY2n5Ex4s-y816x5JL-0" />
@@ -2798,7 +2798,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hlRMGxVs_PBwWyaV-paG" name="S&amp;D">
-    <mxGraphModel dx="1619" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3148,7 +3148,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="laMkpbczWP6aIS83xzvy" name="HIVST">
-    <mxGraphModel dx="1619" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3322,7 +3322,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fXbAJX1un-fmBI0PIwwh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=37.5;entryPerimeter=0;dashed=1;" edge="1" parent="9ad1lHYUfrOg_drW5Nec-1" source="-lUsb5PTf_2iHxVgVOYz-1" target="-lUsb5PTf_2iHxVgVOYz-54">
+        <mxCell id="fXbAJX1un-fmBI0PIwwh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=37.5;entryPerimeter=0;dashed=1;" parent="9ad1lHYUfrOg_drW5Nec-1" source="-lUsb5PTf_2iHxVgVOYz-1" target="-lUsb5PTf_2iHxVgVOYz-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="476" y="25" />
@@ -3352,7 +3352,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mA4aCaI9ghZePq2spICx" name="สร้างความเข้มแข็งระบบและศักยภาพบุคลากร">
-    <mxGraphModel dx="1619" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3879,6 +3879,9 @@
             <mxGeometry x="40" y="180" width="120" height="33" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="6ebr1lTAHjS31HgZ6drt-1" value="&lt;div&gt;การนำส่งตัวอย่างให้ห้องปฏิบัติการตรวจปริมาณเอชไอวีในกระแสเลือด จำเป็นต้องรักษาอุณหภูมิของ&lt;/div&gt;&lt;div&gt;ตัวอย่างตรวจ ซึ่งเป็นหัวใจสำคัญของการควบคุมตัวอย่างตรวจให้มีคุณภาพ เน้นการเก็บหลอดที่ตรวจปริมาณ&lt;/div&gt;&lt;div&gt;เอชไอวีเพื่อส่งตรวจหาเชื้อดื้อยา ต้องเก็บรักษาที่อุณหภูมิ ต่ำกว่าหรือเท่ากับ -20 &quot;C ห้ามใช้ช่องแช่แข็งของตู้เย็น&lt;/div&gt;&lt;div&gt;ที่เป็นระบบ No Frost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;หากมีการเปลี่ยนแปลงอุณหภูมิที่สูงขึ้นจนเกินช่วงที่กำหนดไว้ ในระหว่างการขนส่งไม่ว่าจะเกิดจากสาเหตุ&lt;/div&gt;&lt;div&gt;ใดก็ตาม ตัวอย่างตรวจที่มีปริมาณเอชไอวีใกล้เคียง 1,000 copies/mL อาจมีค่าลดต่ำลงกว่าค่าที่แท้จริง หรือต่ำจน&lt;/div&gt;&lt;div&gt;ตรวจวัดไม่ได้ ซึ่งส่งผลกระทบต่อการดูแลผู้ติดเชื้อ เช่น ไม่ได้รับคำปรึกษาเรื่องการกินยาต้านเอชไอวีอย่างสม่ำเสมอ&lt;/div&gt;&lt;div&gt;หรือไม่ได้รับการพิจารณาส่งตรวจเชื้อดื้อยาต้านเอชไอวีต่อไป การควบคุมคุณภาพตัวอย่างตรวจปริมาณเอชไอวี&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ในขั้นตอนการขนส่ง ควรมีการบันทึกการเปลี่ยนแปลงอุณหภูมิภายในกล่องบรรจุหลอดตัวอย่าง ตลอดระยะเวลา&lt;/div&gt;&lt;div&gt;การขนส่ง แทนการตรวจสอบความเย็นหรือวัดอุณหภูมิเมื่อกล่องบรรจุตัวอย่างตรวจส่งถึงห้องปฏิบัติการเท่านั้น&lt;/div&gt;&lt;div&gt;โดยสามารถใช้วิธีการบันทึกข้อมูลอุณหภูมิระหว่างการนำส่งจากอุปกรณ์บันทึกการเปลี่ยนแปลงอุณหภูมิ (Data&lt;/div&gt;&lt;div&gt;logger) ซึ่งจะแสดงให้เห็นอุณหภูมิภายในกล่องบรรจุหลอดตัวอย่างตั้งแต่ต้นทางจนถึงปลายทาง เพื่อให้&lt;/div&gt;&lt;div&gt;มั่นใจว่ามีการควบคุมอุณหภูมิตลอดเวลาระหว่างขนส่ง&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="289" width="640" height="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
