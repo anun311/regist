@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T09:16:33.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="frl__ojidxcv2BZjNlfv" version="23.1.1" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2024-02-10T11:31:56.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="6sygGb_efzVocbI56Tb6" version="23.1.1" type="github" pages="25">
   <diagram id="KAKGQjxZxqT7xyAH4dDq" name="CONTENTS">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3352,7 +3352,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mA4aCaI9ghZePq2spICx" name="สร้างความเข้มแข็งระบบและศักยภาพบุคลากร">
-    <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3880,7 +3880,10 @@
           </mxCell>
         </UserObject>
         <mxCell id="6ebr1lTAHjS31HgZ6drt-1" value="&lt;div&gt;การนำส่งตัวอย่างให้ห้องปฏิบัติการตรวจปริมาณเอชไอวีในกระแสเลือด จำเป็นต้องรักษาอุณหภูมิของ&lt;/div&gt;&lt;div&gt;ตัวอย่างตรวจ ซึ่งเป็นหัวใจสำคัญของการควบคุมตัวอย่างตรวจให้มีคุณภาพ เน้นการเก็บหลอดที่ตรวจปริมาณ&lt;/div&gt;&lt;div&gt;เอชไอวีเพื่อส่งตรวจหาเชื้อดื้อยา ต้องเก็บรักษาที่อุณหภูมิ ต่ำกว่าหรือเท่ากับ -20 &quot;C ห้ามใช้ช่องแช่แข็งของตู้เย็น&lt;/div&gt;&lt;div&gt;ที่เป็นระบบ No Frost&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;หากมีการเปลี่ยนแปลงอุณหภูมิที่สูงขึ้นจนเกินช่วงที่กำหนดไว้ ในระหว่างการขนส่งไม่ว่าจะเกิดจากสาเหตุ&lt;/div&gt;&lt;div&gt;ใดก็ตาม ตัวอย่างตรวจที่มีปริมาณเอชไอวีใกล้เคียง 1,000 copies/mL อาจมีค่าลดต่ำลงกว่าค่าที่แท้จริง หรือต่ำจน&lt;/div&gt;&lt;div&gt;ตรวจวัดไม่ได้ ซึ่งส่งผลกระทบต่อการดูแลผู้ติดเชื้อ เช่น ไม่ได้รับคำปรึกษาเรื่องการกินยาต้านเอชไอวีอย่างสม่ำเสมอ&lt;/div&gt;&lt;div&gt;หรือไม่ได้รับการพิจารณาส่งตรวจเชื้อดื้อยาต้านเอชไอวีต่อไป การควบคุมคุณภาพตัวอย่างตรวจปริมาณเอชไอวี&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ในขั้นตอนการขนส่ง ควรมีการบันทึกการเปลี่ยนแปลงอุณหภูมิภายในกล่องบรรจุหลอดตัวอย่าง ตลอดระยะเวลา&lt;/div&gt;&lt;div&gt;การขนส่ง แทนการตรวจสอบความเย็นหรือวัดอุณหภูมิเมื่อกล่องบรรจุตัวอย่างตรวจส่งถึงห้องปฏิบัติการเท่านั้น&lt;/div&gt;&lt;div&gt;โดยสามารถใช้วิธีการบันทึกข้อมูลอุณหภูมิระหว่างการนำส่งจากอุปกรณ์บันทึกการเปลี่ยนแปลงอุณหภูมิ (Data&lt;/div&gt;&lt;div&gt;logger) ซึ่งจะแสดงให้เห็นอุณหภูมิภายในกล่องบรรจุหลอดตัวอย่างตั้งแต่ต้นทางจนถึงปลายทาง เพื่อให้&lt;/div&gt;&lt;div&gt;มั่นใจว่ามีการควบคุมอุณหภูมิตลอดเวลาระหว่างขนส่ง&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="289" width="640" height="250" as="geometry" />
+          <mxGeometry x="1500" y="312.5" width="570" height="235" as="geometry" />
+        </mxCell>
+        <mxCell id="6ebr1lTAHjS31HgZ6drt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;curved=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="KMNDRdjZR74DYZknbUKV-64" target="6ebr1lTAHjS31HgZ6drt-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
