@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T06:15:14.049Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="wx0y9O1BTqol73OPAW7J" version="23.1.2" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2024-02-12T09:47:45.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="4f6_l9-9k_uzsJ7fyooD" version="23.1.2" type="github" pages="25">
   <diagram id="KAKGQjxZxqT7xyAH4dDq" name="CONTENTS">
     <mxGraphModel dx="1426" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -757,7 +757,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7i-LERVDmYqNg7XQ0lNa" name="PrEP">
-    <mxGraphModel dx="2037" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="951" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -984,23 +984,79 @@
             <mxGeometry x="50" y="1240" width="120" height="33" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="R8_DVm-YfJXsvKMwx1Br-1" value="สคร./สสจ." style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="240" width="100" height="30" as="geometry" />
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8_DVm-YfJXsvKMwx1Br-1" target="R8_DVm-YfJXsvKMwx1Br-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8_DVm-YfJXsvKMwx1Br-1" target="eI_6hsEFHZnNPeOK3Bax-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R8_DVm-YfJXsvKMwx1Br-1" value="หน่วยบริการ" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1722" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R8_DVm-YfJXsvKMwx1Br-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2026" y="316" width="134" height="90" as="geometry" />
+          <mxGeometry x="2020" y="316" width="134" height="90" as="geometry" />
         </mxCell>
         <mxCell id="R8_DVm-YfJXsvKMwx1Br-3" value="1.0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;shadow=0;glass=0;gradientColor=none;" vertex="1" parent="R8_DVm-YfJXsvKMwx1Br-2">
           <mxGeometry width="134" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="R8_DVm-YfJXsvKMwx1Br-4" value="บันทึกขอรับการสนับสนุน&lt;br&gt;ถุงยาง และสารหล่อลื่น" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R8_DVm-YfJXsvKMwx1Br-2">
+        <mxCell id="R8_DVm-YfJXsvKMwx1Br-4" value="การประเมินความเสี่ยง/&lt;br&gt;ลงทะเบียน PrEP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R8_DVm-YfJXsvKMwx1Br-2">
           <mxGeometry x="67.00142857142828" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="5xhjmopUx1uwtbzzbsy4-1" value="condom.ddc" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="505" width="100" height="30" as="geometry" />
+        <mxCell id="5xhjmopUx1uwtbzzbsy4-1" value="prepthai.net" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="380" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5xhjmopUx1uwtbzzbsy4-2" value="condom.ddc" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="560" width="100" height="30" as="geometry" />
+        <mxCell id="5xhjmopUx1uwtbzzbsy4-2" value="DAS-DDC" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="425" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-1" value="NAP" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="475" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2020" y="490" width="134" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-3" value="2.0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;shadow=0;glass=0;gradientColor=none;" vertex="1" parent="eI_6hsEFHZnNPeOK3Bax-2">
+          <mxGeometry width="134" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-4" value="การบันทึกข้อมูล&lt;br&gt;การให้บริการ PrEP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eI_6hsEFHZnNPeOK3Bax-2">
+          <mxGeometry x="67.00142857142828" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2020" y="640" width="134" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-6" value="3.0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;shadow=0;glass=0;gradientColor=none;" vertex="1" parent="eI_6hsEFHZnNPeOK3Bax-5">
+          <mxGeometry width="134" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-7" value="การส่งตรวจทาง&lt;br&gt;ห้องปฏิบัติการ PrEP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eI_6hsEFHZnNPeOK3Bax-5">
+          <mxGeometry x="67.00142857142828" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-9" value="เพิ่มข้อมูลการลงทะเบียน,&lt;br&gt;ระบุกลุ่มเป้าหมาย, ประเมินพฤติกรมเสี่ยง,&lt;br&gt;การตรวจ Lab ก่อนกินยา PrEP,&lt;br&gt;การตัดสินใจกินยา PrEP&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1829" y="185" width="201" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8_DVm-YfJXsvKMwx1Br-3" target="R8_DVm-YfJXsvKMwx1Br-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-11" value="ลงทะเบียนได้ PrEP Number" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1809" y="310" width="142" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R8_DVm-YfJXsvKMwx1Br-3" target="eI_6hsEFHZnNPeOK3Bax-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-13" value="ข้อมูลการลงทะเบียนผู้ป่วย" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eI_6hsEFHZnNPeOK3Bax-12">
+          <mxGeometry x="0.3601" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-15" value="ค้นหา PrEP Number/CID/UIC,&lt;br&gt;เพิ่มข้อมูลการให้บริการ, &lt;br&gt;ข้อมูลการรักษา ข้อมูลการจ่ายยา,&lt;br&gt;สรุปสาเหตุการหยุดยา และการนัดหมายครั้งถัดไป" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1781" y="450" width="221" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eI_6hsEFHZnNPeOK3Bax-3" target="R8_DVm-YfJXsvKMwx1Br-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-19" value="ข้อมูลพื้นฐานและ&lt;br&gt;ประวัติการรับบริการของผู้รับบริการ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="519" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eI_6hsEFHZnNPeOK3Bax-3" target="eI_6hsEFHZnNPeOK3Bax-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
