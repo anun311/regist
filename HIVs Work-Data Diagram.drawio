@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T09:47:45.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="4f6_l9-9k_uzsJ7fyooD" version="23.1.2" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2024-02-12T10:03:09.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="SWOz9Th2KDVWHU8_4kfw" version="23.1.2" type="github" pages="25">
   <diagram id="KAKGQjxZxqT7xyAH4dDq" name="CONTENTS">
     <mxGraphModel dx="1426" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -757,7 +757,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7i-LERVDmYqNg7XQ0lNa" name="PrEP">
-    <mxGraphModel dx="951" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1021,7 +1021,7 @@
           <mxGeometry x="67.00142857142828" y="50" as="geometry" />
         </mxCell>
         <mxCell id="eI_6hsEFHZnNPeOK3Bax-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2020" y="640" width="134" height="90" as="geometry" />
+          <mxGeometry x="2020" y="663" width="134" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eI_6hsEFHZnNPeOK3Bax-6" value="3.0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;shadow=0;glass=0;gradientColor=none;" vertex="1" parent="eI_6hsEFHZnNPeOK3Bax-5">
           <mxGeometry width="134" height="90" as="geometry" />
@@ -1030,7 +1030,7 @@
           <mxGeometry x="67.00142857142828" y="50" as="geometry" />
         </mxCell>
         <mxCell id="eI_6hsEFHZnNPeOK3Bax-9" value="เพิ่มข้อมูลการลงทะเบียน,&lt;br&gt;ระบุกลุ่มเป้าหมาย, ประเมินพฤติกรมเสี่ยง,&lt;br&gt;การตรวจ Lab ก่อนกินยา PrEP,&lt;br&gt;การตัดสินใจกินยา PrEP&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1829" y="185" width="201" height="70" as="geometry" />
+          <mxGeometry x="1829" y="190" width="201" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eI_6hsEFHZnNPeOK3Bax-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8_DVm-YfJXsvKMwx1Br-3" target="R8_DVm-YfJXsvKMwx1Br-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1047,7 +1047,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eI_6hsEFHZnNPeOK3Bax-15" value="ค้นหา PrEP Number/CID/UIC,&lt;br&gt;เพิ่มข้อมูลการให้บริการ, &lt;br&gt;ข้อมูลการรักษา ข้อมูลการจ่ายยา,&lt;br&gt;สรุปสาเหตุการหยุดยา และการนัดหมายครั้งถัดไป" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1781" y="450" width="221" height="60" as="geometry" />
+          <mxGeometry x="1781" y="448" width="221" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eI_6hsEFHZnNPeOK3Bax-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eI_6hsEFHZnNPeOK3Bax-3" target="R8_DVm-YfJXsvKMwx1Br-1">
           <mxGeometry relative="1" as="geometry" />
@@ -1057,6 +1057,50 @@
         </mxCell>
         <mxCell id="eI_6hsEFHZnNPeOK3Bax-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eI_6hsEFHZnNPeOK3Bax-3" target="eI_6hsEFHZnNPeOK3Bax-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-27" value="ข้อมูลการรับบริการ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eI_6hsEFHZnNPeOK3Bax-20">
+          <mxGeometry x="0.071" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eI_6hsEFHZnNPeOK3Bax-21" target="eI_6hsEFHZnNPeOK3Bax-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-21" value="หน่วยบริการ" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1722" y="623" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-24" value="ค้นหา PrEP Number/CID/UIC,&lt;br&gt;เพิ่มข้อมูลการส่งตรวจ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="597" width="221" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="eI_6hsEFHZnNPeOK3Bax-6" target="eI_6hsEFHZnNPeOK3Bax-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2002" y="776" as="sourcePoint" />
+            <mxPoint x="1729" y="488" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-26" value="ข้อมูลพื้นฐานและ&lt;br&gt;ประวัติการรับบริการของผู้รับบริการ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontStyle=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1782" y="668" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2020" y="810" width="134" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-29" value="4.0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;shadow=0;glass=0;gradientColor=none;" vertex="1" parent="eI_6hsEFHZnNPeOK3Bax-28">
+          <mxGeometry width="134" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-30" value="รายงานเคลื่อนไหว&lt;br&gt;การยริหารจัดการยา" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eI_6hsEFHZnNPeOK3Bax-28">
+          <mxGeometry x="67.00142857142828" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eI_6hsEFHZnNPeOK3Bax-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eI_6hsEFHZnNPeOK3Bax-6" target="eI_6hsEFHZnNPeOK3Bax-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w990t-qIoQff4qvcX4oH-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2020" y="960" width="134" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="w990t-qIoQff4qvcX4oH-2" value="5.0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;shadow=0;glass=0;gradientColor=none;" vertex="1" parent="w990t-qIoQff4qvcX4oH-1">
+          <mxGeometry width="134" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="w990t-qIoQff4qvcX4oH-3" value="รายงานบริการดูแลรักษา&lt;br&gt;ข้อมูลสารสนเทศ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w990t-qIoQff4qvcX4oH-1">
+          <mxGeometry x="67.00142857142828" y="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
