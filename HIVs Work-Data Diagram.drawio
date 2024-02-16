@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T08:43:08.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="TR3RkTRo6Hbzp9jJeHCG" version="23.1.4" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2024-02-16T10:50:36.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="N4AKAlhz2TUJqyxTAGwm" version="23.1.4" type="github" pages="27">
   <diagram id="KAKGQjxZxqT7xyAH4dDq" name="CONTENTS">
     <mxGraphModel dx="765" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4274,7 +4274,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dOWbUDewWdIL8YeX5YQK" name="HepB">
-    <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1585" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6370,7 +6370,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YSs2JrnCVSyyd4dWPIgD" name="วัณโรค">
-    <mxGraphModel dx="2711" dy="1371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1811" dy="2031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6649,20 +6649,218 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dsxWAzdsOY90CNDHQSjB-4" value="COVID-19 Test&lt;br&gt;RT-PCR" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="1136" width="114" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="dsxWAzdsOY90CNDHQSjB-5" value="Co-Lab MOPH" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="1106" width="114" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="dsxWAzdsOY90CNDHQSjB-6" value="MOPH Co-Vaccine" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="1070" width="114" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="dsxWAzdsOY90CNDHQSjB-2" value="TB System" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" parent="1" vertex="1">
           <mxGeometry x="2460" y="680" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dsxWAzdsOY90CNDHQSjB-3" value="Intensified TB &lt;br&gt;case finding (ICF)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" parent="1" vertex="1">
           <mxGeometry x="2585" y="680" width="114" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-75" value="การทำงานด้านโควิด 19" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1000" width="2040" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-76" value="กลุ่มไอทีวัณโรค" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-75">
+          <mxGeometry x="20" width="2020" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dsxWAzdsOY90CNDHQSjB-5" value="Co-Lab MOPH" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" parent="C1Vk18x5rh6UCXHRtQYA-76" vertex="1">
+          <mxGeometry x="680" y="46" width="114" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="dsxWAzdsOY90CNDHQSjB-6" value="MOPH Co-Vaccine" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" parent="C1Vk18x5rh6UCXHRtQYA-76" vertex="1">
+          <mxGeometry x="680" y="10" width="114" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-147" value="ส่วนกลางพัฒนาระบบสำหรับใช้ในสถานการณ์โควิด 19" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-76">
+          <mxGeometry x="460" y="32" width="169" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-76" source="C1Vk18x5rh6UCXHRtQYA-147" target="dsxWAzdsOY90CNDHQSjB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-76" source="C1Vk18x5rh6UCXHRtQYA-147" target="dsxWAzdsOY90CNDHQSjB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-132" value="ประชาชน" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-75">
+          <mxGeometry x="20" y="110" width="2020" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-2.9;exitPerimeter=0;dashed=1;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-132" source="dsxWAzdsOY90CNDHQSjB-4" target="C1Vk18x5rh6UCXHRtQYA-154">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405" y="-10" />
+              <mxPoint x="710" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-2.9;exitPerimeter=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-132" source="dsxWAzdsOY90CNDHQSjB-4" target="C1Vk18x5rh6UCXHRtQYA-179">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="406" y="-10" />
+              <mxPoint x="965" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsxWAzdsOY90CNDHQSjB-4" value="COVID-19 Test&lt;br&gt;RT-PCR" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" parent="C1Vk18x5rh6UCXHRtQYA-132" vertex="1">
+          <mxGeometry x="308" y="-82" width="114" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-145" value="กลุ่มไอทีกองฯพัฒนาเว็บไซต์&lt;br&gt;ลงทะเบียนตรวจโควิด 19 &lt;br&gt;ของกองวัณโรค" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-132">
+          <mxGeometry x="71" y="-77" width="169" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-132" source="C1Vk18x5rh6UCXHRtQYA-145" target="dsxWAzdsOY90CNDHQSjB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-132" source="C1Vk18x5rh6UCXHRtQYA-173" target="dsxWAzdsOY90CNDHQSjB-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="37" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-154" value="รับ QRCODE การจองคิวจากระบบและ&lt;br&gt;นำไปยื่นเข้ารับบริการพร้อมบัตรประชาชน" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-132">
+          <mxGeometry x="490" y="37" width="250" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-132" source="C1Vk18x5rh6UCXHRtQYA-173" target="C1Vk18x5rh6UCXHRtQYA-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-173" value="ลงทะเบียนออนไลน์สำหรับ&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;เข้ารับบริการตรวจโควิด 19" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-132">
+          <mxGeometry x="272.5" y="40" width="185" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-179" value="ดูผลการตรวจโควิด 19 ผ่านระบบ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-132">
+          <mxGeometry x="860" y="37" width="210" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-158" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Tahoma; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;หน่วยตรวจของกองวัณโรค&lt;/span&gt;" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-75">
+          <mxGeometry x="20" y="230" width="2020" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-82" value="ประชุมชี้แจงนโยบายในระดับประเทศ เพื่อรับมือสถานการณ์โควิด 19" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-158">
+          <mxGeometry x="50" y="69" width="184" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-158" source="C1Vk18x5rh6UCXHRtQYA-84" target="C1Vk18x5rh6UCXHRtQYA-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-84" value="Start" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-158">
+          <mxGeometry x="112" y="28" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-151" value="กำหนดแผนปฏิบัติงาน" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-158">
+          <mxGeometry x="270" y="69" width="184" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-158" source="C1Vk18x5rh6UCXHRtQYA-82" target="C1Vk18x5rh6UCXHRtQYA-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-158" source="C1Vk18x5rh6UCXHRtQYA-153" target="C1Vk18x5rh6UCXHRtQYA-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-153" value="เปิดให้บริการตรวจโควิด 19" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-158">
+          <mxGeometry x="523" y="69" width="184" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-158" source="C1Vk18x5rh6UCXHRtQYA-151" target="C1Vk18x5rh6UCXHRtQYA-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-158" source="C1Vk18x5rh6UCXHRtQYA-166" target="C1Vk18x5rh6UCXHRtQYA-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-166" value="เช็ครายชื่อที่ลงทะเบียนเข้ามาในระบบ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-158">
+          <mxGeometry x="760" y="69" width="184" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-158" source="C1Vk18x5rh6UCXHRtQYA-163" target="C1Vk18x5rh6UCXHRtQYA-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-163" value="ตรวจโควิด 19 แก่ประชาชน&lt;br&gt;ที่ลงทะเบียนเข้ารับบริการ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-158">
+          <mxGeometry x="980" y="69" width="184" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-177" value="เจ้าหน้าที่บันทึกผลตรวจผ่านระบบ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-158">
+          <mxGeometry x="1190" y="72" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-158" source="C1Vk18x5rh6UCXHRtQYA-198" target="C1Vk18x5rh6UCXHRtQYA-199">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-198" value="ดูข้อมูลและจำนวนการให้บริการ&lt;br&gt;ผ่านระบบ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-158">
+          <mxGeometry x="1530" y="69" width="210" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-199" value="สรุปผลการให้บริการจากข้อมูล" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-158">
+          <mxGeometry x="1770" y="69" width="184" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-185" value="ทีมให้บริการฉีดวัคซีน" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=Tahoma;strokeColor=#666666;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-75">
+          <mxGeometry x="20" y="400" width="2020" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-185" source="C1Vk18x5rh6UCXHRtQYA-186" target="C1Vk18x5rh6UCXHRtQYA-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-186" value="ประชุมชี้แจงนโยบายในระดับประเทศ เพื่อรับมือสถานการณ์โควิด 19" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-185">
+          <mxGeometry x="50" y="48" width="184" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-185" source="C1Vk18x5rh6UCXHRtQYA-188" target="C1Vk18x5rh6UCXHRtQYA-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-188" value="กำหนดแผนปฏิบัติงาน" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-185">
+          <mxGeometry x="270" y="48" width="184" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-185" source="C1Vk18x5rh6UCXHRtQYA-190" target="C1Vk18x5rh6UCXHRtQYA-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-190" value="เปิดให้บริการฉีดวีคซีนโควิด 19&lt;br&gt;และลงพื้นที่ให้บริการ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-185">
+          <mxGeometry x="515" y="48" width="184" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-193" value="เจ้าหน้าที่บันทึกข้อมูลการให้บริการ&lt;br&gt;ฉีดวัคซีนผ่านระบบ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-185">
+          <mxGeometry x="750" y="51" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-194" value="ได้รับสนับสนุนวัคซีน" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-185">
+          <mxGeometry x="50" y="110" width="184" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-204" value="ดูข้อมูลและจำนวนการให้บริการ&lt;br&gt;ผ่านระบบ" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-185">
+          <mxGeometry x="1530" y="50" width="210" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-205" value="สรุปผลการให้บริการจากข้อมูล" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C1Vk18x5rh6UCXHRtQYA-185">
+          <mxGeometry x="1770" y="50" width="184" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-185" source="C1Vk18x5rh6UCXHRtQYA-204" target="C1Vk18x5rh6UCXHRtQYA-205">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-2.9;exitPerimeter=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-75" source="dsxWAzdsOY90CNDHQSjB-4" target="C1Vk18x5rh6UCXHRtQYA-166">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="425" y="100" />
+              <mxPoint x="872" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;jumpStyle=arc;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-75" source="C1Vk18x5rh6UCXHRtQYA-177" target="dsxWAzdsOY90CNDHQSjB-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1315" y="120" />
+              <mxPoint x="385" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-75" source="C1Vk18x5rh6UCXHRtQYA-154" target="C1Vk18x5rh6UCXHRtQYA-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-75" source="C1Vk18x5rh6UCXHRtQYA-177" target="dsxWAzdsOY90CNDHQSjB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-75" source="C1Vk18x5rh6UCXHRtQYA-82" target="C1Vk18x5rh6UCXHRtQYA-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-75" source="C1Vk18x5rh6UCXHRtQYA-193" target="dsxWAzdsOY90CNDHQSjB-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1450" y="485" />
+              <mxPoint x="1450" y="35" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=28;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;jumpStyle=arc;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-75" source="dsxWAzdsOY90CNDHQSjB-5" target="C1Vk18x5rh6UCXHRtQYA-198">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NI6IKBGWxMWTHOuLzFjM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="C1Vk18x5rh6UCXHRtQYA-75" source="C1Vk18x5rh6UCXHRtQYA-204" target="dsxWAzdsOY90CNDHQSjB-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1655" y="516" />
+              <mxPoint x="1990" y="516" />
+              <mxPoint x="1990" y="-20" />
+              <mxPoint x="757" y="-20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C1Vk18x5rh6UCXHRtQYA-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;jumpStyle=arc;" edge="1" parent="1" source="dsxWAzdsOY90CNDHQSjB-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="1006" as="sourcePoint" />
+            <mxPoint x="1705" y="1300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -6782,7 +6980,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3SoyGdwHDz26y3SWIFcw" name="บำราศ">
-    <mxGraphModel dx="1407" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="634" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
