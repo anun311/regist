@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T07:53:47.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="AhygyIdLXMJtCeP2a_-N" version="23.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-16T07:54:45.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="4ajhCQljozu_UFXhA_IC" version="23.1.4" type="github" pages="3">
   <diagram name="Page-3" id="JnYSY2Wdmx5eVEM-2lre">
     <mxGraphModel dx="1666" dy="785" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="phCTr1348PRFPeB6WmN1-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;rotation=90;" vertex="1" parent="3W9OWLxvkt7WMrfKmbrc-1">
           <mxGeometry x="960" y="555" width="100" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="phCTr1348PRFPeB6WmN1-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.windowGlider;dx=0.25;rotation=90;" vertex="1" parent="3W9OWLxvkt7WMrfKmbrc-1">
+        <mxCell id="phCTr1348PRFPeB6WmN1-17" value="Smart board" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.windowGlider;dx=0.25;rotation=90;" vertex="1" parent="3W9OWLxvkt7WMrfKmbrc-1">
           <mxGeometry x="1424" y="501.34" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="phCTr1348PRFPeB6WmN1-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;rotation=90;" vertex="1" parent="3W9OWLxvkt7WMrfKmbrc-1">
@@ -103,11 +103,8 @@
         <mxCell id="o-b_okhVtbAkUOZSz3fQ-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=strokeColor;rotation=0;" vertex="1" parent="3W9OWLxvkt7WMrfKmbrc-1">
           <mxGeometry x="52" y="286" width="2.8" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="o-b_okhVtbAkUOZSz3fQ-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.windowGlider;dx=0.25;rotation=-180;" vertex="1" parent="3W9OWLxvkt7WMrfKmbrc-1">
-          <mxGeometry x="492" y="614" width="160" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="o-b_okhVtbAkUOZSz3fQ-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.windowGlider;dx=0.25;rotation=-180;" vertex="1" parent="3W9OWLxvkt7WMrfKmbrc-1">
-          <mxGeometry x="614" y="781" width="160" height="10" as="geometry" />
+        <mxCell id="o-b_okhVtbAkUOZSz3fQ-12" value="Smart board" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.windowGlider;dx=0.25;rotation=-180;" vertex="1" parent="3W9OWLxvkt7WMrfKmbrc-1">
+          <mxGeometry x="493" y="610" width="160" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
