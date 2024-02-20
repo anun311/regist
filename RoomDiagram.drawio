@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T06:11:52.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="JxxTavEW1kNrTt6hoPKv" version="23.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-20T07:23:13.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="LZ5xjSG5r4-J37oPqc0z" version="23.1.5" type="github" pages="5">
   <diagram name="Page-4" id="hab1qdLuDp6KrYGmsr37">
     <mxGraphModel dx="1426" dy="785" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -268,11 +268,8 @@
         <mxCell id="deEmBWsKKs5UWDyWo8pr-18" value="Smart board&lt;br&gt;W150 x H92.2 cm." style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.windowGlider;dx=0.5;rotation=-270;labelBackgroundColor=none;" vertex="1" parent="deEmBWsKKs5UWDyWo8pr-16">
           <mxGeometry x="-62" y="70" width="150" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="deEmBWsKKs5UWDyWo8pr-19" value="Computer&lt;br&gt;Table" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;rotation=-90;labelBackgroundColor=none;" vertex="1" parent="_wZcTNXWGWqyZw0r8FSb-1">
-          <mxGeometry x="1144" y="547.16" width="118.82" height="37.87" as="geometry" />
-        </mxCell>
-        <mxCell id="deEmBWsKKs5UWDyWo8pr-21" value="Computer&lt;br&gt;Table" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;rotation=-90;labelBackgroundColor=none;" vertex="1" parent="_wZcTNXWGWqyZw0r8FSb-1">
-          <mxGeometry x="1201" y="547.75" width="118.82" height="37.87" as="geometry" />
+        <mxCell id="5XKTNxLzk1UZZV_vDyNB-0" value="Table&lt;br&gt;75x60 cm" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;rotation=-90;labelBackgroundColor=none;" vertex="1" parent="_wZcTNXWGWqyZw0r8FSb-1">
+          <mxGeometry x="1227" y="542" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
