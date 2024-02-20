@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T06:09:05.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="40iUnksDpHoxBbkY9vSo" version="23.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-20T06:11:52.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="JxxTavEW1kNrTt6hoPKv" version="23.1.5" type="github" pages="5">
   <diagram name="Page-4" id="hab1qdLuDp6KrYGmsr37">
     <mxGraphModel dx="1426" dy="785" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -241,8 +241,8 @@
         <mxCell id="deEmBWsKKs5UWDyWo8pr-9" value="Table&lt;br&gt;180x50 cm" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;rotation=0;labelBackgroundColor=none;" vertex="1" parent="_wZcTNXWGWqyZw0r8FSb-1">
           <mxGeometry x="1311" y="390" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="deEmBWsKKs5UWDyWo8pr-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;labelBackgroundColor=none;rotation=-180;" vertex="1" parent="_wZcTNXWGWqyZw0r8FSb-1">
-          <mxGeometry x="1323" y="447.12" width="65" height="61" as="geometry" />
+        <mxCell id="deEmBWsKKs5UWDyWo8pr-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;labelBackgroundColor=none;rotation=-90;" vertex="1" parent="_wZcTNXWGWqyZw0r8FSb-1">
+          <mxGeometry x="1242" y="362" width="65" height="61" as="geometry" />
         </mxCell>
         <mxCell id="deEmBWsKKs5UWDyWo8pr-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.office_chair;labelBackgroundColor=none;rotation=90;" vertex="1" parent="_wZcTNXWGWqyZw0r8FSb-1">
           <mxGeometry x="1496" y="353.75" width="65" height="61" as="geometry" />
