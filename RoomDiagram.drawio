@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T04:18:22.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="R5KKv2_TUrs567kphciz" version="23.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-20T04:20:24.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="mBz-N16Aeps4_UctVc4Q" version="23.1.5" type="github" pages="5">
   <diagram name="Page-4" id="hab1qdLuDp6KrYGmsr37">
     <mxGraphModel dx="1426" dy="785" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -126,9 +126,6 @@
         </mxCell>
         <mxCell id="_wZcTNXWGWqyZw0r8FSb-49" value="150 cm" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;labelBackgroundColor=none;horizontal=0;spacingTop=-15;rotation=90;" vertex="1" parent="_wZcTNXWGWqyZw0r8FSb-1">
           <mxGeometry x="392" y="397.75" width="17" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="_wZcTNXWGWqyZw0r8FSb-72" value="ห้องปฏิบัติการพัฒนาแบบจำลองเสมือนจริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="_wZcTNXWGWqyZw0r8FSb-1">
-          <mxGeometry x="1292" y="580" width="227" height="23" as="geometry" />
         </mxCell>
         <mxCell id="_wZcTNXWGWqyZw0r8FSb-73" value="ห้องเอนกประสงค์เพื่อการพยากรณ์โรคและภัยสุขภาพ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="_wZcTNXWGWqyZw0r8FSb-1">
           <mxGeometry x="311" y="297" width="268" height="21" as="geometry" />
@@ -264,6 +261,9 @@
         </mxCell>
         <mxCell id="ZUMgk2wsSEVPSfP522ou-15" value="150 cm" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;labelBackgroundColor=none;horizontal=0;spacingTop=-15;rotation=0;" vertex="1" parent="_wZcTNXWGWqyZw0r8FSb-1">
           <mxGeometry x="1397" y="466" width="17" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_wZcTNXWGWqyZw0r8FSb-72" value="ห้องปฏิบัติการพัฒนาแบบจำลองเสมือนจริง" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="_wZcTNXWGWqyZw0r8FSb-1">
+          <mxGeometry x="1288.5" y="574" width="227" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
